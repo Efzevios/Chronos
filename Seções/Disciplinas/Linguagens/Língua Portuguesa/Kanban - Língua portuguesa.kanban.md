@@ -15,6 +15,7 @@
 - 13. Verbo  
 - 14. Advérbio  
 - 15. Preposição  
+- 16. Conjunção  
 
 ## Fazendo
 
