@@ -7,10 +7,8 @@
 >
 > > [!cite]- Setembro
 >
-> > [!cite]- Julho
+> > [!cite]- Outubro
 >
-> > [!cite]- Julho
+> > [!cite]- Novembro
 >
-> > [!cite]- Julho
->
-> > [!cite]- Julho
+> > [!cite]- Dezembro
