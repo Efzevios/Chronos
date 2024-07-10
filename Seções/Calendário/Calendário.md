@@ -2,7 +2,9 @@
 ---
 > [!example]+ Anuário 2024
 > > [!cite]- Julho
-> > 
+> > Column 1 | Column 2
+> > -|-
+> > | 
 >
 > > [!cite]- Agosto
 >
