@@ -21,6 +21,7 @@
 - 19. Figuras de sintaxe  
 - 20. Discurso direto, discurso indireto e discurso indireto livre  
 - 21. Pontuação  
+- 22. Noções de versificação  
 
 ## Fazendo
 
