@@ -5,4 +5,4 @@ ___
 > >  Aqui estão catalogados todos as seções do Chronos. Um modo rápido e eficiente de encontrar o quê precisa no momento que precisa.
 > 
 > > [!cite]+ Seções
-> > 01. [Calendário](/Se%C3%A7%C3%B5es%2FCalend%C3%A1rio/Calend%C3%A1rio.md): seção destinada ao acompanhamento dos meses, como também registro de eventos e tarefas futuras.
+> > > [!example]- Calendário [Calendário](/Se%C3%A7%C3%B5es%2FCalend%C3%A1rio/Calend%C3%A1rio.md): seção destinada ao acompanhamento dos meses, como também registro de eventos e tarefas futuras.
