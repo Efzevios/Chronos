@@ -6,6 +6,7 @@
 - 04. Ortografia  
 - 05. Classe, estrutura e formação de palavras  
 - 06. Derivação e composição  
+- 07. Frase, oração e período  
 
 ## Fazendo
 
