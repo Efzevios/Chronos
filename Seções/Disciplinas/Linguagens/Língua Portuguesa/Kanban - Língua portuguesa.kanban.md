@@ -19,6 +19,7 @@
 - 17. Interjeição  
 - 18. O período e sua construção  
 - 19. Figuras de sintaxe  
+- 20. Discurso direto, discurso indireto e discurso indireto livre  
 
 ## Fazendo
 
