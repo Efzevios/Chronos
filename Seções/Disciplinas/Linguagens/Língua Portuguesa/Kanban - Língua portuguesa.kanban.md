@@ -18,6 +18,7 @@
 - 16. Conjunção  
 - 17. Interjeição  
 - 18. O período e sua construção  
+- 19. Figuras de sintaxe  
 
 ## Fazendo
 
