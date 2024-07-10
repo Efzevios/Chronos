@@ -17,6 +17,7 @@
 - 15. Preposição  
 - 16. Conjunção  
 - 17. Interjeição  
+- 18. O período e sua construção  
 
 ## Fazendo
 
