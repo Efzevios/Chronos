@@ -8,6 +8,7 @@
 - 06. Derivação e composição  
 - 07. Frase, oração e período  
 - 08. Substantivo  
+- 09. Artigo  
 
 ## Fazendo
 
