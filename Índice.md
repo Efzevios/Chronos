@@ -2,4 +2,4 @@
 ___
 > [!summary] Chronos - índice
 > > [!info]- O que é?
-> >  Não há um porquê para procurar dentre as diversas pastas que aqui estão. Basta, por intermédio deste índice, chegar nos arquivos que desejas.
+> >  Aqui estão catalogados todos as seções do Chronos. Um modo rápido e eficiente de encontrar o quê precisa no momento que precisar.
