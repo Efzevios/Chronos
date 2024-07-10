@@ -10,6 +10,7 @@
 - 08. Substantivo  
 - 09. Artigo  
 - 10. Adjetivo  
+- 11. Pronomes  
 
 ## Fazendo
 
