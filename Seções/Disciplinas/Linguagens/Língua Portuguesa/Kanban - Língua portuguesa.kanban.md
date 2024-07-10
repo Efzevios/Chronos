@@ -12,6 +12,7 @@
 - 10. Adjetivo  
 - 11. Pronomes  
 - 12. Numerais  
+- 13. Verbo  
 
 ## Fazendo
 
