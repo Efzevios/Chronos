@@ -11,6 +11,7 @@
 - 09. Artigo  
 - 10. Adjetivo  
 - 11. Pronomes  
+- 12. Numerais  
 
 ## Fazendo
 
