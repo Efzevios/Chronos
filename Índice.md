@@ -5,4 +5,4 @@ ___
 > >  Aqui estão catalogados todos as seções do Chronos. Um modo rápido e eficiente de encontrar o quê precisa no momento que precisa.
 > 
 > > [!cite]+ Seções
-> 
+> >
