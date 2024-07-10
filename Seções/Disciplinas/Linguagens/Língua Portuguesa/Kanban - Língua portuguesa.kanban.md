@@ -7,6 +7,7 @@
 - 05. Classe, estrutura e formação de palavras  
 - 06. Derivação e composição  
 - 07. Frase, oração e período  
+- 08. Substantivo  
 
 ## Fazendo
 
