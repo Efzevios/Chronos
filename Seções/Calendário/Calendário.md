@@ -20,9 +20,17 @@
 > > 25 | 26 | 27 | 28 | 29 | 30 | 31 |
 >
 > > [!cite]- Setembro
+> >  Dom | Seg | Ter | Qua | Qui | Sex | Sáb
+> > -|-|-|-|-|-|-|
 >
 > > [!cite]- Outubro
+> > Dom | Seg | Ter | Qua | Qui | Sex | Sáb
+> > -|-|-|-|-|-|-|
 >
 > > [!cite]- Novembro
+> >   Dom | Seg | Ter | Qua | Qui | Sex | Sáb
+> > -|-|-|-|-|-|-|
 >
 > > [!cite]- Dezembro
+> >   Dom | Seg | Ter | Qua | Qui | Sex | Sáb
+> > -|-|-|-|-|-|-|
