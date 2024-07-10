@@ -9,6 +9,7 @@
 - 07. Frase, oração e período  
 - 08. Substantivo  
 - 09. Artigo  
+- 10. Adjetivo  
 
 ## Fazendo
 
