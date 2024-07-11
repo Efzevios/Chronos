@@ -15,7 +15,7 @@
 ## Fazendo
 
 ## Feito
-- Capítulo 01. O  que  seja verso #Poesia  
+- Capítulo 01. O  que  seja verso #Poesia #Versos #Definiçoes  
 - Capítulo 02. Dos  acentos  predominantes,  ou pausas  em geral  
 - Capítulo 03. Quantas  espécies  de  metros  há  em  língua portuguesa  
 - Capítulo 04. Versos  agudos,  graves  e  esdrúxulos  
