@@ -2,7 +2,7 @@
 - 00. Introdução - conceitos gerais #Linguagens #Portugues  
 - 01. Do latim ao português atual #Linguagens #Portugues  
 - 02. Domínio atual da língua portuguesa #Portugues #Linguagens  
-- 03. Fonética e fonologia #Linguagens #Portugues  
+- 03. Fonética e fonologia #Linguagens #Portugues #Ortografia  
 - 04. Ortografia #Linguagens #Portugues #Ortografia  
 - 05. Classe, estrutura e formação de palavras #Linguagens #Portugues #Morfologia  
 - 06. Derivação e composição #Linguagens #Portugues #Morfologia  
