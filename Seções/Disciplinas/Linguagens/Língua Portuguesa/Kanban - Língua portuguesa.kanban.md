@@ -17,7 +17,7 @@
 - 15. Preposição #Linguagens #Portugues  
 - 16. Conjunção #Linguagens #Portugues  
 - 17. Interjeição #Linguagens #Portugues  
-- 18. O período e sua construção  
+- 18. O período e sua construção #Linguagens #Portugues  
 - 19. Figuras de sintaxe  
 - 20. Discurso direto, discurso indireto e discurso indireto livre  
 - 21. Pontuação  
