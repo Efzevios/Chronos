@@ -8,7 +8,7 @@
 - 06. Derivação e composição #Linguagens #Portugues #Morfologia  
 - 07. Frase, oração e período #Linguagens #Portugues  
 - 08. Substantivo #Linguagens #Portugues #Morfologia  
-- 09. Artigo #Linguagens #Portugues  
+- 09. Artigo #Linguagens #Portugues #Morfologia  
 - 10. Adjetivo #Linguagens #Portugues  
 - 11. Pronomes #Linguagens #Portugues  
 - 12. Numerais #Linguagens #Portugues  
