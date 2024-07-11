@@ -7,7 +7,7 @@
 - 05. Classe, estrutura e formação de palavras #Linguagens #Portugues  
 - 06. Derivação e composição #Linguagens #Portugues  
 - 07. Frase, oração e período #Linguagens #Portugues  
-- 08. Substantivo  
+- 08. Substantivo #Linguagens #Portugues  
 - 09. Artigo  
 - 10. Adjetivo  
 - 11. Pronomes  
