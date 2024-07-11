@@ -8,7 +8,7 @@
 - Capítulo 16. Lexicologia #Poesia #Versos #Definiçoes #Melodia  
 - Capítulo 17. Emprego dos consoantes entre os antigos #Poesia #Versos #Definiçoes #Melodia  
 - Capítulo 18. Continuação sobre a rima dos antigos versos de sete sílabas #Poesia #Versos #Definiçoes #Melodia  
-- Capítulo 19. Das estrofes e rimas dos contemporâneos  
+- Capítulo 19. Das estrofes e rimas dos contemporâneos #Poesia #Versos #Definiçoes #Melodia  
 - Capítulo 20. Sobre a recitação dos versos  
 - Capítulo 21. Da poesia  
 
