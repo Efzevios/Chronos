@@ -1,7 +1,7 @@
 ## A Fazer
 - Capítulo 10. Dos ditongos e das vogais nazaladas #Poesia #Versos #Definiçoes #Melodia  
 - Capítulo 11. Das letras consoantes em geral #Poesia #Versos #Definiçoes #Melodia  
-- Capítulo 12. Digressão - Estatística dos sons e articulações na língua portuguesa  
+- Capítulo 12. Digressão - Estatística dos sons e articulações na língua portuguesa #Poesia #Versos #Definiçoes #Tonicidade  
 - Capítulo 13. Ampliação da teoria dos valores das vogais e consoantes  
 - Capítulo 14. Amostras e exercícios onomatópicos  
 - Capítulo 15. Novo exercício de versificação  
