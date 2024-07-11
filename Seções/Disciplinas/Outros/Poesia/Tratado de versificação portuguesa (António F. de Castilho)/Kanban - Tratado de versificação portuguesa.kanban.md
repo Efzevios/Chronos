@@ -3,7 +3,7 @@
 - Capítulo 11. Das letras consoantes em geral #Poesia #Versos #Definiçoes #Melodia  
 - Capítulo 12. Digressão - Estatística dos sons e articulações na língua portuguesa #Poesia #Versos #Definiçoes #Tonicidade  
 - Capítulo 13. Ampliação da teoria dos valores das vogais e consoantes #Poesia #Versos #Definiçoes #Melodia  
-- Capítulo 14. Amostras e exercícios onomatópicos  
+- Capítulo 14. Amostras e exercícios onomatópicos #Poesia #Versos #Melodia #Tonicidade  
 - Capítulo 15. Novo exercício de versificação  
 - Capítulo 16. Lexicologia  
 - Capítulo 17. Emprego dos consoantes entre os antigos  
