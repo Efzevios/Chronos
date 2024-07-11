@@ -16,7 +16,7 @@
 - 14. Advérbio #Portugues #Linguagens  
 - 15. Preposição #Linguagens #Portugues  
 - 16. Conjunção #Linguagens #Portugues  
-- 17. Interjeição  
+- 17. Interjeição #Linguagens #Portugues  
 - 18. O período e sua construção  
 - 19. Figuras de sintaxe  
 - 20. Discurso direto, discurso indireto e discurso indireto livre  
