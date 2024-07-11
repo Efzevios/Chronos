@@ -5,7 +5,7 @@
 - 03. Fonética e fonologia #Linguagens #Portugues  
 - 04. Ortografia #Linguagens #Portugues  
 - 05. Classe, estrutura e formação de palavras #Linguagens #Portugues  
-- 06. Derivação e composição  
+- 06. Derivação e composição #Linguagens #Portugues  
 - 07. Frase, oração e período  
 - 08. Substantivo  
 - 09. Artigo  
