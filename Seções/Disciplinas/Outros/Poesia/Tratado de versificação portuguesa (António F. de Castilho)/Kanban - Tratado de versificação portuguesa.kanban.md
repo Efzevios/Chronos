@@ -19,7 +19,7 @@
 - Capítulo 02. Dos acentos predominantes, ou pausas em geral #Poesia #Versos #Tonicidade  
 - Capítulo 03. Quantas espécies de metros há em língua portuguesa #Poesia #Versos #Definiçoes  
 - Capítulo 04. Versos  agudos,  graves  e  esdrúxulos #Poesia #Versos #Definiçoes #Tonicidade  
-- Capítulo 05. Dos  metros  simples  e  compostos  em geral  
+- Capítulo 05. Dos  metros  simples  e  compostos  em geral #Poesia #Versos #Definiçoes  
 - Capítulo 06. Primeiro exercício métrico  
 - Capítulo 07. Dispensável digressão sobre a índole da língua portuguesa em relação aos metros  
 - Capítulo 08. Observações sobre a melodia dos versos  
