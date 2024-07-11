@@ -10,7 +10,7 @@
 - 08. Substantivo #Linguagens #Portugues  
 - 09. Artigo #Linguagens #Portugues  
 - 10. Adjetivo #Linguagens #Portugues  
-- 11. Pronomes  
+- 11. Pronomes #Linguagens #Portugues  
 - 12. Numerais  
 - 13. Verbo  
 - 14. Advérbio  
