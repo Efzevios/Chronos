@@ -22,5 +22,5 @@
 - Capítulo 05. Dos  metros  simples  e  compostos  em geral #Poesia #Versos #Definiçoes  
 - Capítulo 06. Primeiro exercício métrico #Poesia #Exercicio  
 - Capítulo 07. Dispensável digressão sobre a índole da língua portuguesa em relação aos metros #Poesia #Versos #Definiçoes  
-- Capítulo 08. Observações sobre a melodia dos versos  
+- Capítulo 08. Observações sobre a melodia dos versos #Poesia #Versos #Melodia  
 - Capítulo 09. Tentativa sobre cada uma das letras do alfabeto  
