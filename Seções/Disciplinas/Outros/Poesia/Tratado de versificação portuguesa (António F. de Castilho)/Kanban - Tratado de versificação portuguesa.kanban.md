@@ -16,7 +16,7 @@
 
 ## Feito
 - Capítulo 01. O  que  seja verso #Poesia #Versos #Definiçoes  
-- Capítulo 02. Dos  acentos  predominantes,  ou pausas  em geral  
+- Capítulo 02. Dos acentos predominantes, ou pausas em geral #Poesia #Versos #Tonicidade  
 - Capítulo 03. Quantas  espécies  de  metros  há  em  língua portuguesa  
 - Capítulo 04. Versos  agudos,  graves  e  esdrúxulos  
 - Capítulo 05. Dos  metros  simples  e  compostos  em geral  
