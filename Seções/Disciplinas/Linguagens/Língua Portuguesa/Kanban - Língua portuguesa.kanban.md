@@ -19,7 +19,7 @@
 - 17. Interjeição #Linguagens #Portugues  
 - 18. O período e sua construção #Linguagens #Portugues  
 - 19. Figuras de sintaxe #Linguagens #Portugues  
-- 20. Discurso direto, discurso indireto e discurso indireto livre  
+- 20. Discurso direto, discurso indireto e discurso indireto livre #Linguagens #Portugues  
 - 21. Pontuação  
 - 22. Noções de versificação  
 
