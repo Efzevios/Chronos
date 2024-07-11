@@ -11,7 +11,7 @@
 - 09. Artigo #Linguagens #Portugues  
 - 10. Adjetivo #Linguagens #Portugues  
 - 11. Pronomes #Linguagens #Portugues  
-- 12. Numerais  
+- 12. Numerais #Linguagens #Portugues  
 - 13. Verbo  
 - 14. Advérbio  
 - 15. Preposição  
