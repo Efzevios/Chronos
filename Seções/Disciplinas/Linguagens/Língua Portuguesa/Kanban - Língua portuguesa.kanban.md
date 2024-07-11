@@ -14,7 +14,7 @@
 - 12. Numerais #Linguagens #Portugues #Morfologia  
 - 13. Verbo #Linguagens #Portugues #Morfologia  
 - 14. Advérbio #Portugues #Linguagens #Morfologia  
-- 15. Preposição #Linguagens #Portugues  
+- 15. Preposição #Linguagens #Portugues #Morfologia  
 - 16. Conjunção #Linguagens #Portugues  
 - 17. Interjeição #Linguagens #Portugues  
 - 18. O período e sua construção #Linguagens #Portugues  
