@@ -9,7 +9,7 @@
 - 07. Frase, oração e período #Linguagens #Portugues  
 - 08. Substantivo #Linguagens #Portugues  
 - 09. Artigo #Linguagens #Portugues  
-- 10. Adjetivo  
+- 10. Adjetivo #Linguagens #Portugues  
 - 11. Pronomes  
 - 12. Numerais  
 - 13. Verbo  
