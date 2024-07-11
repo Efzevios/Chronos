@@ -5,7 +5,7 @@
 - Capítulo 13. Ampliação da teoria dos valores das vogais e consoantes #Poesia #Versos #Definiçoes #Melodia  
 - Capítulo 14. Amostras e exercícios onomatópicos #Poesia #Versos #Melodia #Tonicidade  
 - Capítulo 15. Novo exercício de versificação #Exercicio #Poesia #Versos  
-- Capítulo 16. Lexicologia  
+- Capítulo 16. Lexicologia #Poesia #Versos #Definiçoes #Melodia  
 - Capítulo 17. Emprego dos consoantes entre os antigos  
 - Capítulo 18. Continuação sobre a rima dos antigos versos de sete sílabas  
 - Capítulo 19. Das estrofes e rimas dos contemporâneos  
