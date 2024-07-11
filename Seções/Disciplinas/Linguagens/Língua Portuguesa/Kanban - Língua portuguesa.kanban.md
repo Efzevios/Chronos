@@ -12,7 +12,7 @@
 - 10. Adjetivo #Linguagens #Portugues #Morfologia  
 - 11. Pronomes #Linguagens #Portugues #Morfologia  
 - 12. Numerais #Linguagens #Portugues #Morfologia  
-- 13. Verbo #Linguagens #Portugues  
+- 13. Verbo #Linguagens #Portugues #Morfologia  
 - 14. Advérbio #Portugues #Linguagens  
 - 15. Preposição #Linguagens #Portugues  
 - 16. Conjunção #Linguagens #Portugues  
