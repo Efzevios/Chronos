@@ -18,7 +18,7 @@
 - 16. Conjunção #Linguagens #Portugues #Morfologia  
 - 17. Interjeição #Linguagens #Portugues #Morfologia  
 - 18. O período e sua construção #Linguagens #Portugues #Sintaxe  
-- 19. Figuras de sintaxe #Linguagens #Portugues  
+- 19. Figuras de sintaxe #Linguagens #Portugues #Sintaxe  
 - 20. Discurso direto, discurso indireto e discurso indireto livre #Linguagens #Portugues  
 - 21. Pontuação #Linguagens #Portugues  
 - 22. Noções de versificação #Linguagens #Portugues  
