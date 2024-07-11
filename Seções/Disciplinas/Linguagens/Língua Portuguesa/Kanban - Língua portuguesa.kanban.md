@@ -3,7 +3,7 @@
 - 01. Do latim ao português atual #Linguagens #Portugues  
 - 02. Domínio atual da língua portuguesa #Portugues #Linguagens  
 - 03. Fonética e fonologia #Linguagens #Portugues  
-- 04. Ortografia  
+- 04. Ortografia #Linguagens #Portugues  
 - 05. Classe, estrutura e formação de palavras  
 - 06. Derivação e composição  
 - 07. Frase, oração e período  
