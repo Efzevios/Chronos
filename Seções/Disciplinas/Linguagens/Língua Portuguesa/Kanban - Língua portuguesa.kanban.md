@@ -21,7 +21,7 @@
 - 19. Figuras de sintaxe #Linguagens #Portugues #Sintaxe  
 - 20. Discurso direto, discurso indireto e discurso indireto livre #Linguagens #Portugues  
 - 21. Pontuação #Linguagens #Portugues #Ortografia  
-- 22. Noções de versificação #Linguagens #Portugues  
+- 22. Noções de versificação #Linguagens #Portugues #Poesia  
 
 ## Fazendo
 
