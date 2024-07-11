@@ -4,7 +4,7 @@
 - 02. Domínio atual da língua portuguesa #Portugues #Linguagens  
 - 03. Fonética e fonologia #Linguagens #Portugues  
 - 04. Ortografia #Linguagens #Portugues  
-- 05. Classe, estrutura e formação de palavras #Linguagens #Portugues  
+- 05. Classe, estrutura e formação de palavras #Linguagens #Portugues #Morfologia  
 - 06. Derivação e composição #Linguagens #Portugues  
 - 07. Frase, oração e período #Linguagens #Portugues  
 - 08. Substantivo #Linguagens #Portugues  
