@@ -1,7 +1,7 @@
 ## A Fazer
 - 00. Introdução - conceitos gerais #Linguagens #Portugues  
 - 01. Do latim ao português atual #Linguagens #Portugues  
-- 02. Domínio atual da língua portuguesa  
+- 02. Domínio atual da língua portuguesa #Portugues #Linguagens  
 - 03. Fonética e fonologia  
 - 04. Ortografia  
 - 05. Classe, estrutura e formação de palavras  
