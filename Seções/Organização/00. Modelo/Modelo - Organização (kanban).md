@@ -3,4 +3,4 @@
 > # índice
 >  > [!example]- Partes
 > > Hebdomadário
->  > 
+>  > Mensual
