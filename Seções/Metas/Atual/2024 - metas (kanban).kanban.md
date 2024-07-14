@@ -2,6 +2,7 @@
 - Português  
 - Poesia  
 - Literatura  
+- História das artes  
 
 ## A Fazer
 
