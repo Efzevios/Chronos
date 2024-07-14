@@ -24,9 +24,9 @@
 > > ---
 > >  **Negrito:** férias
 > >  _Itálico:_ finais de semana
-> > 01: aniversário da Ia
-> > 01: aniversário da Marilu
-> > 30: aniversário da Sása
+> > - [ ]  01: aniversário da Ia
+> > - [ ]  01: aniversário da Marilu
+> > - [ ]  30: aniversário da Sása
 >
 > > [!cite]- Setembro
 > >  Dom | Seg | Ter | Qua | Qui | Sex | Sáb
