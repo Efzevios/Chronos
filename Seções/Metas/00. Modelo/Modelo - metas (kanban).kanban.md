@@ -1,4 +1,5 @@
 ## Planejando
+- Modelo  
 
 ## A Fazer
 
