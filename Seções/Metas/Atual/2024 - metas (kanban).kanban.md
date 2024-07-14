@@ -1,4 +1,5 @@
 ## Planejando
+- Português  
 
 ## A Fazer
 
