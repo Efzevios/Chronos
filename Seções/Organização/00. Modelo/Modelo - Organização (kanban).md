@@ -3,6 +3,3 @@
 > # índice
 >  > [!example] Partes
 >  
-> > [!Info] Sobre o livro
-> 
->  > [!info] Resenha
