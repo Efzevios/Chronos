@@ -11,7 +11,7 @@
 > > **_28_** | **29** | **30** | **31** | -- | -- | -- |
 > > ---
 > >  **Negrito:** férias
-> > - [ ]  _Itálico:_ finais de semana
+> > _Itálico:_ finais de semana
 >
 > > [!cite]- Agosto
 > >  Dom | Seg | Ter | Qua | Qui | Sex | Sáb
