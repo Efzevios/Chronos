@@ -2,5 +2,5 @@
 > # índice
 >  > [!example] Seções
 >  
-> > [!Info] Meta 1
+> > [!cite] Meta 1
 > 
