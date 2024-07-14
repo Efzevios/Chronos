@@ -3,6 +3,7 @@
 - Poesia  
 - Literatura  
 - História das artes  
+- Latim  
 
 ## A Fazer
 
