@@ -6,4 +6,4 @@ ___
 > 
 > > [!cite]+ Seções
 > > > [!example]- Calendário [Calendário](/Se%C3%A7%C3%B5es%2FCalend%C3%A1rio/Calend%C3%A1rio.md): seção destinada ao acompanhamento dos meses, como também registro de eventos e tarefas futuras.
-> > > 
+> > > [!example]
