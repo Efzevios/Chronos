@@ -4,4 +4,3 @@
 >  
 > > [!Info] Meta 1
 > 
->  > [!info] Resenha
