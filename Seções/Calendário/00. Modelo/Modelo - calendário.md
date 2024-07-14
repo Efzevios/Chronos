@@ -1,6 +1,6 @@
 ![image](.attachments/200f9579b97a40474992ae624fd8b13884f54a7c.png)
 ---
-> [!quote]+ Anuário 2024
+> [!quote]+ Anuário 20--
 > > [!cite]- Julho
 > > Dom | Seg | Ter | Qua | Qui | Sex | Sáb
 > > -|-|-|-|-|-|-|
