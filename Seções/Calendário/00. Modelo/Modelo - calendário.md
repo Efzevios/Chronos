@@ -96,3 +96,51 @@
 > > ---
 > >  **Negrito:** importante
 > > _Itálico:_ finais de semana
+>
+> > [!cite]- Setembro
+> > Dom | Seg | Ter | Qua | Qui | Sex | Sáb
+> > -|-|-|-|-|-|-|
+> >  |  |  |  |  |  |  |
+> >  |  |  |  |  |  |  |
+> >  |  |  |  |  |  |  |
+> >  |  |  |  |  |  |  |
+> >  |  |  |  |  |  |  |
+> > ---
+> >  **Negrito:** importante
+> > _Itálico:_ finais de semana
+>
+> > [!cite]- Outubro
+> > Dom | Seg | Ter | Qua | Qui | Sex | Sáb
+> > -|-|-|-|-|-|-|
+> >  |  |  |  |  |  |  |
+> >  |  |  |  |  |  |  |
+> >  |  |  |  |  |  |  |
+> >  |  |  |  |  |  |  |
+> >  |  |  |  |  |  |  |
+> > ---
+> >  **Negrito:** importante
+> > _Itálico:_ finais de semana
+>
+> > [!cite]- Novembro
+> > Dom | Seg | Ter | Qua | Qui | Sex | Sáb
+> > -|-|-|-|-|-|-|
+> >  |  |  |  |  |  |  |
+> >  |  |  |  |  |  |  |
+> >  |  |  |  |  |  |  |
+> >  |  |  |  |  |  |  |
+> >  |  |  |  |  |  |  |
+> > ---
+> >  **Negrito:** importante
+> > _Itálico:_ finais de semana
+>
+> > [!cite]- Dezembro
+> > Dom | Seg | Ter | Qua | Qui | Sex | Sáb
+> > -|-|-|-|-|-|-|
+> >  |  |  |  |  |  |  |
+> >  |  |  |  |  |  |  |
+> >  |  |  |  |  |  |  |
+> >  |  |  |  |  |  |  |
+> >  |  |  |  |  |  |  |
+> > ---
+> >  **Negrito:** importante
+> > _Itálico:_ finais de semana
