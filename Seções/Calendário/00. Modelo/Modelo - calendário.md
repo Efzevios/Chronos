@@ -10,7 +10,7 @@
 > >  |  |  |  |  |  |  |
 > >  |  |  |  |  |  |  |
 > > ---
-> >  **Negrito:** férias
+> >  **Negrito:** importante
 > > _Itálico:_ finais de semana
 >
 > > [!cite]- Fevereiro
@@ -22,7 +22,7 @@
 > >  |  |  |  |  |  |  |
 > >  |  |  |  |  |  |  |
 > > ---
-> >  **Negrito:** férias
+> >  **Negrito:** importante
 > > _Itálico:_ finais de semana
 >
 > > [!cite]- Março
@@ -34,7 +34,7 @@
 > >  |  |  |  |  |  |  |
 > >  |  |  |  |  |  |  |
 > > ---
-> >  **Negrito:** férias
+> >  **Negrito:** importante
 > > _Itálico:_ finais de semana
 >
 > > [!cite]- Abril
@@ -46,7 +46,7 @@
 > >  |  |  |  |  |  |  |
 > >  |  |  |  |  |  |  |
 > > ---
-> >  **Negrito:** férias
+> >  **Negrito:** importante
 > > _Itálico:_ finais de semana
 >
 > > [!cite]- Maio
@@ -58,6 +58,41 @@
 > >  |  |  |  |  |  |  |
 > >  |  |  |  |  |  |  |
 > > ---
-> >  **Negrito:** férias
+> >  **Negrito:** importante
 > > _Itálico:_ finais de semana
 >
+> > [!cite]- Junho
+> > Dom | Seg | Ter | Qua | Qui | Sex | Sáb
+> > -|-|-|-|-|-|-|
+> >  |  |  |  |  |  |  |
+> >  |  |  |  |  |  |  |
+> >  |  |  |  |  |  |  |
+> >  |  |  |  |  |  |  |
+> >  |  |  |  |  |  |  |
+> > ---
+> >  **Negrito:** importante
+> > _Itálico:_ finais de semana
+>
+> > [!cite]- Julho
+> > Dom | Seg | Ter | Qua | Qui | Sex | Sáb
+> > -|-|-|-|-|-|-|
+> >  |  |  |  |  |  |  |
+> >  |  |  |  |  |  |  |
+> >  |  |  |  |  |  |  |
+> >  |  |  |  |  |  |  |
+> >  |  |  |  |  |  |  |
+> > ---
+> >  **Negrito:** importante
+> > _Itálico:_ finais de semana
+>
+> > [!cite]- Agosto
+> > Dom | Seg | Ter | Qua | Qui | Sex | Sáb
+> > -|-|-|-|-|-|-|
+> >  |  |  |  |  |  |  |
+> >  |  |  |  |  |  |  |
+> >  |  |  |  |  |  |  |
+> >  |  |  |  |  |  |  |
+> >  |  |  |  |  |  |  |
+> > ---
+> >  **Negrito:** importante
+> > _Itálico:_ finais de semana
