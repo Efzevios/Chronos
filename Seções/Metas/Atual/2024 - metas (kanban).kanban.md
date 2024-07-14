@@ -1,6 +1,7 @@
 ## Planejando
 - Português  
 - Poesia  
+- Literatura  
 
 ## A Fazer
 
