@@ -5,6 +5,6 @@ ___
 > >  Aqui estão catalogados todos as seções do Chronos. Um modo rápido e eficiente de encontrar o quê precisa no momento que precisa.
 > 
 > > [!cite]+ Seções
-> > > [!example]- Calendário ![image](.attachments/da2689f14d464bb56dcb135d8c1721848244b32c.svg)  [Calendário](/Se%C3%A7%C3%B5es%2FCalend%C3%A1rio/Calend%C3%A1rio.md): seção destinada ao acompanhamento dos meses, como também registro de eventos e tarefas futuras.
+> > > [!example]- Calendário ![image](.attachments/dea3ca534b4bba8cbe6a867fed6968e415d61aaf.svg)   [Calendário](/Se%C3%A7%C3%B5es%2FCalend%C3%A1rio/Calend%C3%A1rio.md): seção destinada ao acompanhamento dos meses, como também registro de eventos e tarefas futuras.
 > > 
 > > > [!example]- Planejamento [Organização](/Se%C3%A7%C3%B5es%2FOrganiza%C3%A7%C3%A3o/Organiza%C3%A7%C3%A3o.md): seção de alocação da organização referente aos estudos e demais áreas da vida que necessitam de planejamento constante, quer seja mensual, quer seja hebdomadário.
