@@ -120,7 +120,7 @@
   > 
   > > [!cite]+ Outros
 
-## Planejados
+## Planejado
 
 ## Fazendo
 
