@@ -58,8 +58,8 @@
   > >  [!cite]+ Tabela
   > >  Afazer | Informações | Situação
   > > -|-|-
-  > > Leitura | Antes de executar quaisquer tarefas, leia o texto referente ao capítulo em questão. [Aqui o texto.]() | A fazer.
-  > > Escrita e criação | Após a leitura do texto, com base nele, em [mermaid](https://www.mermaidchart.com/app/dashboard) ou afins, crie um resumo tanto escrito quanto imagético, em formato de mapa mental. [Local de criação.]() | A fazer.
+  > > Leitura | Antes de executar quaisquer tarefas, leia o texto referente ao capítulo em questão. [Aqui o texto.](https://drive.google.com/file/d/1CbRwSD7qNXvcaGtKp8h8iyhjP2HgkJc_/view?usp=sharing) | A fazer.
+  > > Escrita e criação | Após a leitura do texto, com base nele, em [mermaid](https://www.mermaidchart.com/app/dashboard) ou afins, crie um resumo tanto escrito quanto imagético, em formato de mapa mental. [Local de criação.](https://www.noteshub.app/notebooks/github/Efzevios%2FChronos/Se%C3%A7%C3%B5es%2FDisciplinas%2FOutros%2FPoesia%2FTratado%20de%20versifica%C3%A7%C3%A3o%20portuguesa%20(Ant%C3%B3nio%20F.%20de%20Castilho)%2FCap%C3%ADtulo%2014.%20Amostras%20e%20exerc%C3%ADcios%20onomat%C3%B3picos) | A fazer.
   > > .Anki | Com base no material original, além das produções próprias, crie um baralho em que as informações presentes no capítulo serão postas em forma de cartão de repetição espaçada. | A fazer.
   > > Revisão | Após o término da produção de material de estudo, revise-os. | A fazer.
   > 
