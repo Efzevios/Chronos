@@ -8,7 +8,7 @@
   > > -|-|-
   > > | |
   > 
-  > > [!cite] Outros
+  > > [!cite]+ Outros
 - 04. Ortografia #Linguagens #Portugues #Ortografia  
 - 05. Classe, estrutura e formação de palavras #Linguagens #Portugues #Morfologia  
 - 06. Derivação e composição #Linguagens #Portugues #Morfologia  
