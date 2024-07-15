@@ -222,7 +222,7 @@
   > > Cartões antigos | Após a leitura inicial, com base nos [cartões antigos](https://drive.google.com/drive/folders/1_Wb3Fi877aqRy2KSSdHdEqUbTDOEIw-n?usp=sharing), organize-os para se adequar ao material de agora. | A fazer.
   > > .Anki | Após organizar os cartões .anki antigos, já detendo o conhecimento da matéria em questão, forme o baralho de estudo. | A fazer.
   > > Revisão | Quando já feito os cartões, revise todos eles antes de passar para as próximas etapas. | A fazer.
-  > > Escrita | Terminada a revisão primária do baralho, com base nos conhecimentos já adquiridos, além de possíveis consultas ao material didático, escreva e forma mapas mentais referentes ao conhecimento em apredizado. [Área de produção aqui.](https://www.noteshub.app/notebooks/github/Efzevios%2FChronos/Se%C3%A7%C3%B5es%2FDisciplinas%2FLinguagens%2FL%C3%ADngua%20Portuguesa%2F06.%20Deriva%C3%A7%C3%A3o%20e%20composi%C3%A7%C3%A3o) | A fazer.
+  > > Escrita | Terminada a revisão primária do baralho, com base nos conhecimentos já adquiridos, além de possíveis consultas ao material didático, escreva e forma mapas mentais referentes ao conhecimento em apredizado. [Área de produção aqui.](https://www.noteshub.app/notebooks/github/Efzevios%2FChronos/Se%C3%A7%C3%B5es%2FDisciplinas%2FLinguagens%2FL%C3%ADngua%20Portuguesa%2F07.%20Frase%2C%20ora%C3%A7%C3%A3o%20e%20per%C3%ADodo) | A fazer.
   > > Simulado | Quando já feitas as demais etapas do processo de aprendizagem, gere um simulado referente ao conteúdo aprendido. Na formação, deverá ter de trinta a cinquenta questões, de complexidade intermediária a difícil. Taxa mínima para seguir nos estudos: 70%. | A fazer.
   > 
   > > [!cite]+ Outros
