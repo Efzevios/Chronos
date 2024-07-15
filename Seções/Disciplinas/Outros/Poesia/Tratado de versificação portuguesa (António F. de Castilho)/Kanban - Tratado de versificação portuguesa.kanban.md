@@ -40,7 +40,25 @@
   > 
   > > [!cite]+ Outros
 - Capítulo 14. Amostras e exercícios onomatópicos #Poesia #Versos #Melodia #Tonicidade  
+  > [!cite] Chronos, um guia (quase) perfeito
+  > ![image](.attachments/b2fd7590c0525b35c9718d836807c55484cd9317.svg)  
+  > # Poesia
+  > >  [!cite]+ Tabela
+  > >  Afazer | Informações | Situação
+  > > -|-|-
+  > > | |
+  > 
+  > > [!cite]+ Outros
 - Capítulo 15. Novo exercício de versificação #Exercicio #Poesia #Versos  
+  > [!cite] Chronos, um guia (quase) perfeito
+  > ![image](.attachments/b2fd7590c0525b35c9718d836807c55484cd9317.svg)  
+  > # Poesia
+  > >  [!cite]+ Tabela
+  > >  Afazer | Informações | Situação
+  > > -|-|-
+  > > | |
+  > 
+  > > [!cite]+ Outros
 - Capítulo 16. Lexicologia #Poesia #Versos #Definiçoes #Melodia  
 - Capítulo 17. Emprego dos consoantes entre os antigos #Poesia #Versos #Definiçoes #Melodia  
 - Capítulo 18. Continuação sobre a rima dos antigos versos de sete sílabas #Poesia #Versos #Definiçoes #Melodia  
