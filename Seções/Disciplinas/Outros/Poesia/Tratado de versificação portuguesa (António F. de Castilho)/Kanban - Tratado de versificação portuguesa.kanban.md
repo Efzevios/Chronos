@@ -149,7 +149,10 @@
   > >  [!cite]+ Tabela
   > >  Afazer | Informações | Situação
   > > -|-|-
-  > > | |
+  > > Leitura | Antes de executar quaisquer tarefas, leia o texto referente ao capítulo em questão. [Aqui o texto.]() | A fazer.
+  > > Escrita e criação | Após a leitura do texto, com base nele, em [mermaid](https://www.mermaidchart.com/app/dashboard) ou afins, crie um resumo tanto escrito quanto imagético, em formato de mapa mental. [Local de criação.]() | A fazer.
+  > > .Anki | Com base no material original, além das produções próprias, crie um baralho em que as informações presentes no capítulo serão postas em forma de cartão de repetição espaçada. | A fazer.
+  > > Revisão | Após o término da produção de material de estudo, revise-os. | A fazer.
   > 
   > > [!cite]+ Outros
 
