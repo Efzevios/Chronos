@@ -1,5 +1,14 @@
 ## A Fazer
 - 03. Fonética e fonologia #Linguagens #Portugues #Ortografia  
+  > [!cite] Chronos, um guia (quase) perfeito
+  > ![image](.attachments/82ae44a5a3265e69e717c2f342cb1a202786882c.svg) 
+  > # Metas
+  > >  [!cite]+ Tabela
+  > >  Afazer | Informações | Situação
+  > > -|-|-
+  > > | |
+  > 
+  > > [!cite] Outros
 - 04. Ortografia #Linguagens #Portugues #Ortografia  
 - 05. Classe, estrutura e formação de palavras #Linguagens #Portugues #Morfologia  
 - 06. Derivação e composição #Linguagens #Portugues #Morfologia  
