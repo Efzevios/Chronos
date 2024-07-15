@@ -120,8 +120,6 @@
   > 
   > > [!cite]+ Outros
 
-## Planejado
-
 ## Fazendo
 
 ## Feito
