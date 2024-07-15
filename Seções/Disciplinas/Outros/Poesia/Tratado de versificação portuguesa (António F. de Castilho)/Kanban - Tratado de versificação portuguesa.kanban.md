@@ -60,6 +60,15 @@
   > 
   > > [!cite]+ Outros
 - Capítulo 16. Lexicologia #Poesia #Versos #Definiçoes #Melodia  
+  > [!cite] Chronos, um guia (quase) perfeito
+  > ![image](.attachments/b2fd7590c0525b35c9718d836807c55484cd9317.svg)  
+  > # Poesia
+  > >  [!cite]+ Tabela
+  > >  Afazer | Informações | Situação
+  > > -|-|-
+  > > | |
+  > 
+  > > [!cite]+ Outros
 - Capítulo 17. Emprego dos consoantes entre os antigos #Poesia #Versos #Definiçoes #Melodia  
 - Capítulo 18. Continuação sobre a rima dos antigos versos de sete sílabas #Poesia #Versos #Definiçoes #Melodia  
 - Capítulo 19. Das estrofes e rimas dos contemporâneos #Poesia #Versos #Definiçoes #Melodia  
