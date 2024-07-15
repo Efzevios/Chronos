@@ -6,7 +6,8 @@
   > >  [!cite]+ Tabela
   > >  Afazer | Informações | Situação
   > > -|-|-
-  > > | |
+  > > Leitura | Antes de executar quaisquer tarefas, leia o texto referente ao capítulo em questão. [Aqui o texto.]() | A fazer.
+  > > Escrita e criação | Após a leitura do texto, com base nele, em [mermaid](https://www.mermaidchart.com/app/dashboard) ou afins, crie um resumo tanto escrito quanto imagético, em formato de mapa mental. Local de criação. | A fazer.
   > 
   > > [!cite]+ Outros
 - Capítulo 11. Das letras consoantes em geral #Poesia #Versos #Definiçoes #Melodia  
