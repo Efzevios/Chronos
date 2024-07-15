@@ -1,14 +1,4 @@
 ## A Fazer
-- 04. Ortografia #Linguagens #Portugues #Ortografia  
-  > [!cite] Chronos, um guia (quase) perfeito
-  > ![image](.attachments/b2fd7590c0525b35c9718d836807c55484cd9317.svg) 
-  > # Português
-  > >  [!cite]+ Tabela
-  > >  Afazer | Informações | Situação
-  > > -|-|-
-  > > | |
-  > 
-  > > [!cite]+ Outros
 - 05. Classe, estrutura e formação de palavras #Linguagens #Portugues #Morfologia  
   > [!cite] Chronos, um guia (quase) perfeito
   > ![image](.attachments/b2fd7590c0525b35c9718d836807c55484cd9317.svg) 
@@ -192,6 +182,16 @@
 
 ## Planejados
 - 03. Fonética e fonologia #Linguagens #Portugues #Ortografia  
+  > [!cite] Chronos, um guia (quase) perfeito
+  > ![image](.attachments/b2fd7590c0525b35c9718d836807c55484cd9317.svg) 
+  > # Português
+  > >  [!cite]+ Tabela
+  > >  Afazer | Informações | Situação
+  > > -|-|-
+  > > | |
+  > 
+  > > [!cite]+ Outros
+- 04. Ortografia #Linguagens #Portugues #Ortografia  
   > [!cite] Chronos, um guia (quase) perfeito
   > ![image](.attachments/b2fd7590c0525b35c9718d836807c55484cd9317.svg) 
   > # Português
