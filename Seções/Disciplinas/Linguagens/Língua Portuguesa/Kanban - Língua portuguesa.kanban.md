@@ -50,6 +50,15 @@
   > 
   > > [!cite]+ Outros
 - 08. Substantivo #Linguagens #Portugues #Morfologia  
+  > [!cite] Chronos, um guia (quase) perfeito
+  > ![image](.attachments/b2fd7590c0525b35c9718d836807c55484cd9317.svg) 
+  > # Português
+  > >  [!cite]+ Tabela
+  > >  Afazer | Informações | Situação
+  > > -|-|-
+  > > | |
+  > 
+  > > [!cite]+ Outros
 - 09. Artigo #Linguagens #Portugues #Morfologia  
 - 10. Adjetivo #Linguagens #Portugues #Morfologia  
 - 11. Pronomes #Linguagens #Portugues #Morfologia  
