@@ -158,7 +158,8 @@
   > >  [!cite]+ Tabela
   > >  Afazer | Informações | Situação
   > > -|-|-
-  > > Leitura | Antes de iniciar o processo de criação de cartões, leia atentamente o conteúdo do material referente ao estudo em questão. Em caso de dúvida, [clique aqui para a leitura.](https://drive.google.com/file/d/12ZOB8iTVE3CGJMbcTvi8_iXIvAUYLi09/view?usp=sharing) | - [ ] 
+  > > Leitura | Antes de iniciar o processo de criação de cartões, leia atentamente o conteúdo do material referente ao estudo em questão. Em caso de dúvida, [clique aqui para a leitura.](https://drive.google.com/file/d/12ZOB8iTVE3CGJMbcTvi8_iXIvAUYLi09/view?usp=sharing) | A fazer
+  > > 
   > 
   > > [!cite]+ Outros
 - 04. Ortografia #Linguagens #Portugues #Ortografia  
