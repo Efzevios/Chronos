@@ -40,6 +40,15 @@
   > 
   > > [!cite]+ Outros
 - 07. Frase, oração e período #Linguagens #Portugues #Sintaxe  
+  > [!cite] Chronos, um guia (quase) perfeito
+  > ![image](.attachments/b2fd7590c0525b35c9718d836807c55484cd9317.svg) 
+  > # Português
+  > >  [!cite]+ Tabela
+  > >  Afazer | Informações | Situação
+  > > -|-|-
+  > > | |
+  > 
+  > > [!cite]+ Outros
 - 08. Substantivo #Linguagens #Portugues #Morfologia  
 - 09. Artigo #Linguagens #Portugues #Morfologia  
 - 10. Adjetivo #Linguagens #Portugues #Morfologia  
