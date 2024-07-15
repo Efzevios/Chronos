@@ -120,6 +120,15 @@
   > 
   > > [!cite]+ Outros
 - 15. Preposição #Linguagens #Portugues #Morfologia  
+  > [!cite] Chronos, um guia (quase) perfeito
+  > ![image](.attachments/b2fd7590c0525b35c9718d836807c55484cd9317.svg) 
+  > # Português
+  > >  [!cite]+ Tabela
+  > >  Afazer | Informações | Situação
+  > > -|-|-
+  > > | |
+  > 
+  > > [!cite]+ Outros
 - 16. Conjunção #Linguagens #Portugues #Morfologia  
 - 17. Interjeição #Linguagens #Portugues #Morfologia  
 - 18. O período e sua construção #Linguagens #Portugues #Sintaxe  
