@@ -206,3 +206,5 @@
 - 00. Introdução - conceitos gerais #Linguagens #Portugues  
 - 01. Do latim ao português atual #Linguagens #Portugues  
 - 02. Domínio atual da língua portuguesa #Portugues #Linguagens  
+
+## Planejados
