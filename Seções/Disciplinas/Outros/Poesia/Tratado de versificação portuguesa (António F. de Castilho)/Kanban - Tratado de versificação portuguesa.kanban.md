@@ -168,3 +168,15 @@
 - Capítulo 07. Dispensável digressão sobre a índole da língua portuguesa em relação aos metros #Poesia #Versos #Definiçoes  
 - Capítulo 08. Observações sobre a melodia dos versos #Poesia #Versos #Melodia  
 - Capítulo 09. Tentativa sobre cada uma das letras do alfabeto #Poesia #Definiçoes #Tonicidade #Melodia  
+  > [!cite] Chronos, um guia (quase) perfeito
+  > ![image](.attachments/b2fd7590c0525b35c9718d836807c55484cd9317.svg)  
+  > # Poesia
+  > >  [!cite]+ Tabela
+  > >  Afazer | Informações | Situação
+  > > -|-|-
+  > > Leitura | Antes de executar quaisquer tarefas, leia o texto referente ao capítulo em questão. [Aqui o texto.]() | A fazer.
+  > > Escrita e criação | Após a leitura do texto, com base nele, em [mermaid](https://www.mermaidchart.com/app/dashboard) ou afins, crie um resumo tanto escrito quanto imagético, em formato de mapa mental. [Local de criação.]() | A fazer.
+  > > .Anki | Com base no material original, além das produções próprias, crie um baralho em que as informações presentes no capítulo serão postas em forma de cartão de repetição espaçada. | A fazer.
+  > > Revisão | Após o término da produção de material de estudo, revise-os. | A fazer.
+  > 
+  > > [!cite]+ Outros
