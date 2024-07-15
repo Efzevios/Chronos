@@ -170,6 +170,15 @@
   > 
   > > [!cite]+ Outros
 - 20. Discurso direto, discurso indireto e discurso indireto livre #Linguagens #Portugues  
+  > [!cite] Chronos, um guia (quase) perfeito
+  > ![image](.attachments/b2fd7590c0525b35c9718d836807c55484cd9317.svg) 
+  > # Português
+  > >  [!cite]+ Tabela
+  > >  Afazer | Informações | Situação
+  > > -|-|-
+  > > | |
+  > 
+  > > [!cite]+ Outros
 - 21. Pontuação #Linguagens #Portugues #Ortografia  
 - 22. Noções de versificação #Linguagens #Portugues #Poesia  
 
