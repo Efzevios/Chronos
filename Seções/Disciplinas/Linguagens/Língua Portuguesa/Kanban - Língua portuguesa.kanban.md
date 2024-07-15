@@ -140,7 +140,25 @@
   > 
   > > [!cite]+ Outros
 - 17. Interjeição #Linguagens #Portugues #Morfologia  
+  > [!cite] Chronos, um guia (quase) perfeito
+  > ![image](.attachments/b2fd7590c0525b35c9718d836807c55484cd9317.svg) 
+  > # Português
+  > >  [!cite]+ Tabela
+  > >  Afazer | Informações | Situação
+  > > -|-|-
+  > > | |
+  > 
+  > > [!cite]+ Outros
 - 18. O período e sua construção #Linguagens #Portugues #Sintaxe  
+  > [!cite] Chronos, um guia (quase) perfeito
+  > ![image](.attachments/b2fd7590c0525b35c9718d836807c55484cd9317.svg) 
+  > # Português
+  > >  [!cite]+ Tabela
+  > >  Afazer | Informações | Situação
+  > > -|-|-
+  > > | |
+  > 
+  > > [!cite]+ Outros
 - 19. Figuras de sintaxe #Linguagens #Portugues #Sintaxe  
 - 20. Discurso direto, discurso indireto e discurso indireto livre #Linguagens #Portugues  
 - 21. Pontuação #Linguagens #Portugues #Ortografia  
