@@ -70,7 +70,25 @@
   > 
   > > [!cite]+ Outros
 - 10. Adjetivo #Linguagens #Portugues #Morfologia  
+  > [!cite] Chronos, um guia (quase) perfeito
+  > ![image](.attachments/b2fd7590c0525b35c9718d836807c55484cd9317.svg) 
+  > # Português
+  > >  [!cite]+ Tabela
+  > >  Afazer | Informações | Situação
+  > > -|-|-
+  > > | |
+  > 
+  > > [!cite]+ Outros
 - 11. Pronomes #Linguagens #Portugues #Morfologia  
+  > [!cite] Chronos, um guia (quase) perfeito
+  > ![image](.attachments/b2fd7590c0525b35c9718d836807c55484cd9317.svg) 
+  > # Português
+  > >  [!cite]+ Tabela
+  > >  Afazer | Informações | Situação
+  > > -|-|-
+  > > | |
+  > 
+  > > [!cite]+ Outros
 - 12. Numerais #Linguagens #Portugues #Morfologia  
 - 13. Verbo #Linguagens #Portugues #Morfologia  
 - 14. Advérbio #Portugues #Linguagens #Morfologia  
