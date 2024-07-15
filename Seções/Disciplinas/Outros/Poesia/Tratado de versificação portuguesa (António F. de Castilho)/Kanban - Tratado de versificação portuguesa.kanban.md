@@ -1,4 +1,14 @@
 ## A Fazer
+- Capítulo 10. Dos ditongos e das vogais nazaladas #Poesia #Versos #Definiçoes #Melodia  
+  > [!cite] Chronos, um guia (quase) perfeito
+  > ![image](.attachments/b2fd7590c0525b35c9718d836807c55484cd9317.svg)  
+  > # Poesia
+  > >  [!cite]+ Tabela
+  > >  Afazer | Informações | Situação
+  > > -|-|-
+  > > | |
+  > 
+  > > [!cite]+ Outros
 - Capítulo 11. Das letras consoantes em geral #Poesia #Versos #Definiçoes #Melodia  
   > [!cite] Chronos, um guia (quase) perfeito
   > ![image](.attachments/b2fd7590c0525b35c9718d836807c55484cd9317.svg)  
@@ -111,16 +121,6 @@
   > > [!cite]+ Outros
 
 ## Planejado
-- Capítulo 10. Dos ditongos e das vogais nazaladas #Poesia #Versos #Definiçoes #Melodia  
-  > [!cite] Chronos, um guia (quase) perfeito
-  > ![image](.attachments/b2fd7590c0525b35c9718d836807c55484cd9317.svg)  
-  > # Poesia
-  > >  [!cite]+ Tabela
-  > >  Afazer | Informações | Situação
-  > > -|-|-
-  > > | |
-  > 
-  > > [!cite]+ Outros
 
 ## Fazendo
 
