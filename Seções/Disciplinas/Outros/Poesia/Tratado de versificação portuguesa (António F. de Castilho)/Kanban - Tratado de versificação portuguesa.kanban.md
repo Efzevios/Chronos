@@ -103,7 +103,7 @@
   > > Revisão | Após o término da produção de material de estudo, revise-os. | A fazer.
   > 
   > > [!cite]+ Outros
-- Capítulo 18. Continuação sobre a rima dos antigos versos de sete sílabas ~5 #Poesia #Versos #Definiçoes #Melodia  
+- Capítulo 18. Continuação sobre a rima dos antigos versos de sete sílabas ~5h #Poesia #Versos #Definiçoes #Melodia  
   > [!cite] Chronos, um guia (quase) perfeito
   > ![image](.attachments/b2fd7590c0525b35c9718d836807c55484cd9317.svg)  
   > # Poesia
