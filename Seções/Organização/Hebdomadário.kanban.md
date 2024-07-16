@@ -16,5 +16,6 @@
 
 ## Terça-feira
 - Derivação e composição  
+- Das letras consoantes em geral  
 
 ## Quarta-feira
