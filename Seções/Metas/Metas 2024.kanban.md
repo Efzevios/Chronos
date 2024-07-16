@@ -68,7 +68,7 @@
   > > [Resenha](/Se%C3%A7%C3%B5es%2FBiblioteca%2FFic%C3%A7%C3%A3o%2F1984/1984%20-%20resenha.md) | [Escrever resenha crítica sobre o livro](/Se%C3%A7%C3%B5es%2FBiblioteca%2FFic%C3%A7%C3%A3o%2F1984/1984%20-%20resenha.md) | A Fazer.
   > > 
   <iframe
-    src="https://www.notion.so/1984-351e8fe5ff8a4ff3b8ecb6bd67a94183?pvs=4"
+    src="https://mdellacs.github.io/Calculadora-HTML-CSS-JS/"
     style="width:100%;height:auto;aspect-ratio:1/1.4"
     scrolling="no">
   </iframe>
