@@ -9,6 +9,7 @@
 
 ## Domindo
 - Ortografia  
+- Dos ditongos e das vogais nazaladas  
 
 ## Segunda-feira
 
