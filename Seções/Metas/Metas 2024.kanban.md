@@ -66,5 +66,6 @@
   > > Leitura | Ler 1984 | A Fazer.
   > > [Termos](/Se%C3%A7%C3%B5es%2FBiblioteca%2FFic%C3%A7%C3%A3o%2F1984/Vocabul%C3%A1rio.md) | [Anotar vocábulos desconhecidos](/Se%C3%A7%C3%B5es%2FBiblioteca%2FFic%C3%A7%C3%A3o%2F1984/Vocabul%C3%A1rio.md) | A Fazer.
   > > [Resenha](/Se%C3%A7%C3%B5es%2FBiblioteca%2FFic%C3%A7%C3%A3o%2F1984/1984%20-%20resenha.md) | [Escrever resenha crítica sobre o livro](/Se%C3%A7%C3%B5es%2FBiblioteca%2FFic%C3%A7%C3%A3o%2F1984/1984%20-%20resenha.md) | A Fazer.
+  > > https://www.notion.so/1984-351e8fe5ff8a4ff3b8ecb6bd67a94183?pvs=4
 
 ## Feito
