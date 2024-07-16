@@ -19,6 +19,7 @@
   > > | |
   > 
   > > [!cite] Outros
+- Meta de leitura anual  
 
 ## A Fazer
 
