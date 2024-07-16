@@ -63,7 +63,7 @@
   > >  Afazer | Informações | Situação
   > > -|-|-
   > > Leitura | Ler 1984 | A Fazer.
-  > > Termos | Anotar vocábulos desconhecidos | A Fazer.
+  > > [Termos](/Se%C3%A7%C3%B5es%2FBiblioteca%2FFic%C3%A7%C3%A3o%2F1984/Vocabul%C3%A1rio.md) | [Anotar vocábulos desconhecidos]() | A Fazer.
   > > Resenha | Escrever resenha crítica sobre o livro | A Fazer.
 
 ## Feito
