@@ -15,6 +15,7 @@
   > # Metas
   > > [!cite] Cócoras
   > > Aprender a fazer a posição de cócoras com o pé totalmente enconstado no chão.
+  > 
   > >  [!cite]+ Tabela
   > >  Afazer | Informações | Situação
   > > -|-|-
