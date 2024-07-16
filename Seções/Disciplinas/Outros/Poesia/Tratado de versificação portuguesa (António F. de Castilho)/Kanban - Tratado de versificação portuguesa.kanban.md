@@ -1,17 +1,4 @@
 ## A Fazer
-- Capítulo 10. Dos ditongos e das vogais nazaladas ~2h #Poesia #Versos #Definiçoes #Melodia  
-  > [!cite] Chronos, um guia (quase) perfeito
-  > ![image](.attachments/b2fd7590c0525b35c9718d836807c55484cd9317.svg)  
-  > # Poesia
-  > >  [!cite]+ Tabela
-  > >  Afazer | Informações | Situação
-  > > -|-|-
-  > > Leitura | Antes de executar quaisquer tarefas, leia o texto referente ao capítulo em questão. [Aqui o texto.](https://drive.google.com/file/d/1SClDfqudu5p0JC5rtbCpYOqjPp321E6R/view?usp=sharing) | A fazer.
-  > > Escrita e criação | Após a leitura do texto, com base nele, em [mermaid](https://www.mermaidchart.com/app/dashboard) ou afins, crie um resumo tanto escrito quanto imagético, em formato de mapa mental. [Local de criação.](https://www.noteshub.app/notebooks/github/Efzevios%2FChronos/Se%C3%A7%C3%B5es%2FDisciplinas%2FOutros%2FPoesia%2FTratado%20de%20versifica%C3%A7%C3%A3o%20portuguesa%20(Ant%C3%B3nio%20F.%20de%20Castilho)%2FCap%C3%ADtulo%2010.%20Dos%20ditongos%20e%20das%20vogais%20nazaladas) | A fazer.
-  > > .Anki | Com base no material original, além das produções próprias, crie um baralho em que as informações presentes no capítulo serão postas em forma de cartão de repetição espaçada. | A fazer.
-  > > Revisão | Após o término da produção de material de estudo, revise-os. | A fazer.
-  > 
-  > > [!cite]+ Outros
 - Capítulo 11. Das letras consoantes em geral ~5h #Poesia #Versos #Definiçoes #Melodia  
   > [!cite] Chronos, um guia (quase) perfeito
   > ![image](.attachments/b2fd7590c0525b35c9718d836807c55484cd9317.svg)  
@@ -157,6 +144,19 @@
   > > [!cite]+ Outros
 
 ## Planejado
+- Capítulo 10. Dos ditongos e das vogais nazaladas ~2h #Poesia #Versos #Definiçoes #Melodia  
+  > [!cite] Chronos, um guia (quase) perfeito
+  > ![image](.attachments/b2fd7590c0525b35c9718d836807c55484cd9317.svg)  
+  > # Poesia
+  > >  [!cite]+ Tabela
+  > >  Afazer | Informações | Situação
+  > > -|-|-
+  > > Leitura | Antes de executar quaisquer tarefas, leia o texto referente ao capítulo em questão. [Aqui o texto.](https://drive.google.com/file/d/1SClDfqudu5p0JC5rtbCpYOqjPp321E6R/view?usp=sharing) | A fazer.
+  > > Escrita e criação | Após a leitura do texto, com base nele, em [mermaid](https://www.mermaidchart.com/app/dashboard) ou afins, crie um resumo tanto escrito quanto imagético, em formato de mapa mental. [Local de criação.](https://www.noteshub.app/notebooks/github/Efzevios%2FChronos/Se%C3%A7%C3%B5es%2FDisciplinas%2FOutros%2FPoesia%2FTratado%20de%20versifica%C3%A7%C3%A3o%20portuguesa%20(Ant%C3%B3nio%20F.%20de%20Castilho)%2FCap%C3%ADtulo%2010.%20Dos%20ditongos%20e%20das%20vogais%20nazaladas) | A fazer.
+  > > .Anki | Com base no material original, além das produções próprias, crie um baralho em que as informações presentes no capítulo serão postas em forma de cartão de repetição espaçada. | A fazer.
+  > > Revisão | Após o término da produção de material de estudo, revise-os. | A fazer.
+  > 
+  > > [!cite]+ Outros
 
 ## Fazendo
 
