@@ -62,8 +62,8 @@
   > >  [!cite]+ Tabela
   > >  Afazer | Informações | Situação
   > > -|-|-
-  > > | |
-  > 
-  > > [!cite] Outros
+  > > Leitura | Ler 1984 | A Fazer.
+  > > Termos | Anotar vocábulos desconhecidos | A Fazer.
+  > > Resenha | Escrever resenha crítica sobre o livro | A Fazer.
 
 ## Feito
