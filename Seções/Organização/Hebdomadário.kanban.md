@@ -1,5 +1,3 @@
-## Domindo
-
 ## Terça-feira
 
 ## Quarta-feira
@@ -11,3 +9,5 @@
 ## Sábado
 
 ## Segunda-feira
+
+## Domindo
