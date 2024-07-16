@@ -5,6 +5,7 @@
 - Fonética e fonologia  
 
 ## Sábado
+- Ortografia  
 
 ## Domindo
 
