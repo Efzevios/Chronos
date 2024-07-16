@@ -64,7 +64,7 @@
   > > Revisão | Após o término da produção de material de estudo, revise-os. | A fazer.
   > 
   > > [!cite]+ Outros
-- Capítulo 15. Novo exercício de versificação #Exercicio #Poesia #Versos  
+- Capítulo 15. Novo exercício de versificação ~4h #Exercicio #Poesia #Versos  
   > [!cite] Chronos, um guia (quase) perfeito
   > ![image](.attachments/b2fd7590c0525b35c9718d836807c55484cd9317.svg)  
   > # Poesia
