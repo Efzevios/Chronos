@@ -19,3 +19,4 @@
 - Das letras consoantes em geral  
 
 ## Quarta-feira
+- Frase, oração e período  
