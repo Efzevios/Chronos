@@ -6,8 +6,8 @@
 
 ## Sábado
 
-## Segunda-feira
-
 ## Domindo
+
+## Segunda-feira
 
 ## Terça-feira
