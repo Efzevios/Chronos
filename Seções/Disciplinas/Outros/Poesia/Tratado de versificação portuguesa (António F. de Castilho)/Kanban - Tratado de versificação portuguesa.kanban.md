@@ -1,5 +1,5 @@
 ## A Fazer
-- Capítulo 10. Dos ditongos e das vogais nazaladas #Poesia #Versos #Definiçoes #Melodia  
+- Capítulo 10. Dos ditongos e das vogais nazaladas ~2h #Poesia #Versos #Definiçoes #Melodia  
   > [!cite] Chronos, um guia (quase) perfeito
   > ![image](.attachments/b2fd7590c0525b35c9718d836807c55484cd9317.svg)  
   > # Poesia
