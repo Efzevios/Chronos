@@ -1,7 +1,7 @@
 ![image](.attachments/200f9579b97a40474992ae624fd8b13884f54a7c.png) 
 ---
 > [!quote] Mensual
-> > [!cite]- Julho
+> > [!cite]+ Julho
 > > Dom | Seg | Ter | Qua | Qui | Sex | Sáb
 > > -|-|-|-|-|-|-|
 > > -- | ~~==01==~~ | ~~==02==~~ | ~~==03==~~ | ~~==04==~~ | ~~==05==~~ | ~~_==06==_~~ |
