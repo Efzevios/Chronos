@@ -105,7 +105,7 @@
   > > [!cite]+ Outros
 
 ## Planejado
-- Capítulo 10. Dos ditongos e das vogais nazaladas ~2h #Poesia #Versos #Definiçoes #Melodia  
+- Capítulo 10. Dos ditongos e das vogais nazaladas ~2h #Poesia #Versos #Definiçoes #Melodia 2024-07-19  
   > [!cite] Chronos, um guia (quase) perfeito
   > ![image](.attachments/b2fd7590c0525b35c9718d836807c55484cd9317.svg)  
   > # Poesia
