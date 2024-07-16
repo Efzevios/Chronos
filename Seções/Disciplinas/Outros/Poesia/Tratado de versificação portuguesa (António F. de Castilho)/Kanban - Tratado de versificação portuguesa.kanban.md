@@ -1,30 +1,4 @@
 ## A Fazer
-- Capítulo 12. Digressão - Estatística dos sons e articulações na língua portuguesa ~1h #Poesia #Versos #Definiçoes #Tonicidade  
-  > [!cite] Chronos, um guia (quase) perfeito
-  > ![image](.attachments/b2fd7590c0525b35c9718d836807c55484cd9317.svg)  
-  > # Poesia
-  > >  [!cite]+ Tabela
-  > >  Afazer | Informações | Situação
-  > > -|-|-
-  > > Leitura | Antes de executar quaisquer tarefas, leia o texto referente ao capítulo em questão. [Aqui o texto.](https://drive.google.com/file/d/1JPI6du-Njeu-S9zaumNc0I44HgwZJuqC/view?usp=sharing) | A fazer.
-  > > Escrita e criação | Após a leitura do texto, com base nele, em [mermaid](https://www.mermaidchart.com/app/dashboard) ou afins, crie um resumo tanto escrito quanto imagético, em formato de mapa mental. [Local de criação.](https://www.noteshub.app/notebooks/github/Efzevios%2FChronos/Se%C3%A7%C3%B5es%2FDisciplinas%2FOutros%2FPoesia%2FTratado%20de%20versifica%C3%A7%C3%A3o%20portuguesa%20(Ant%C3%B3nio%20F.%20de%20Castilho)%2FCap%C3%ADtulo%2012.%20Digress%C3%A3o%20-%20Estat%C3%ADstica%20dos%20sons%20e%20articula%C3%A7%C3%B5es%20na%20l%C3%ADngua%20portuguesa) | A fazer.
-  > > .Anki | Com base no material original, além das produções próprias, crie um baralho em que as informações presentes no capítulo serão postas em forma de cartão de repetição espaçada. | A fazer.
-  > > Revisão | Após o término da produção de material de estudo, revise-os. | A fazer.
-  > 
-  > > [!cite]+ Outros
-- Capítulo 13. Ampliação da teoria dos valores das vogais e consoantes ~2h #Poesia #Versos #Definiçoes #Melodia  
-  > [!cite] Chronos, um guia (quase) perfeito
-  > ![image](.attachments/b2fd7590c0525b35c9718d836807c55484cd9317.svg)  
-  > # Poesia
-  > >  [!cite]+ Tabela
-  > >  Afazer | Informações | Situação
-  > > -|-|-
-  > > Leitura | Antes de executar quaisquer tarefas, leia o texto referente ao capítulo em questão. [Aqui o texto.](https://drive.google.com/file/d/1wUHCcLDweK549JR3HeqtQtSys5hxqgIB/view?usp=sharing) | A fazer.
-  > > Escrita e criação | Após a leitura do texto, com base nele, em [mermaid](https://www.mermaidchart.com/app/dashboard) ou afins, crie um resumo tanto escrito quanto imagético, em formato de mapa mental. [Local de criação.](https://www.noteshub.app/notebooks/github/Efzevios%2FChronos/Se%C3%A7%C3%B5es%2FDisciplinas%2FOutros%2FPoesia%2FTratado%20de%20versifica%C3%A7%C3%A3o%20portuguesa%20(Ant%C3%B3nio%20F.%20de%20Castilho)%2FCap%C3%ADtulo%2013.%20Amplia%C3%A7%C3%A3o%20da%20teoria%20dos%20valores%20das%20vogais%20e%20consoantes) | A fazer.
-  > > .Anki | Com base no material original, além das produções próprias, crie um baralho em que as informações presentes no capítulo serão postas em forma de cartão de repetição espaçada. | A fazer.
-  > > Revisão | Após o término da produção de material de estudo, revise-os. | A fazer.
-  > 
-  > > [!cite]+ Outros
 - Capítulo 14. Amostras e exercícios onomatópicos ~4h #Poesia #Versos #Melodia #Tonicidade  
   > [!cite] Chronos, um guia (quase) perfeito
   > ![image](.attachments/b2fd7590c0525b35c9718d836807c55484cd9317.svg)  
@@ -153,6 +127,32 @@
   > > -|-|-
   > > Leitura | Antes de executar quaisquer tarefas, leia o texto referente ao capítulo em questão. [Aqui o texto.](https://drive.google.com/file/d/1j-H_lgQ73S5d__f2I1FSFB4CQNQ59Tcg/view?usp=sharing) | A fazer.
   > > Escrita e criação | Após a leitura do texto, com base nele, em [mermaid](https://www.mermaidchart.com/app/dashboard) ou afins, crie um resumo tanto escrito quanto imagético, em formato de mapa mental. [Local de criação.](https://www.noteshub.app/notebooks/github/Efzevios%2FChronos/Se%C3%A7%C3%B5es%2FDisciplinas%2FOutros%2FPoesia%2FTratado%20de%20versifica%C3%A7%C3%A3o%20portuguesa%20(Ant%C3%B3nio%20F.%20de%20Castilho)%2FCap%C3%ADtulo%2011.%20Das%20letras%20consoantes%20em%20geral) | A fazer.
+  > > .Anki | Com base no material original, além das produções próprias, crie um baralho em que as informações presentes no capítulo serão postas em forma de cartão de repetição espaçada. | A fazer.
+  > > Revisão | Após o término da produção de material de estudo, revise-os. | A fazer.
+  > 
+  > > [!cite]+ Outros
+- Capítulo 12. Digressão - Estatística dos sons e articulações na língua portuguesa ~1h #Poesia #Versos #Definiçoes #Tonicidade  
+  > [!cite] Chronos, um guia (quase) perfeito
+  > ![image](.attachments/b2fd7590c0525b35c9718d836807c55484cd9317.svg)  
+  > # Poesia
+  > >  [!cite]+ Tabela
+  > >  Afazer | Informações | Situação
+  > > -|-|-
+  > > Leitura | Antes de executar quaisquer tarefas, leia o texto referente ao capítulo em questão. [Aqui o texto.](https://drive.google.com/file/d/1JPI6du-Njeu-S9zaumNc0I44HgwZJuqC/view?usp=sharing) | A fazer.
+  > > Escrita e criação | Após a leitura do texto, com base nele, em [mermaid](https://www.mermaidchart.com/app/dashboard) ou afins, crie um resumo tanto escrito quanto imagético, em formato de mapa mental. [Local de criação.](https://www.noteshub.app/notebooks/github/Efzevios%2FChronos/Se%C3%A7%C3%B5es%2FDisciplinas%2FOutros%2FPoesia%2FTratado%20de%20versifica%C3%A7%C3%A3o%20portuguesa%20(Ant%C3%B3nio%20F.%20de%20Castilho)%2FCap%C3%ADtulo%2012.%20Digress%C3%A3o%20-%20Estat%C3%ADstica%20dos%20sons%20e%20articula%C3%A7%C3%B5es%20na%20l%C3%ADngua%20portuguesa) | A fazer.
+  > > .Anki | Com base no material original, além das produções próprias, crie um baralho em que as informações presentes no capítulo serão postas em forma de cartão de repetição espaçada. | A fazer.
+  > > Revisão | Após o término da produção de material de estudo, revise-os. | A fazer.
+  > 
+  > > [!cite]+ Outros
+- Capítulo 13. Ampliação da teoria dos valores das vogais e consoantes ~2h #Poesia #Versos #Definiçoes #Melodia  
+  > [!cite] Chronos, um guia (quase) perfeito
+  > ![image](.attachments/b2fd7590c0525b35c9718d836807c55484cd9317.svg)  
+  > # Poesia
+  > >  [!cite]+ Tabela
+  > >  Afazer | Informações | Situação
+  > > -|-|-
+  > > Leitura | Antes de executar quaisquer tarefas, leia o texto referente ao capítulo em questão. [Aqui o texto.](https://drive.google.com/file/d/1wUHCcLDweK549JR3HeqtQtSys5hxqgIB/view?usp=sharing) | A fazer.
+  > > Escrita e criação | Após a leitura do texto, com base nele, em [mermaid](https://www.mermaidchart.com/app/dashboard) ou afins, crie um resumo tanto escrito quanto imagético, em formato de mapa mental. [Local de criação.](https://www.noteshub.app/notebooks/github/Efzevios%2FChronos/Se%C3%A7%C3%B5es%2FDisciplinas%2FOutros%2FPoesia%2FTratado%20de%20versifica%C3%A7%C3%A3o%20portuguesa%20(Ant%C3%B3nio%20F.%20de%20Castilho)%2FCap%C3%ADtulo%2013.%20Amplia%C3%A7%C3%A3o%20da%20teoria%20dos%20valores%20das%20vogais%20e%20consoantes) | A fazer.
   > > .Anki | Com base no material original, além das produções próprias, crie um baralho em que as informações presentes no capítulo serão postas em forma de cartão de repetição espaçada. | A fazer.
   > > Revisão | Após o término da produção de material de estudo, revise-os. | A fazer.
   > 
