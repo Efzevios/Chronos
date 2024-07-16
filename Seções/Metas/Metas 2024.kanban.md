@@ -40,6 +40,7 @@
   > # Metas
   > > [!cite] Leitura 2024
   > > Ler, ao decorrer do ano, no mínimo, vinte e quatro livros.
+  > > 
   > >  [!cite]+ Tabela
   > >  Afazer | Enumeração | Situação
   > > -|-|-
