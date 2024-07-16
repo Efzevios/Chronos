@@ -15,5 +15,6 @@
 - Classe, estrutura e formação de palavras  
 
 ## Terça-feira
+- Derivação e composição  
 
 ## Quarta-feira
