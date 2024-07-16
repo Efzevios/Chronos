@@ -13,12 +13,12 @@
   > [!cite] Chronos, um guia (quase) perfeito
   > ![image](.attachments/82ae44a5a3265e69e717c2f342cb1a202786882c.svg) 
   > # Metas
+  > > [!cite] Cócoras
+  > > Aprender a fazer a posição de cócoras com o pé totalmente enconstado no chão.
   > >  [!cite]+ Tabela
   > >  Afazer | Informações | Situação
   > > -|-|-
   > > | |
-  > 
-  > > [!cite] Outros
 - Caligrafia #Aprendizado 2024-08-31  
   > [!cite] Chronos, um guia (quase) perfeito
   > ![image](.attachments/82ae44a5a3265e69e717c2f342cb1a202786882c.svg) 
