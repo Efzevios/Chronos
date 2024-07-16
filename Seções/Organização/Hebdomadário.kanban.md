@@ -1,4 +1,5 @@
 ## Quinta-feira
+- Fonética e fonologia  
 
 ## Sexta-feira
 
