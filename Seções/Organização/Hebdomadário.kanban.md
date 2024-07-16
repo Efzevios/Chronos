@@ -8,6 +8,7 @@
 - Ortografia  
 
 ## Domindo
+- Ortografia  
 
 ## Segunda-feira
 
