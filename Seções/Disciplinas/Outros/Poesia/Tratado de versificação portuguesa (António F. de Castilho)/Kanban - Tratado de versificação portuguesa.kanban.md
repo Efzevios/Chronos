@@ -25,7 +25,7 @@
   > > Revisão | Após o término da produção de material de estudo, revise-os. | A fazer.
   > 
   > > [!cite]+ Outros
-- Capítulo 12. Digressão - Estatística dos sons e articulações na língua portuguesa #Poesia #Versos #Definiçoes #Tonicidade  
+- Capítulo 12. Digressão - Estatística dos sons e articulações na língua portuguesa ~1h #Poesia #Versos #Definiçoes #Tonicidade  
   > [!cite] Chronos, um guia (quase) perfeito
   > ![image](.attachments/b2fd7590c0525b35c9718d836807c55484cd9317.svg)  
   > # Poesia
