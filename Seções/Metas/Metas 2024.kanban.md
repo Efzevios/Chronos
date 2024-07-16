@@ -28,6 +28,7 @@
   > > Escrita rápida | Treinar, com base em um temporizador, o tempo de escrita | A Fazer.
   > 
   > > [!cite] Outros
+  > > [Site](https://fonts.google.com/noto/specimen/Noto+Sans+Mono/glyphs)
 
 ## Fazendo
 - Meta de leitura anual #Aprendizado #Inteligencia 2024-12-31  
