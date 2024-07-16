@@ -2,6 +2,7 @@
 - Fonética e fonologia  
 
 ## Sexta-feira
+- Fonética e fonologia  
 
 ## Sábado
 
