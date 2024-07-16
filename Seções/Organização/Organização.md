@@ -4,7 +4,6 @@
 > > [!example]+ Organização
 > > - [Hebdomadário](/Se%C3%A7%C3%B5es%2FOrganiza%C3%A7%C3%A3o/Hebdomad%C3%A1rio.kanban.md): planejamento semanal em kanban.
 > >   
-> > - [Mensual de julho](/Se%C3%A7%C3%B5es%2FOrganiza%C3%A7%C3%A3o/Mensual%20de%20julho.md): planejamento mensal em formato de calendário.
 > > 
 > >   
 >  
