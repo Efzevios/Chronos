@@ -156,6 +156,8 @@
   > 
   > > [!cite]+ Outros
 
+## Planejado
+
 ## Fazendo
 
 ## Feito
@@ -180,5 +182,3 @@
   > > Revisão | Após o término da produção de material de estudo, revise-os. | A fazer.
   > 
   > > [!cite]+ Outros
-
-## Planejado
