@@ -19,7 +19,11 @@
   > >  [!cite]+ Tabela
   > >  Afazer | Informações | Situação
   > > -|-|-
-  > > | |
+  > > Noto Sans Mono | Separar os grafemas a serem estudados. | A Fazer.
+  > > .Anki | Criar cartões .anki para serem estudados | A Fazer.
+  > > Imprimir | Fazer modelos de treino para serem impressos | A Fazer.
+  > > Três poesias | Durante uma ou duas semanas, todos os dias, reescrever três poesias de modo a trinar a caligrafia | A Fazer.
+  > > Escrita rápida | Treinar, com base em um temporizador, o tempo de escrita | A Fazer.
   > 
   > > [!cite] Outros
 - 1984 #Inteligencia #Aprendizado  
