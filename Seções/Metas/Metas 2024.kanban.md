@@ -39,7 +39,7 @@
   > > | |
   > 
   > > [!cite] Outros
-- Matérias para 2024  
+- Matérias para 2024 #Aprendizado #importante #Inteligencia 2024-12-31  
   > [!cite] Chronos, um guia (quase) perfeito
   > ![image](.attachments/82ae44a5a3265e69e717c2f342cb1a202786882c.svg) 
   > # Metas
