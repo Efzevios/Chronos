@@ -4,6 +4,6 @@
 - Versificação Portuguesa (M. Said Ali)  
 
 ## Fazendo
-- Tratado de versificação portuguesa (António F. de Castilho)  
+- Noções de versificação  
 
 ## Feito
