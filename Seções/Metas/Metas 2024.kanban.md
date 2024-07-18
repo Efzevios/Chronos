@@ -63,7 +63,7 @@
   > >  [!cite]+ Tabela
   > >  Afazer | Informações | Situação
   > > -|-|-
-  > > Leitura | Ler 1984 | A Fazer.
+  > > Leitura | Ler 1984 | Fazendo.
   > > [Termos](/Se%C3%A7%C3%B5es%2FBiblioteca%2FFic%C3%A7%C3%A3o%2F1984/Vocabul%C3%A1rio.md) | [Anotar vocábulos desconhecidos](/Se%C3%A7%C3%B5es%2FBiblioteca%2FFic%C3%A7%C3%A3o%2F1984/Vocabul%C3%A1rio.md) | A Fazer.
   > > [Resenha](/Se%C3%A7%C3%B5es%2FBiblioteca%2FFic%C3%A7%C3%A3o%2F1984/1984%20-%20resenha.md) | [Escrever resenha crítica sobre o livro](/Se%C3%A7%C3%B5es%2FBiblioteca%2FFic%C3%A7%C3%A3o%2F1984/1984%20-%20resenha.md) | A Fazer.
   > > 
