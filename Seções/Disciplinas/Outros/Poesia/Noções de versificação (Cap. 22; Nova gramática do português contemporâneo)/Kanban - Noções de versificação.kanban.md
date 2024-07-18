@@ -1,7 +1,7 @@
 ## A Fazer
 - 01. Estrutura do verso  
   > [!cite] Chronos, um guia (quase) perfeito
-  > ![image](.attachments/82ae44a5a3265e69e717c2f342cb1a202786882c.svg) 
+  > ![image](.attachments/b2fd7590c0525b35c9718d836807c55484cd9317.) 
   > # Metas
   > >  [!cite]+ Tabela
   > >  Afazer | Informações | Situação
