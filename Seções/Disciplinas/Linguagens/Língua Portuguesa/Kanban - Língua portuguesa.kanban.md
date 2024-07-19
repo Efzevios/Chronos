@@ -21,7 +21,7 @@
   > >  [!cite]+ Tabela
   > >  Afazer | Informações | Situação
   > > -|-|-
-  > > Leitura | Antes de iniciar o processo de criação de cartões, leia atentamente o conteúdo do material referente ao estudo em questão. Em caso de dúvida, [clique aqui para a leitura.]() | A fazer.
+  > > Leitura | Antes de iniciar o processo de criação de cartões, leia atentamente o conteúdo do material referente ao estudo em questão. Em caso de dúvida, [clique aqui para a leitura.](https://drive.google.com/file/d/1hAk2kqf938-GSGcUYgT5L8lbazzUCe_T/view?usp=drive_link) | A fazer.
   > > Cartões antigos | Após a leitura inicial, com base nos [cartões antigos](), organize-os para se adequar ao material de agora. | A fazer.
   > > .Anki | Após organizar os cartões .anki antigos, já detendo o conhecimento da matéria em questão, forme o baralho de estudo. | A fazer.
   > > Revisão | Quando já feito os cartões, revise todos eles antes de passar para as próximas etapas. | A fazer.
