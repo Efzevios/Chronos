@@ -1,6 +1,6 @@
 ## A fazer
 - 00. Modelo  
-  =b==> [!cite] Chronos, um guia (quase) perfeito==
+  > [!cite] Chronos, um guia (quase) perfeito
   > # índice
   >  > [!example] Partes
   >  
