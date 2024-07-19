@@ -5,7 +5,8 @@
   >  > [!example] Partes
   >  
   > > [!Info] Sobre o livro
-  ´´´
+  > > 
+  
   function matrizEisenhower(tarefas) {
       const quadrantes = {
           importanteUrgente: [],
@@ -43,7 +44,7 @@
   console.log('Importante, mas não urgente:', resultado.importanteNaoUrgente);
   console.log('Não importante, mas urgente:', resultado.naoImportanteUrgente);
   console.log('Não importante e não urgente:', resultado.naoImportanteNaoUrgente);
-  ´´´
+  
   
 
 ## Feito
