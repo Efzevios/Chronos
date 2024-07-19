@@ -1,5 +1,5 @@
-## Feito
-
 ## A fazer
+
+## Feito
 
 ## Fazendo
