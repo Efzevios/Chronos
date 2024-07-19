@@ -209,16 +209,6 @@
   > > Simulado | Quando já feitas as demais etapas do processo de aprendizagem, gere um simulado referente ao conteúdo aprendido. Na formação, deverá ter de trinta a cinquenta questões, de complexidade intermediária a difícil. Taxa mínima para seguir nos estudos: 70%. | A fazer.
   > 
   > > [!cite]+ Outros
-- 22. Noções de versificação #Linguagens #Portugues #Poesia  
-  > [!cite] Chronos, um guia (quase) perfeito
-  > ![image](.attachments/b2fd7590c0525b35c9718d836807c55484cd9317.svg) 
-  > # Português
-  > >  [!cite]+ Tabela
-  > >  Afazer | Informações | Situação
-  > > -|-|-
-  > > | |
-  > 
-  > > [!cite]+ Outros
 
 ## Planejado
 - 04. Ortografia ~2d #Linguagens #Portugues #Ortografia  
