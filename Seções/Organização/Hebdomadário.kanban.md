@@ -71,7 +71,7 @@
     
   >  > [!quote]- Outros
   >  > 
-- Tipos de verso  
+- Tipos de verso #Poesia  
   Chronos, um guia (quase) perfeito
   > [!cite] Hodierno
   >  > [!faq] Origem
