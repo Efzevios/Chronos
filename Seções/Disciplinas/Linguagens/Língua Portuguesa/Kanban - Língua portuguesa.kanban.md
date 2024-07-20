@@ -290,17 +290,27 @@
   > ![image](.attachments/b2fd7590c0525b35c9718d836807c55484cd9317.svg) 
   > # Português
   > >  [!cite]+ Tabela
-  > >  Afazer | Informações | Situação
-  > > -|-|-
-  > > Videoaulas | Primeiramente, antes de iniciar até a leitura do material, [assista o material da Qconcursos](https://app.qconcursos.com/aulas/4624/capitulos/7663373). | A fazer.
-  > > Leitura | Antes de iniciar o processo de criação de cartões, leia atentamente o conteúdo do material referente ao estudo em questão. Em caso de dúvida, [clique aqui para a leitura.](https://drive.google.com/file/d/1skVabvrn0VA9SEY-_tPahu1QXn3WMKC8/view?usp=sharing) | A fazer.
-  > > Cartões antigos | Após a leitura inicial, com base nos [cartões antigos](https://drive.google.com/drive/folders/1_Wb3Fi877aqRy2KSSdHdEqUbTDOEIw-n?usp=sharing), organize-os para se adequar ao material de agora. | A fazer.
-  > > .Anki | Após organizar os cartões .anki antigos, já detendo o conhecimento da matéria em questão, forme o baralho de estudo. | A fazer.
-  > > Revisão | Quando já feito os cartões, revise todos eles antes de passar para as próximas etapas. | A fazer.
-  > > Escrita | Terminada a revisão primária do baralho, com base nos conhecimentos já adquiridos, além de possíveis consultas ao material didático, escreva e forma mapas mentais referentes ao conhecimento em apredizado. [Área de produção aqui.](https://www.noteshub.app/notebooks/github/Efzevios%2FChronos/Se%C3%A7%C3%B5es%2FDisciplinas%2FLinguagens%2FL%C3%ADngua%20Portuguesa%2F07.%20Frase%2C%20ora%C3%A7%C3%A3o%20e%20per%C3%ADodo) | A fazer.
-  > > Simulado | Quando já feitas as demais etapas do processo de aprendizagem, gere um simulado referente ao conteúdo aprendido. Na formação, deverá ter de trinta a cinquenta questões, de complexidade intermediária a difícil. Taxa mínima para seguir nos estudos: 70%. | A fazer.
-  > 
-  > > [!cite]+ Outros
+  > >  Afazer | Informações
+  > > -|-
+  > > Videoaulas | Primeiramente, antes de iniciar até a leitura do material, [assista o material da Qconcursos](https://app.qconcursos.com/aulas/4624/capitulos/7663373).
+  > > Leitura | Antes de iniciar o processo de criação de cartões, leia atentamente o conteúdo do material referente ao estudo em questão. Em caso de dúvida, [clique aqui para a leitura.](https://drive.google.com/file/d/1skVabvrn0VA9SEY-_tPahu1QXn3WMKC8/view?usp=sharing) 
+  > > Cartões antigos | Após a leitura inicial, com base nos [cartões antigos](https://drive.google.com/drive/folders/1_Wb3Fi877aqRy2KSSdHdEqUbTDOEIw-n?usp=sharing), organize-os para se adequar ao material de agora.
+  > > .Anki | Após organizar os cartões .anki antigos, já detendo o conhecimento da matéria em questão, forme o baralho de estudo.
+  > > Revisão | Quando já feito os cartões, revise todos eles antes de passar para as próximas etapas. 
+  > > Escrita | Terminada a revisão primária do baralho, com base nos conhecimentos já adquiridos, além de possíveis consultas ao material didático, escreva e forma mapas mentais referentes ao conhecimento em apredizado. [Área de produção aqui.](https://www.noteshub.app/notebooks/github/Efzevios%2FChronos/Se%C3%A7%C3%B5es%2FDisciplinas%2FLinguagens%2FL%C3%ADngua%20Portuguesa%2F07.%20Frase%2C%20ora%C3%A7%C3%A3o%20e%20per%C3%ADodo) 
+  > > Simulado | Quando já feitas as demais etapas do processo de aprendizagem, gere um simulado referente ao conteúdo aprendido. Na formação, deverá ter de trinta a cinquenta questões, de complexidade intermediária a difícil. Taxa mínima para seguir nos estudos: 70%.
+  ---
+  [^1]: Leitura
+  - [x] Leitura
+  [^2]: .Anki
+  - [ ] .Anki
+  [^3]: Revisão
+  - [ ] Revisão
+  [^4]: Escrita
+  - [ ] Escrita
+  [^5]: Simulado
+  - [ ] Simulado
+  
 
 ## Fazendo
 - 03. Fonética e fonologia ~2d #Linguagens #Portugues #Ortografia  
