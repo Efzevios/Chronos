@@ -21,4 +21,4 @@
 
 ## Sábado
 - Derivação e composição  
-- 04. Estrofação  
+- Estrofação  
