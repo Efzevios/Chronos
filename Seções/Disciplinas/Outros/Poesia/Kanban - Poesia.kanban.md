@@ -9,15 +9,15 @@
   > ![image](.attachments/b2fd7590c0525b35c9718d836807c55484cd9317.svg)
   > # Poesia
   > >  [!cite]+ Tabela
-  > >  Afazer | Situação
+  > >  Situação | Afazer
   > > -|-
-  > > Estrutura do verso |
-  > > - [ ] Coconut cookies
-  > > Tipos de verso |
-  > > A rima |
-  > > Estrofação |
-  > > Poemas de forma fica |
-  - [ ] Cherry tomatoes
+  > > 
+  > > - [ ] | Estrutura do verso 
+  > > - [ ] | Tipos de verso
+  > > - [ ] | A rima
+  > > - [ ] | Estrofação
+  > > - [ ] | Poemas de forma fica
+  
   
 
 ## Feito
