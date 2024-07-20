@@ -77,6 +77,7 @@
     
   >  > [!quote]- Outros
   >  > 
+- Derivação e composição  
 
 ## Sexta-feira
 - Derivação e composição  
