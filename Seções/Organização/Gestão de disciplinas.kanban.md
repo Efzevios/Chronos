@@ -8,5 +8,6 @@
   
 
 ## Fazendo
+- Português  
 
 ## Feito
