@@ -9,11 +9,11 @@
   > ![image](.attachments/b2fd7590c0525b35c9718d836807c55484cd9317.svg)
   > # Poesia
   > >  [!cite]+ Tabela
-  > > - [x]  Estrutura do verso 
-  > > - [ ]  Tipos de verso
-  > > - [ ]  A rima
-  > > - [ ]  Estrofação
-  > > - [ ]  Poemas de forma fica
+   - [x]  Estrutura do verso 
+   - [ ]  Tipos de verso
+   - [ ]  A rima
+   - [ ]  Estrofação
+   - [ ]  Poemas de forma fica
   
   
 
