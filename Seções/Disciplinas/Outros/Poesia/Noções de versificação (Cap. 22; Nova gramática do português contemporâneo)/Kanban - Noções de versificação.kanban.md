@@ -85,7 +85,7 @@
   
 
 ## Planejados
-- 01. Estrutura do verso ~4 #Poesia #Versos 2024-07-24  
+- 01. Estrutura do verso ~4 #Poesia #Versos 2024-07-23  
   > [!cite] Chronos, um guia (quase) perfeito
   > ![image](.attachments/b2fd7590c0525b35c9718d836807c55484cd9317.svg) 
   > # Poesia
