@@ -11,7 +11,7 @@
   > >  [!cite]+ Tabela
   > >  Afazer | Informações | Situação
   > > -|-|-
-  > > - [X]
+  > > 
   
 
 ## Feito
