@@ -2,8 +2,10 @@
 - 00. Modelo  
   # Gestão de [modelo]
   >  [!cite]+ Organização
-  >  
-  >  > [!cite]- Cálculo
+  >  > [!cite] Metas
+  >  > 
+  >  >
+  >  > [!cite]+ Cálculo
   >  >  <iframe
   >  >   src="https://efzevios.github.io/Spork/Porcento.html"
   >  >   style="width:100%;height:;aspect-ratio:1"
