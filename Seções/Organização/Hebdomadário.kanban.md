@@ -21,7 +21,8 @@
   >  
   #### Metas
   - [ ] Revisar cartões
-  - [ ] Revisar mapas mentais
+  - [ ] Escrita
+  - [ ] Simulado
     
   >  > [!quote]- Outros
   >  > 
