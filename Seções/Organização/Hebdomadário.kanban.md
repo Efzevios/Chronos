@@ -1,4 +1,4 @@
-## Domindo
+## Domingo
 - Fonética e fonologia  
 
 ## Segunda-feira
