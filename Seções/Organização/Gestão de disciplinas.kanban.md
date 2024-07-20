@@ -3,7 +3,8 @@
   # Gestão de [modelo]
   >  [!cite]+ Organização
   >  > [!cite] Metas
-  >  > 
+  >  >  > [!cite] Material 
+  >  >  >   Em caso de dúvida, [clique aqui para a gestão do material intraorganizacional]()
   >  
   >  > [!cite]+ Cálculo
   >  >  <iframe
