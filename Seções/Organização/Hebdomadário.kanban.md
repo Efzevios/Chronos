@@ -176,7 +176,7 @@
   >  > 
 
 ## Sábado
-- Frase, oração e período  
+- Frase, oração e período #Portugues  
   Chronos, um guia (quase) perfeito
   > [!cite] Hodierno
   >  > [!faq] Origem
