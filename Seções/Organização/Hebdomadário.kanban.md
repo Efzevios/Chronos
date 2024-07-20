@@ -3,12 +3,8 @@
 ## Sexta-feira
 
 ## Sábado
-- Ortografia  
-  [Kanban - Língua portuguesa](/Se%C3%A7%C3%B5es%2FDisciplinas%2FLinguagens%2FL%C3%ADngua%20Portuguesa/Kanban%20-%20L%C3%ADngua%20portuguesa.kanban.md)
 
 ## Domindo
-- Ortografia  
-  [Kanban - Língua portuguesa](/Se%C3%A7%C3%B5es%2FDisciplinas%2FLinguagens%2FL%C3%ADngua%20Portuguesa/Kanban%20-%20L%C3%ADngua%20portuguesa.kanban.md)
 
 ## Segunda-feira
 - Classe, estrutura e formação de palavras  
