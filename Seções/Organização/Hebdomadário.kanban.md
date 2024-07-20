@@ -10,7 +10,7 @@
   Situação | Afazer 
   -|-
   A Fazer. | Criar cartões 
-  - [ ] 
+  - [ ] Criar cartões 
   - [ ] 
   - [ ] 
   - [ ] 
