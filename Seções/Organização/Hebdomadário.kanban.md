@@ -58,7 +58,7 @@
   >  > 
 
 ## Quarta-feira
-- Ortografia #Portugues  
+- Ortografia #Portugues #Gramaticanormativa  
   Chronos, um guia (quase) perfeito
   > [!cite] Hodierno
   >  > [!faq] Origem
