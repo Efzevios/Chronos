@@ -49,10 +49,10 @@
 - Estrutura do verso  
 
 ## Quarta-feira
+- Ortografia  
 - Tipos de verso  
 
 ## Quinta-feira
-- Ortografia  
 
 ## Sexta-feira
 - Classe, estrutura e formação de palavras  
