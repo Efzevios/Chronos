@@ -2,7 +2,7 @@
 - 00. Modelo  
   <iframe
     src="https://efzevios.github.io/Spork/Porcento.html"
-    style="width:100%;height:auto;aspect-ratio:1/1"
+    style="width:100%;height:auto;aspect-ratio:0.7/1"
     scrolling="yes">
   </iframe>
   
