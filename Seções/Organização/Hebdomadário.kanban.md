@@ -6,14 +6,8 @@
   >  >  > Para acessar a seção kanban da disciplina, [clique aqui](https://www.noteshub.app/notebooks/github/Efzevios%2FChronos/Se%C3%A7%C3%B5es%2FDisciplinas%2FLinguagens%2FL%C3%ADngua%20Portuguesa/Kanban%20-%20L%C3%ADngua%20portuguesa.kanban.md). Para acessar a pasta da matéria, [clique aqui](https://www.noteshub.app/notebooks/github/Efzevios%2FChronos/Se%C3%A7%C3%B5es%2FDisciplinas%2FLinguagens%2FL%C3%ADngua%20Portuguesa%2F03.%20Fon%C3%A9tica%20e%20fonologia).
   >  
   #### Metas
-  
-  Situação | Afazer 
-  -|-
-  A Fazer. | Criar cartões 
-  - [ ] Criar cartões (14 p.)
-  - [ ] 
-  - [ ] 
-  - [ ] 
+  - [ ] Criar cartões
+  - [ ] Revisar mapas mentais
     
   >  > [!quote]- Outros
   >  > 
