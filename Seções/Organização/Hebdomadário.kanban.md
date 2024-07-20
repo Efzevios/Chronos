@@ -7,9 +7,9 @@
   >  
   #### Metas
   
-  Situação | Afazer | Descrição
-  -|-|-
-  A Fazer. | ??? | ???
+  Situação | Afazer 
+  -|-
+  A Fazer. | Criar cartões 
   - [ ] 
   - [ ] 
   - [ ] 
