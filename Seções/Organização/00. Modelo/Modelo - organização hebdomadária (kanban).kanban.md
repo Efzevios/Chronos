@@ -5,14 +5,14 @@
   >  > [!faq] Origem
   >  >  > Para acessar a seção kanban da disciplina, [clique aqui](). Para acessar a pasta da matéria, [clique aqui]().
   >  
-  >  > [!cite] Metas
+   [!cite] Metas
   
   Situação | Afazer | Descrição
   -|-|-
   - [ ] a | a | a
   - [ ] | |
   - [ ] | |
-  >  
+    
   >  > [!quote]- Outros
   >  > 
 
