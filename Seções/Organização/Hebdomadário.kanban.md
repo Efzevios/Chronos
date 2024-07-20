@@ -107,8 +107,8 @@
   >  > [!quote]- Outros
   >  > 
 - A rima  
+- Estrofação  
 - Poemas de forma fixa  
 
 ## Sábado
-- Estrofação  
 - 07. Frase, oração e período  
