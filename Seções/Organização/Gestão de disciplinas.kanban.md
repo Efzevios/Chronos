@@ -1,7 +1,7 @@
 ## A Fazer
 - 00. Modelo  
-  > Chronos, uma guia (quase) perfeito
-  > # Gestão de [modelo]
+  
+  # Gestão de [modelo]
   
   >  > [!cite]
   <iframe
