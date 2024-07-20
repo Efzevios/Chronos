@@ -94,6 +94,16 @@
   > > .Anki | Após a leitura inicial, quando já detendo o conhecimento da matéria em questão, forme o baralho de estudo.
   > > Revisão | Quando já feito os cartões, revise todos eles antes de passar para as próximas etapas.
   > > Escrita | Terminada a revisão primária do baralho, com base nos conhecimentos já adquiridos, além de possíveis consultas ao material didático, escreva e forma mapas mentais referentes ao conhecimento em apredizado. [Área de produção aqui.](https://www.noteshub.app/notebooks/github/Efzevios%2FChronos/Se%C3%A7%C3%B5es%2FDisciplinas%2FOutros%2FPoesia%2FNo%C3%A7%C3%B5es%20de%20versifica%C3%A7%C3%A3o%20(Cap.%2022%3B%20Nova%20gram%C3%A1tica%20do%20portugu%C3%AAs%20contempor%C3%A2neo)%2F05.%20Poemas%20de%20forma%20fixa)
+  ---
+  [^1]: Leitura
+  - [x] Leitura
+  [^2]: .Anki
+  - [ ] .Anki
+  [^3]: Revisão
+  - [ ] Revisão
+  [^4]: Escrita
+  - [ ] Escrita
+  
 
 ## Fazendo
 
