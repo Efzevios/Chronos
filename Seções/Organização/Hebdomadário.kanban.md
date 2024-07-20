@@ -73,9 +73,6 @@
   >  > 
 
 ## Sexta-feira
-- A rima  
-
-## Sábado
 - Derivação e composição  
   Chronos, um guia (quase) perfeito
   > [!cite] Hodierno
@@ -94,5 +91,8 @@
     
   >  > [!quote]- Outros
   >  > 
+- A rima  
+
+## Sábado
 - Estrofação  
 - Poemas de forma fixa  
