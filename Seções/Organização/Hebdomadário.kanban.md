@@ -146,7 +146,7 @@
     
   >  > [!quote]- Outros
   >  > 
-- Estrofação  
+- Estrofação #Poesia  
   Chronos, um guia (quase) perfeito
   > [!cite] Hodierno
   >  > [!faq] Origem
