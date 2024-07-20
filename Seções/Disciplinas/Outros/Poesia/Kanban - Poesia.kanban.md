@@ -11,11 +11,13 @@
   > >  [!cite]+ Tabela
   > >  Afazer | Situação
   > > -|-
-  > > Estrutura do verso | - [x] Caesar salad
+  > > Estrutura do verso |
+  > > - [ ] Coconut cookies
   > > Tipos de verso |
   > > A rima |
   > > Estrofação |
   > > Poemas de forma fica |
+  - [ ] Cherry tomatoes
   
 
 ## Feito
