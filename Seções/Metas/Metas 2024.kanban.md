@@ -59,11 +59,10 @@
   > > [Termos](/Se%C3%A7%C3%B5es%2FBiblioteca%2FFic%C3%A7%C3%A3o%2F1984/Vocabul%C3%A1rio.md) | [Anotar vocábulos desconhecidos](/Se%C3%A7%C3%B5es%2FBiblioteca%2FFic%C3%A7%C3%A3o%2F1984/Vocabul%C3%A1rio.md) | A Fazer.
   > > [Resenha](/Se%C3%A7%C3%B5es%2FBiblioteca%2FFic%C3%A7%C3%A3o%2F1984/1984%20-%20resenha.md) | [Escrever resenha crítica sobre o livro](/Se%C3%A7%C3%B5es%2FBiblioteca%2FFic%C3%A7%C3%A3o%2F1984/1984%20-%20resenha.md) | A Fazer.
   > > 
-  <iframe
-    src="https://mdellacs.github.io/Calculadora-HTML-CSS-JS/"
-    style="width:100%;height:auto;aspect-ratio:1/1.4"
-    scrolling="no">
-  </iframe>
-  
+  >  >  <iframe
+  >  >   src="https://efzevios.github.io/Spork/Leitura.html"
+  >  >   style="width:100%;height:;aspect-ratio:1"
+  >  >   scrolling="yes">
+  >  > </iframe>
 
 ## Feito
