@@ -280,15 +280,16 @@
   ---
   [^1]: Leitura
   - [x] Leitura
-  [^2]: .Anki
+  [^2]: Cartões antigos
+  - [ ] Cartões antigos
+  [^3]: .Anki
   - [ ] .Anki
-  [^3]: Revisão
+  [^4]: Revisão
   - [ ] Revisão
-  [^4]: Escrita
+  [^5]: Escrita
   - [ ] Escrita
-  [^5]: Simulado
+  [^6]: Simulado
   - [ ] Simulado
-  
 - 07. Frase, oração e período ~3d #Linguagens #Portugues #Sintaxe  
   > [!cite] Chronos, um guia (quase) perfeito
   > ![image](.attachments/b2fd7590c0525b35c9718d836807c55484cd9317.svg) 
