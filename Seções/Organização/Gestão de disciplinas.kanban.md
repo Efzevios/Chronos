@@ -4,7 +4,7 @@
   >  [!cite]+ Organização
   >  > [!cite] Metas
   >  > 
-  >  >
+  >  
   >  > [!cite]+ Cálculo
   >  >  <iframe
   >  >   src="https://efzevios.github.io/Spork/Porcento.html"
