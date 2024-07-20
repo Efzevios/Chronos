@@ -111,3 +111,4 @@
 ## Sábado
 - Estrofação  
 - Poemas de forma fixa  
+- 07. Frase, oração e período  
