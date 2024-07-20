@@ -287,15 +287,15 @@
   > > Simulado[^5] | Quando já feitas as demais etapas do processo de aprendizagem, gere um simulado referente ao conteúdo aprendido. Na formação, deverá ter de trinta a cinquenta questões, de complexidade intermediária a difícil. Taxa mínima para seguir nos estudos: 70%. | A fazer.
   
   [^1]: Leitura
-  - [x] Situação
+  - [x] Leitura
   [^2]: .Anki
-  - [ ] Situação
+  - [ ] .Anki
   [^3]: Revisão
-  - [ ] Situação
+  - [ ] Revisão
   [^4]: Escrita
-  - [ ] Situação
+  - [ ] Escrita
   [^5]: Simulado
-  - [ ] Situação
+  - [ ] Simulado
   
 
 ## Feito
