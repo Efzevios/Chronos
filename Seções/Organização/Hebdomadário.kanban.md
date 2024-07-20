@@ -16,7 +16,7 @@
 - Ortografia  
 
 ## Sexta-feira
-- 05. Classe, estrutura e formação de palavras  
+- Classe, estrutura e formação de palavras  
 - A rima  
 
 ## Sábado
