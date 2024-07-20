@@ -13,7 +13,7 @@
   >  > 
 
 ## Segunda-feira
-- Fonética e fonologia  
+- Fonética e fonologia #Portugues  
   Chronos, um guia (quase) perfeito
   > [!cite] Hodierno
   >  > [!faq] Origem
