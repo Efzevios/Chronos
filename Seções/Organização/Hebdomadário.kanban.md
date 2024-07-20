@@ -13,7 +13,7 @@
 - Tipos de verso  
 
 ## Quinta-feira
-- 04. Ortografia  
+- Ortografia  
 
 ## Sexta-feira
 - 05. Classe, estrutura e formação de palavras  
