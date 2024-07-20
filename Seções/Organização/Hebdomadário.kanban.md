@@ -71,9 +71,9 @@
   - [ ] Leitura
   - [ ] Cartões antigos
   - [ ] .Anki
-  - [ ] 
-  - [ ] 
-  - [ ] 
+  - [ ] Revisão
+  - [ ] Escrita
+  - [ ] Simulado
     
   >  > [!quote]- Outros
   >  > 
