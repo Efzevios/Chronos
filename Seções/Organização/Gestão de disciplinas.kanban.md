@@ -1,6 +1,7 @@
 ## A Fazer
 - 00. Modelo  
-  # Gestão de [modelo]
+  > Chronos, uma guia (quase) perfeito
+  > # Gestão de [modelo]
   
   <iframe
     src="https://efzevios.github.io/Spork/Porcento.html"
