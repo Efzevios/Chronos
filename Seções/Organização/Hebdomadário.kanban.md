@@ -118,7 +118,7 @@
   >  > 
 
 ## Sexta-feira
-- Derivação e composição #Portugues  
+- Derivação e composição #Portugues #Morfologia  
   Chronos, um guia (quase) perfeito
   > [!cite] Hodierno
   >  > [!faq] Origem
