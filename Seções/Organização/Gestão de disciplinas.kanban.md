@@ -44,7 +44,7 @@
   # Gestão de [modelo]
   >  [!cite]+ Organização
   >  >  [!cite] Material 
-  >  >    Em caso de dúvida, [clique aqui para a gestão do material intraorganizacional](https://www.noteshub.app/notebooks/github/Efzevios%2FChronos/Se%C3%A7%C3%B5es%2FDisciplinas%2FOutros%2FPoesia) e [aqui para a gestão de metas]()
+  >  >    Em caso de dúvida, [clique aqui para a gestão do material intraorganizacional](https://www.noteshub.app/notebooks/github/Efzevios%2FChronos/Se%C3%A7%C3%B5es%2FDisciplinas%2FOutros%2FPoesia) e [aqui para a gestão de metas](https://www.noteshub.app/notebooks/github/Efzevios%2FChronos/Se%C3%A7%C3%B5es%2FDisciplinas%2FOutros%2FPoesia/Kanban%20-%20Poesia.kanban.md)
   >  
   >  > [!cite]+ Cálculo
   >  >  <iframe
