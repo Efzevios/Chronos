@@ -28,9 +28,6 @@
   >  > 
 
 ## Terça-feira
-- Estrutura do verso  
-
-## Quarta-feira
 - Ortografia  
   Chronos, um guia (quase) perfeito
   > [!cite] Hodierno
@@ -49,6 +46,9 @@
     
   >  > [!quote]- Outros
   >  > 
+- Estrutura do verso  
+
+## Quarta-feira
 - Tipos de verso  
 
 ## Quinta-feira
