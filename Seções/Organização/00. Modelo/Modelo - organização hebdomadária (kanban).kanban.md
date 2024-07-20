@@ -1,4 +1,4 @@
-## Domindo
+## Domingo
 
 ## Segunda-feira
 
