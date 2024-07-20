@@ -1,4 +1,5 @@
 ## Domindo
+- 03. Fonética e fonologia  
 
 ## Segunda-feira
 
