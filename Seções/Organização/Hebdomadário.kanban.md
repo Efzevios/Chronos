@@ -53,8 +53,6 @@
 - Tipos de verso  
 
 ## Quinta-feira
-
-## Sexta-feira
 - Classe, estrutura e formação de palavras  
   Chronos, um guia (quase) perfeito
   > [!cite] Hodierno
@@ -73,6 +71,8 @@
     
   >  > [!quote]- Outros
   >  > 
+
+## Sexta-feira
 - A rima  
 
 ## Sábado
