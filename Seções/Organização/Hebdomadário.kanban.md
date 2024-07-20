@@ -160,7 +160,7 @@
     
   >  > [!quote]- Outros
   >  > 
-- Poemas de forma fixa  
+- Poemas de forma fixa #Poesia  
   Chronos, um guia (quase) perfeito
   > [!cite] Hodierno
   >  > [!faq] Origem
