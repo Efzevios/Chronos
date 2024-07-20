@@ -1,25 +1,4 @@
 ## A Fazer
-- 02. Tipos de verso ~5h #Poesia #Versos 2024-07-24  
-  > [!cite] Chronos, um guia (quase) perfeito
-  > ![image](.attachments/b2fd7590c0525b35c9718d836807c55484cd9317.svg) 
-  > # Poesia
-  > >  [!cite]+ Tabela
-  > >  Afazer | Informações
-  > > -|-
-  > > Leitura[^1] | Antes de iniciar o processo de criação de cartões, leia atentamente o conteúdo do material referente ao estudo em questão. Em caso de dúvida, [clique aqui para a leitura.](https://drive.google.com/file/d/147QIO_S6JUk2DS9dyteesTT-cjk_YgVE/view?usp=drive_link)
-  > > .Anki[^2] | Após a leitura inicial, quando já detendo o conhecimento da matéria em questão, forme o baralho de estudo.
-  > > Revisão[^3] | Quando já feito os cartões, revise todos eles antes de passar para as próximas etapas. 
-  > > Escrita[^4] | Terminada a revisão primária do baralho, com base nos conhecimentos já adquiridos, além de possíveis consultas ao material didático, escreva e forma mapas mentais referentes ao conhecimento em apredizado. [Área de produção aqui.](https://www.noteshub.app/notebooks/github/Efzevios%2FChronos/Se%C3%A7%C3%B5es%2FDisciplinas%2FOutros%2FPoesia%2FNo%C3%A7%C3%B5es%20de%20versifica%C3%A7%C3%A3o%20(Cap.%2022%3B%20Nova%20gram%C3%A1tica%20do%20portugu%C3%AAs%20contempor%C3%A2neo)%2F02.%20Tipos%20de%20verso)
-  ---
-  [^1]: Leitura
-  - [ ] Leitura
-  [^2]: .Anki
-  - [ ] .Anki
-  [^3]: Revisão
-  - [ ] Revisão
-  [^4]: Escrita
-  - [ ] Escrita
-  
 - 03. A rima ~3h #Poesia #Rima  
   > [!cite] Chronos, um guia (quase) perfeito
   > ![image](.attachments/b2fd7590c0525b35c9718d836807c55484cd9317.svg) 
@@ -96,6 +75,27 @@
   > > .Anki[^2] | Após a leitura inicial, quando já detendo o conhecimento da matéria em questão, forme o baralho de estudo.
   > > Revisão[^3] | Quando já feito os cartões, revise todos eles antes de passar para as próximas etapas. 
   > > Escrita[^4] | Terminada a revisão primária do baralho, com base nos conhecimentos já adquiridos, além de possíveis consultas ao material didático, escreva e forma mapas mentais referentes ao conhecimento em apredizado. [Área de produção aqui.](https://www.noteshub.app/notebooks/github/Efzevios%2FChronos/Se%C3%A7%C3%B5es%2FDisciplinas%2FOutros%2FPoesia%2FNo%C3%A7%C3%B5es%20de%20versifica%C3%A7%C3%A3o%20(Cap.%2022%3B%20Nova%20gram%C3%A1tica%20do%20portugu%C3%AAs%20contempor%C3%A2neo)%2F01.%20Estrutura%20do%20verso) 
+  ---
+  [^1]: Leitura
+  - [ ] Leitura
+  [^2]: .Anki
+  - [ ] .Anki
+  [^3]: Revisão
+  - [ ] Revisão
+  [^4]: Escrita
+  - [ ] Escrita
+  
+- 02. Tipos de verso ~5h #Poesia #Versos 2024-07-24  
+  > [!cite] Chronos, um guia (quase) perfeito
+  > ![image](.attachments/b2fd7590c0525b35c9718d836807c55484cd9317.svg) 
+  > # Poesia
+  > >  [!cite]+ Tabela
+  > >  Afazer | Informações
+  > > -|-
+  > > Leitura[^1] | Antes de iniciar o processo de criação de cartões, leia atentamente o conteúdo do material referente ao estudo em questão. Em caso de dúvida, [clique aqui para a leitura.](https://drive.google.com/file/d/147QIO_S6JUk2DS9dyteesTT-cjk_YgVE/view?usp=drive_link)
+  > > .Anki[^2] | Após a leitura inicial, quando já detendo o conhecimento da matéria em questão, forme o baralho de estudo.
+  > > Revisão[^3] | Quando já feito os cartões, revise todos eles antes de passar para as próximas etapas. 
+  > > Escrita[^4] | Terminada a revisão primária do baralho, com base nos conhecimentos já adquiridos, além de possíveis consultas ao material didático, escreva e forma mapas mentais referentes ao conhecimento em apredizado. [Área de produção aqui.](https://www.noteshub.app/notebooks/github/Efzevios%2FChronos/Se%C3%A7%C3%B5es%2FDisciplinas%2FOutros%2FPoesia%2FNo%C3%A7%C3%B5es%20de%20versifica%C3%A7%C3%A3o%20(Cap.%2022%3B%20Nova%20gram%C3%A1tica%20do%20portugu%C3%AAs%20contempor%C3%A2neo)%2F02.%20Tipos%20de%20verso)
   ---
   [^1]: Leitura
   - [ ] Leitura
