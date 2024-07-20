@@ -17,8 +17,8 @@
   > # Metas
   > >  [!cite]+ Tabela
   > >  Afazer | Informações
-  > > -|-|-
-  > > | |
+  > > -|-
+  > > | 
   > 
   > > [!cite] Outros
 
