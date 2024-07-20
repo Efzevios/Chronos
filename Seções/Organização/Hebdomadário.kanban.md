@@ -14,5 +14,6 @@
 - 04. Ortografia  
 
 ## Sexta-feira
+- 05. Classe, estrutura e formação de palavras  
 
 ## Sábado
