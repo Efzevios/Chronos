@@ -62,7 +62,7 @@
   [^4]: Escrita
   - [ ] Escrita
   
-- 04. Estrofação ~3h #Poesia #Estrofe  
+- 04. Estrofação ~3h #Poesia #Estrofe 2024-08-02  
   > [!cite] Chronos, um guia (quase) perfeito
   > ![image](.attachments/b2fd7590c0525b35c9718d836807c55484cd9317.svg) 
   > # Poesia
