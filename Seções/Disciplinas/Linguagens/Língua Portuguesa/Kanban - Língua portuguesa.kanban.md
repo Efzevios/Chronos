@@ -459,15 +459,19 @@
   > > Escrita[^6] | Terminada a revisão primária do baralho, com base nos conhecimentos já adquiridos, além de possíveis consultas ao material didático, escreva e forma mapas mentais referentes ao conhecimento em apredizado. [Área de produção aqui.](https://www.noteshub.app/notebooks/github/Efzevios%2FChronos/Se%C3%A7%C3%B5es%2FDisciplinas%2FLinguagens%2FL%C3%ADngua%20Portuguesa%2F07.%20Frase%2C%20ora%C3%A7%C3%A3o%20e%20per%C3%ADodo) 
   > > Simulado[^7] | Quando já feitas as demais etapas do processo de aprendizagem, gere um simulado referente ao conteúdo aprendido. Na formação, deverá ter de trinta a cinquenta questões, de complexidade intermediária a difícil. Taxa mínima para seguir nos estudos: 70%.
   ---
-  [^1]: Leitura
+  [^1]: Videoaulas
+  - [ ] Videoaulas
+  [^2]: Leitura
   - [ ] Leitura
-  [^2]: .Anki
+  [^3]: Cartões antigos
+  - [ ] Cartões antigos
+  [^4]: .Anki
   - [ ] .Anki
-  [^3]: Revisão
+  [^5]: Revisão
   - [ ] Revisão
-  [^4]: Escrita
+  [^6]: Escrita
   - [ ] Escrita
-  [^5]: Simulado
+  [^7]: Simulado
   - [ ] Simulado
   
 
