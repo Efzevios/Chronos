@@ -8,7 +8,8 @@
   >  > [!cite] Metas 
   >  >  Situação | Afazer | Descrição
   >  >  -|-|-
-  >  >  - [ ] | a | a
+  >  >  - [ ] 
+  | |
   >  >  - [ ] | |
   >  >  - [ ] | |
   >  
