@@ -9,7 +9,7 @@
 - Estrutura do verso  
 
 ## Quarta-feira
-- 04. Ortografia  
+- Ortografia  
 - 02. Tipos de verso  
 
 ## Quinta-feira
