@@ -225,7 +225,7 @@
   > > Simulado[^6] | Quando já feitas as demais etapas do processo de aprendizagem, gere um simulado referente ao conteúdo aprendido. Na formação, deverá ter de trinta a cinquenta questões, de complexidade intermediária a difícil. Taxa mínima para seguir nos estudos: 70%.
   ---
   [^1]: Leitura
-  - [x] Leitura
+  - [ ] Leitura
   [^2]: Cartões antigos
   - [ ] Cartões antigos
   [^3]: .Anki
