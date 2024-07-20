@@ -5,6 +5,9 @@
   >  > [!cite] Metas
   >  >  > [!cite] Material 
   >  >  >   Em caso de dúvida, [clique aqui para a gestão do material intraorganizacional]()
+  >  >  > Afazer | Informações | Situação
+  >  >  > -|-|-
+  >  >  > 
   >  
   >  > [!cite]+ Cálculo
   >  >  <iframe
