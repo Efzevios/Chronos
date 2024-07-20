@@ -215,16 +215,26 @@
   > ![image](.attachments/b2fd7590c0525b35c9718d836807c55484cd9317.svg) 
   > # Português
   > >  [!cite]+ Tabela
-  > >  Afazer | Informações | Situação
-  > > -|-|-
-  > > Leitura | Antes de iniciar o processo de criação de cartões, leia atentamente o conteúdo do material referente ao estudo em questão. Em caso de dúvida, [clique aqui para a leitura.](https://drive.google.com/file/d/1S9HOPcHtSKITEPnj_u_y0DfCQSor6ftq/view?usp=sharing) | A fazer.
-  > > Cartões antigos | Após a leitura inicial, com base nos [cartões antigos](https://drive.google.com/file/d/1Foiorn-TOqgCQqJ8xvM9awebrN3w-b1f/view?usp=sharing), organize-os para se adequar ao material de agora. | A fazer.
-  > > .Anki | Após organizar os cartões .anki antigos, já detendo o conhecimento da matéria em questão, forme o baralho de estudo. | A fazer.
-  > > Revisão | Quando já feito os cartões, revise todos eles antes de passar para as próximas etapas. | A fazer.
-  > > Escrita | Terminada a revisão primária do baralho, com base nos conhecimentos já adquiridos, além de possíveis consultas ao material didático, escreva e forma mapas mentais referentes ao conhecimento em apredizado. [Área de produção aqui.](https://www.noteshub.app/notebooks/github/Efzevios%2FChronos/Se%C3%A7%C3%B5es%2FDisciplinas%2FLinguagens%2FL%C3%ADngua%20Portuguesa%2F04.%20Ortografia) | A fazer.
-  > > Simulado | Quando já feitas as demais etapas do processo de aprendizagem, gere um simulado referente ao conteúdo aprendido. Na formação, deverá ter de trinta a cinquenta questões, de complexidade intermediária a difícil. Taxa mínima para seguir nos estudos: 70%. | A fazer.
-  > 
-  > > [!cite]+ Outros
+  > >  Afazer | Informações
+  > > -|-
+  > > Leitura | Antes de iniciar o processo de criação de cartões, leia atentamente o conteúdo do material referente ao estudo em questão. Em caso de dúvida, [clique aqui para a leitura.](https://drive.google.com/file/d/1S9HOPcHtSKITEPnj_u_y0DfCQSor6ftq/view?usp=sharing) 
+  > > Cartões antigos | Após a leitura inicial, com base nos [cartões antigos](https://drive.google.com/file/d/1Foiorn-TOqgCQqJ8xvM9awebrN3w-b1f/view?usp=sharing), organize-os para se adequar ao material de agora. 
+  > > .Anki | Após organizar os cartões .anki antigos, já detendo o conhecimento da matéria em questão, forme o baralho de estudo. 
+  > > Revisão | Quando já feito os cartões, revise todos eles antes de passar para as próximas etapas.
+  > > Escrita | Terminada a revisão primária do baralho, com base nos conhecimentos já adquiridos, além de possíveis consultas ao material didático, escreva e forma mapas mentais referentes ao conhecimento em apredizado. [Área de produção aqui.](https://www.noteshub.app/notebooks/github/Efzevios%2FChronos/Se%C3%A7%C3%B5es%2FDisciplinas%2FLinguagens%2FL%C3%ADngua%20Portuguesa%2F04.%20Ortografia) 
+  > > Simulado | Quando já feitas as demais etapas do processo de aprendizagem, gere um simulado referente ao conteúdo aprendido. Na formação, deverá ter de trinta a cinquenta questões, de complexidade intermediária a difícil. Taxa mínima para seguir nos estudos: 70%.
+  ---
+  [^1]: Leitura
+  - [x] Leitura
+  [^2]: .Anki
+  - [ ] .Anki
+  [^3]: Revisão
+  - [ ] Revisão
+  [^4]: Escrita
+  - [ ] Escrita
+  [^5]: Simulado
+  - [ ] Simulado
+  
 - 05. Classe, estrutura e formação de palavras ~1d #Linguagens #Portugues #Morfologia  
   > [!cite] Chronos, um guia (quase) perfeito
   > ![image](.attachments/b2fd7590c0525b35c9718d836807c55484cd9317.svg) 
