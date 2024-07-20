@@ -10,7 +10,7 @@
   > # Poesia
   > >  [!cite]+ Tabela
    - [x]  Estrutura do verso 
-   - [ ]  Tipos de verso
+   - [x]  Tipos de verso
    - [ ]  A rima
    - [ ]  Estrofação
    - [ ]  Poemas de forma fica
