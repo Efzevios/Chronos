@@ -105,8 +105,6 @@
   - [ ] Escrita
   
 
-## Planejados
-
 ## Fazendo
 
 ## Feito
