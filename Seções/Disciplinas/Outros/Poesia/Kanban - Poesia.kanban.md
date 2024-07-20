@@ -11,7 +11,7 @@
   > >  [!cite]+ Tabela
   > >  Afazer | Situação
   > > -|-
-  > > Estrutura do verso | 
+  > > Estrutura do verso | - [x] Caesar salad
   > > Tipos de verso |
   > > A rima |
   > > Estrofação |
