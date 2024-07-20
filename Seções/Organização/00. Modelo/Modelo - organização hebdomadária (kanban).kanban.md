@@ -9,10 +9,11 @@
   
   Situação | Afazer | Descrição
   -|-|-
-  - [ ] a | a | a
-  - [ ] a | a | a
-  - [ ] | |
-  - [ ] | |
+  A Fazer. | ??? | ???
+  - [ ] 
+  - [ ] 
+  - [ ] 
+  - [ ] 
     
   >  > [!quote]- Outros
   >  > 
