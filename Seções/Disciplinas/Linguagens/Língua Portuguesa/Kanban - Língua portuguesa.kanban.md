@@ -134,8 +134,8 @@
   > ![image](.attachments/b2fd7590c0525b35c9718d836807c55484cd9317.svg) 
   > # Português
   > >  [!cite]+ Tabela
-  > >  Afazer | Informações | Situação
-  > > -|-|-
+  > >  Afazer | Informações
+  > > -|-
   > > Leitura[^1] | Antes de iniciar o processo de criação de cartões, leia atentamente o conteúdo do material referente ao estudo em questão. Em caso de dúvida, [clique aqui para a leitura.](https://drive.google.com/file/d/1rnAJIjOTG8ob6IpJkbNiNRyk2jbUoEJ_/view?usp=drive_link) 
   > > Cartões antigos[^2] | Após a leitura inicial, com base nos [cartões antigos](https://drive.google.com/file/d/1f3dh0yK3IvWddU3IaKPIxR_H8HIg6Nkw/view?usp=drive_link), organize-os para se adequar ao material de agora.
   > > .Anki[^3] | Após organizar os cartões .anki antigos, já detendo o conhecimento da matéria em questão, forme o baralho de estudo.
