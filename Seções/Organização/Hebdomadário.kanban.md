@@ -6,6 +6,7 @@
 
 ## Terça-feira
 - 03. Fonética e fonologia  
+- 01. Estrutura do verso  
 
 ## Quarta-feira
 - 04. Ortografia  
