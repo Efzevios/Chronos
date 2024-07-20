@@ -12,7 +12,7 @@
   >  >  - [ ] | |
   >  >  - [ ] | |
   >  
-  >  > [!quote] Outros
+  >  > [!quote]- Outros
   >  > 
 
 ## Segunda-feira
