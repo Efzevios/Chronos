@@ -28,7 +28,6 @@
   >  > 
 
 ## Terça-feira
-- Fonética e fonologia  
 - Estrutura do verso  
 
 ## Quarta-feira
