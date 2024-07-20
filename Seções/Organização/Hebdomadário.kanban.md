@@ -10,6 +10,7 @@
 
 ## Quarta-feira
 - 04. Ortografia  
+- 02. Tipos de verso  
 
 ## Quinta-feira
 - 04. Ortografia  
