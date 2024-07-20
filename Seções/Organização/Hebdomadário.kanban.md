@@ -1,10 +1,10 @@
+## Domindo
+
 ## Quinta-feira
 
 ## Sexta-feira
 
 ## Sábado
-
-## Domindo
 
 ## Segunda-feira
 
