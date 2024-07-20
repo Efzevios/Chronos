@@ -6,10 +6,6 @@
   >  >  > Para acessar a seção kanban da disciplina, [clique aqui](). Para acessar a pasta da matéria, [clique aqui]().
   >  
   #### Metas
-  
-  Situação | Afazer | Descrição
-  -|-|-
-  A Fazer. | ??? | ???
   - [ ] 
   - [ ] 
   - [ ] 
