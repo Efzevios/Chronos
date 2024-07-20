@@ -8,6 +8,7 @@
 - 03. Fonética e fonologia  
 
 ## Quarta-feira
+- 04. Ortografia  
 
 ## Quinta-feira
 
