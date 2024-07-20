@@ -27,7 +27,7 @@
   
 
 ## Fazendo
-- Português  
+- Português 2024-09-21  
   # Gestão de [modelo]
   >  [!cite]+ Organização
   >  >  [!cite] Material 
