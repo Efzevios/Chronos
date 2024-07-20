@@ -21,7 +21,7 @@
   - [ ] Escrita
   
 - 02. Tipos de verso ~5h  
-  [^]> [!cite] Chronos, um guia (quase) perfeito
+  > [!cite] Chronos, um guia (quase) perfeito
   > ![image](.attachments/b2fd7590c0525b35c9718d836807c55484cd9317.svg) 
   > # Poesia
   > >  [!cite]+ Tabela
