@@ -17,7 +17,7 @@
 
 ## Sexta-feira
 - 05. Classe, estrutura e formação de palavras  
-- 03. A rima  
+- A rima  
 
 ## Sábado
 - 06. Derivação e composição  
