@@ -87,7 +87,7 @@
   >  > 
 
 ## Quinta-feira
-- Classe, estrutura e formação de palavras #Portugues  
+- Classe, estrutura e formação de palavras #Portugues #Morfologia  
   Chronos, um guia (quase) perfeito
   > [!cite] Hodierno
   >  > [!faq] Origem
