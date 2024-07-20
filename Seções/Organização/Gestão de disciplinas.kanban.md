@@ -7,6 +7,7 @@
   </iframe>
   
 - Literatura  
+- História das artes  
 
 ## Fazendo
 - Português  
