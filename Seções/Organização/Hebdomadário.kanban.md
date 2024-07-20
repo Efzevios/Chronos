@@ -2,13 +2,13 @@
 
 ## Segunda-feira
 
+## Terça-feira
+
 ## Quinta-feira
 
 ## Sexta-feira
 
 ## Sábado
-
-## Terça-feira
 
 ## Quarta-feira
 - Frase, oração e período  
