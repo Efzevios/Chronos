@@ -20,5 +20,5 @@
 - A rima  
 
 ## Sábado
-- 06. Derivação e composição  
+- Derivação e composição  
 - 04. Estrofação  
