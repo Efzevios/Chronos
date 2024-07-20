@@ -42,7 +42,7 @@
     
   >  > [!quote]- Outros
   >  > 
-- Estrutura do verso #Poesia  
+- Estrutura do verso #Poesia #Gramaticanormativa  
   Chronos, um guia (quase) perfeito
   > [!cite] Hodierno
   >  > [!faq] Origem
