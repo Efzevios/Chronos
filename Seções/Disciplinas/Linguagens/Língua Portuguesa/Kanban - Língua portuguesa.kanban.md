@@ -285,7 +285,7 @@
   > > Revisão[^3] | Quando já feito os cartões, revise todos eles antes de passar para as próximas etapas.
   > > Escrita[^4] | Terminada a revisão primária do baralho, com base nos conhecimentos já adquiridos, além de possíveis consultas ao material didático, escreva e forma mapas mentais referentes ao conhecimento em apredizado. [Área de produção aqui.](https://www.noteshub.app/notebooks/github/Efzevios%2FChronos/Se%C3%A7%C3%B5es%2FDisciplinas%2FLinguagens%2FL%C3%ADngua%20Portuguesa%2F03.%20Fon%C3%A9tica%20e%20fonologia)
   > > Simulado[^5] | Quando já feitas as demais etapas do processo de aprendizagem, gere um simulado referente ao conteúdo aprendido. Na formação, deverá ter de trinta a cinquenta questões, de complexidade intermediária a difícil. Taxa mínima para seguir nos estudos: 70%.
-  
+  ---
   [^1]: Leitura
   - [x] Leitura
   [^2]: .Anki
