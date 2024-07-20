@@ -11,6 +11,7 @@
   > > [!cite] Outros
 
 ## A Fazer
+- Caligrafia  
 
 ## Fazendo
 - Meta de leitura anual #Aprendizado #Inteligencia 2024-12-31  
