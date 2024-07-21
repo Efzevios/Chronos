@@ -41,7 +41,7 @@
   > > 
   >  >  <iframe
   >  >   src="https://efzevios.github.io/Spork/Leitura.html"
-  >  >   style="width:100%;height:;aspect-ratio:"
+  >  >   style="width:100%;height:;aspect-ratio:1/1"
   >  >   scrolling="yes">
   >  > </iframe>
 
