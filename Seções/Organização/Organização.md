@@ -14,4 +14,3 @@
 > > ---
 > > - [Língua portuguesa](/Se%C3%A7%C3%B5es%2FDisciplinas%2FLinguagens%2FL%C3%ADngua%20Portuguesa/Kanban%20-%20L%C3%ADngua%20portuguesa.kanban.md)
 > > - [Poesia](/Se%C3%A7%C3%B5es%2FDisciplinas%2FOutros%2FPoesia%2FNo%C3%A7%C3%B5es%20de%20versifica%C3%A7%C3%A3o%20(Cap.%2022%3B%20Nova%20gram%C3%A1tica%20do%20portugu%C3%AAs%20contempor%C3%A2neo)/Kanban%20-%20No%C3%A7%C3%B5es%20de%20versifica%C3%A7%C3%A3o.kanban.md)
-> > 
