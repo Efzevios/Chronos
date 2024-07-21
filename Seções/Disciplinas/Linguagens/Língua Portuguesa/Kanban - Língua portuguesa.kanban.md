@@ -446,7 +446,7 @@
   [^7]: Simulado
   - [ ] Simulado
   
-- 08. Substantivo ~2 #Linguagens #Portugues #Morfologia 2024-08-04  
+- 08. Substantivo ~2 #Linguagens #Portugues #Morfologia  
   > [!cite] Chronos, um guia (quase) perfeito
   > ![image](.attachments/b2fd7590c0525b35c9718d836807c55484cd9317.svg) 
   > # Português
