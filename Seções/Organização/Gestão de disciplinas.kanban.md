@@ -28,7 +28,7 @@
   >  >  > </iframe>
   
 - História das artes  
-  # Gestão de [modelo]
+  # Gestão de História das Artes
   >  [!cite]+ Organização
   >  >  [!cite] Material 
   >  >    Em caso de dúvida, [clique aqui para a gestão do material intraorganizacional]() e [aqui para a gestão de metas]()
