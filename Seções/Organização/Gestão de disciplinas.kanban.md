@@ -1,6 +1,6 @@
 ## A Fazer
 - Literatura  
-  # Gestão de [modelo]
+  # Gestão de Literatura
   >  [!cite]+ Organização
   >  >  [!cite] Material 
   >  >    Em caso de dúvida, [clique aqui para a gestão do material intraorganizacional]() e [aqui para a gestão de metas]()
