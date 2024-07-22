@@ -13,6 +13,7 @@
   >  > 
 
 ## Quarta-feira
+- 03. Fonética e fonologia  
 
 ## Quinta-feira
 - 04. Ortografia #Portugues  
