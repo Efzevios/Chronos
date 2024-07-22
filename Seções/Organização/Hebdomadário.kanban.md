@@ -93,6 +93,7 @@
     
   >  > [!quote]- Outros
   >  > 
+- 01. Tipos de verso  
 
 ## Segunda-feira
 - 07. Frase, oração e período #Portugues 2024-07-29  
