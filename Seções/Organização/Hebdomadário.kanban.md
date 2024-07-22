@@ -28,7 +28,7 @@
   >  > 
 
 ## Quinta-feira
-- 04. Ortografia #Portugues  
+- 04. Ortografia #Portugues 2024-07-25  
   Chronos, um guia (quase) perfeito
   > [!cite] Hodierno
   >  > [!faq] Origem
