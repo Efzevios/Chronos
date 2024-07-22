@@ -13,7 +13,7 @@
   >  > 
 
 ## Quarta-feira
-- 03. Fonética e fonologia #Portugues  
+- 03. Fonética e fonologia #Portugues 2024-07-24  
   Chronos, um guia (quase) perfeito
   > [!cite] Hodierno
   >  > [!faq] Origem
