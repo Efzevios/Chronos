@@ -9,6 +9,7 @@
   > > | |
   > 
   > > [!cite] Outros
+- Modelo - leitura  
 
 ## A Fazer
 
