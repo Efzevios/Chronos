@@ -93,7 +93,7 @@
     
   >  > [!quote]- Outros
   >  > 
-- 01. Tipos de verso  
+- 01. Tipos de verso 2024-07-28  
   Chronos, um guia (quase) perfeito
   > [!cite] Hodierno
   >  > [!faq] Origem
