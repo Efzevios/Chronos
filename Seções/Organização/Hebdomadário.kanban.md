@@ -65,5 +65,6 @@
   >  > 
 
 ## Domingo
+- 07. Frase, ora  
 
 ## Segunda-feira
