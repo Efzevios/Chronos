@@ -49,7 +49,7 @@
   >  > 
 
 ## Sábado
-- 06. Derivação e composição  
+- 06. Derivação e composição #Portugues  
   Chronos, um guia (quase) perfeito
   > [!cite] Hodierno
   >  > [!faq] Origem
