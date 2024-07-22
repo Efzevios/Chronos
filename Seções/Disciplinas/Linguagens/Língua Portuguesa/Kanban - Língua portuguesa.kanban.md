@@ -465,7 +465,7 @@
   - [ ] Revisão
   - [ ] Escrita
   - [ ] Simulado
-- 07. Frase, oração e período ~1w #Linguagens #Portugues #Sintaxe  
+- 07. Frase, oração e período ~6d #Linguagens #Portugues #Sintaxe  
   > [!cite] Chronos, um guia (quase) perfeito
   > ![image](.attachments/b2fd7590c0525b35c9718d836807c55484cd9317.svg) 
   > # Português
