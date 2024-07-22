@@ -64,7 +64,7 @@
   >  > 
 
 ## Sábado
-- 06. Derivação e composição #Portugues  
+- 06. Derivação e composição #Portugues 2024-07-27  
   Chronos, um guia (quase) perfeito
   > [!cite] Hodierno
   >  > [!faq] Origem
