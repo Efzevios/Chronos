@@ -95,3 +95,4 @@
   >  > 
 
 ## Segunda-feira
+- 07. Frase, oração e período  
