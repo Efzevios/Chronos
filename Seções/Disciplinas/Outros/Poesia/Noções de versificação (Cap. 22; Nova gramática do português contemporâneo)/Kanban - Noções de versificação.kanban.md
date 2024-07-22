@@ -46,6 +46,11 @@
   > > </iframe>
     ---
   ### Situação
+  - [ ] Leitura
+  - [ ] .Anki
+  - [ ] Revisão
+  - [ ] Escrita
+  
 - 03. A rima ~3h #Poesia #Rima 2024-07-26  
   > [!cite] Chronos, um guia (quase) perfeito
   > ![image](.attachments/b2fd7590c0525b35c9718d836807c55484cd9317.svg) 
