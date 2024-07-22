@@ -95,7 +95,7 @@
   >  > 
 
 ## Segunda-feira
-- 07. Frase, oração e período #Portugues  
+- 07. Frase, oração e período #Portugues 2024-07-29  
   Chronos, um guia (quase) perfeito
   > [!cite] Hodierno
   >  > [!faq] Origem
