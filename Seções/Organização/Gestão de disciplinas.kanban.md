@@ -33,12 +33,27 @@
   >  >  [!cite] Material 
   >  >    Em caso de dúvida, [clique aqui para a gestão do material intraorganizacional](https://www.noteshub.app/notebooks/github/Efzevios%2FChronos/Se%C3%A7%C3%B5es%2FDisciplinas%2FLinguagens%2FL%C3%ADngua%20Portuguesa) e [aqui para a gestão de metas](https://www.noteshub.app/notebooks/github/Efzevios%2FChronos/Se%C3%A7%C3%B5es%2FDisciplinas%2FLinguagens%2FL%C3%ADngua%20Portuguesa/Kanban%20-%20L%C3%ADngua%20portuguesa.kanban.md)
   >  
-  >  > [!cite]+ Cálculo
-  >  >  <iframe
-  >  >   src="https://efzevios.github.io/Spork/Porcento.html"
-  >  >   style="width:100%;height:;aspect-ratio:1"
-  >  >   scrolling="yes">
-  >  > </iframe>
+  >  > [!cite]+ Métodos de gerenciamento
+  >  >  > [!cite]- Matriz de Eisenhower (modificada)
+  >  >  > <iframe
+  >  >  >  src="https://efzevios.github.io/Spork/Matriz%20de%20eisenhower.html"
+  >  >  >  style="width:100%;height:auto;aspect-ratio:1/1.3"
+  >  >  >  scrolling="no">
+  >  >  > </iframe>
+  >  >
+  >  >  > [!cite]- Matriz de Variáveis
+  >  >  > <iframe
+  >  >  >  src="https://efzevios.github.io/Spork/Matriz%20de%20vari%C3%A1veis.html "
+  >  >  >  style="width:100%;height:auto;aspect-ratio:1/1"
+  >  >  >  scrolling="no">
+  >  >  > </iframe>
+  >  >
+  >  >  > [!cite]- Cálculo de Tempo
+  >  >  >  <iframe
+  >  >  >   src="https://efzevios.github.io/Spork/Porcento.html"
+  >  >  >   style="width:100%;height:;aspect-ratio:1"
+  >  >  >   scrolling="yes">
+  >  >  > </iframe>
   
 - Poesia 2024-07-27  
   # Gestão de Poesia
