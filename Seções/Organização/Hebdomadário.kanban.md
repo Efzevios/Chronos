@@ -65,7 +65,7 @@
   >  > 
 
 ## Domingo
-- 07. Frase, oração e período  
+- 07. Frase, oração e período #Portugues  
   Chronos, um guia (quase) perfeito
   > [!cite] Hodierno
   >  > [!faq] Origem
