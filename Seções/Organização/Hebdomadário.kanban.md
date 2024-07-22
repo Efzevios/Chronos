@@ -17,6 +17,7 @@
 ## Quarta-feira
 
 ## Quinta-feira
+- 04. Ortografia  
 
 ## Sexta-feira
 
