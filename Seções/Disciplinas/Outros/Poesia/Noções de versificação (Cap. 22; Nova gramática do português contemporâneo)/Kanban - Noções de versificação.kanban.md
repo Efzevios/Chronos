@@ -84,19 +84,25 @@
   > >  [!cite]+ Tabela
   > >  Afazer | Informações
   > > -|-
-  > > Leitura[^1] | Antes de iniciar o processo de criação de cartões, leia atentamente o conteúdo do material referente ao estudo em questão. Em caso de dúvida, [clique aqui para a leitura.](https://drive.google.com/file/d/1E0iEhJ5s-QzPxn8_pT-rSQEf4JjjZB4m/view?usp=drive_link)
-  > > .Anki[^2] | Após a leitura inicial, quando já detendo o conhecimento da matéria em questão, forme o baralho de estudo. 
-  > > Revisão[^3] | Quando já feito os cartões, revise todos eles antes de passar para as próximas etapas.
-  > > Escrita[^4] | Terminada a revisão primária do baralho, com base nos conhecimentos já adquiridos, além de possíveis consultas ao material didático, escreva e forma mapas mentais referentes ao conhecimento em apredizado. [Área de produção aqui.](https://www.noteshub.app/notebooks/github/Efzevios%2FChronos/Se%C3%A7%C3%B5es%2FDisciplinas%2FOutros%2FPoesia%2FNo%C3%A7%C3%B5es%20de%20versifica%C3%A7%C3%A3o%20(Cap.%2022%3B%20Nova%20gram%C3%A1tica%20do%20portugu%C3%AAs%20contempor%C3%A2neo)%2F04.%20Estrofa%C3%A7%C3%A3o)
-  ---
-  [^1]: Leitura
+  > > Leitura | Antes de iniciar o processo de criação de cartões, leia atentamente o conteúdo do material referente ao estudo em questão. Em caso de dúvida, [clique aqui para a leitura.](https://drive.google.com/file/d/1E0iEhJ5s-QzPxn8_pT-rSQEf4JjjZB4m/view?usp=drive_link)
+  > > .Anki | Após a leitura inicial, quando já detendo o conhecimento da matéria em questão, forme o baralho de estudo. 
+  > > Revisão | Quando já feito os cartões, revise todos eles antes de passar para as próximas etapas.
+  > > Escrita | Terminada a revisão primária do baralho, com base nos conhecimentos já adquiridos, além de possíveis consultas ao material didático, escreva e forma mapas mentais referentes ao conhecimento em apredizado. [Área de produção aqui.](https://www.noteshub.app/notebooks/github/Efzevios%2FChronos/Se%C3%A7%C3%B5es%2FDisciplinas%2FOutros%2FPoesia%2FNo%C3%A7%C3%B5es%20de%20versifica%C3%A7%C3%A3o%20(Cap.%2022%3B%20Nova%20gram%C3%A1tica%20do%20portugu%C3%AAs%20contempor%C3%A2neo)%2F04.%20Estrofa%C3%A7%C3%A3o)
+  >
+  > > [!cite]- Gestão de tempo
+  > > 
+  > > <iframe
+  > >  src="https://efzevios.github.io/Spork/Porcento_2.html"
+  > >  style="width:100%;height:auto;aspect-ratio:1/1"
+  > >  scrolling="no">
+  > > </iframe>
+    ---
+  ### Situação
   - [ ] Leitura
-  [^2]: .Anki
   - [ ] .Anki
-  [^3]: Revisão
   - [ ] Revisão
-  [^4]: Escrita
   - [ ] Escrita
+  
   
 - 05. Poemas de forma fixa ~2h #Poesia #Formafixa 2024-07-26  
   > [!cite] Chronos, um guia (quase) perfeito
