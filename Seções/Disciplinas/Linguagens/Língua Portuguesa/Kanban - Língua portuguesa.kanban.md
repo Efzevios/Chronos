@@ -500,7 +500,7 @@
   - [ ] .Anki
   - [ ] Revisão
   - [ ] Escrita
-   - [ ] Simulado
+  - [ ] Simulado
   
 
 ## Feito
