@@ -496,15 +496,15 @@
   > > </iframe>
   
   ---
-  [^1]: Leitura
+  
   - [x] Leitura
-  [^2]: .Anki
+  
   - [ ] .Anki
-  [^3]: Revisão
+  
   - [ ] Revisão
-  [^4]: Escrita
+  
   - [ ] Escrita
-  [^5]: Simulado
+  
   - [ ] Simulado
   
 
