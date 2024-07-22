@@ -4,7 +4,7 @@
 > > [!cite]+ Organização
 > > > [!example]
 > >  [Hebdomadário](/Se%C3%A7%C3%B5es%2FOrganiza%C3%A7%C3%A3o/Hebdomad%C3%A1rio.kanban.md): planejamento semanal em kanban.
-> > [Gestão de disciplinas](https://www.noteshub.app/notebooks/github/Efzevios%2FChronos/Se%C3%A7%C3%B5es%2FOrganiza%C3%A7%C3%A3o/Gest%C3%A3o%20de%20disciplinas.kanban.md): planejamento dos estudos em kanban.
+> > [Gestão de disciplinas](/Se%C3%A7%C3%B5es%2FOrganiza%C3%A7%C3%A3o/Gest%C3%A3o%20de%20disciplinas.kanban.md): planejamento dos estudos em kanban.
 > >
 > > > [!attention]+ Produzindo
 > > [Gestão de matérias](/Se%C3%A7%C3%B5es%2FOrganiza%C3%A7%C3%A3o/Organiza%C3%A7%C3%A3o%20de%20mat%C3%A9rias.md): ferramentas auxiliares no processo de organização semanal.
