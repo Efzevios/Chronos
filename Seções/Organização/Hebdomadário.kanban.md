@@ -37,7 +37,7 @@
   Chronos, um guia (quase) perfeito
   > [!cite] Hodierno
   >  > [!faq] Origem
-  >  >  > Para acessar a seção kanban da disciplina, [clique aqui](). Para acessar a pasta da matéria, [clique aqui]().
+  >  >  > Para acessar a seção kanban da disciplina, [clique aqui](/Se%C3%A7%C3%B5es%2FDisciplinas%2FLinguagens%2FL%C3%ADngua%20Portuguesa/Kanban%20-%20L%C3%ADngua%20portuguesa.kanban.md). Para acessar a pasta da matéria, [clique aqui]().
   >  
   #### Metas
   - [ ] 
