@@ -7,22 +7,6 @@
 ## Quarta-feira
 
 ## Quinta-feira
-- Classe, estrutura e formação de palavras #Portugues #Morfologia  
-  Chronos, um guia (quase) perfeito
-  > [!cite] Hodierno
-  >  > [!faq] Origem
-  >  >  > Para acessar a seção kanban da disciplina, [clique aqui](https://www.noteshub.app/notebooks/github/Efzevios%2FChronos/Se%C3%A7%C3%B5es%2FDisciplinas%2FLinguagens%2FL%C3%ADngua%20Portuguesa/Kanban%20-%20L%C3%ADngua%20portuguesa.kanban.md). Para acessar a pasta da matéria, [clique aqui](https://www.noteshub.app/notebooks/github/Efzevios%2FChronos/Se%C3%A7%C3%B5es%2FDisciplinas%2FLinguagens%2FL%C3%ADngua%20Portuguesa%2F05.%20Classe%2C%20estrutura%20e%20forma%C3%A7%C3%A3o%20de%20palavras).
-  >  
-  #### Metas
-  - [ ] Leitura
-  - [ ] Cartões antigos
-  - [ ] .Anki
-  - [ ] Revisão
-  - [ ] Escrita
-  - [ ] Simulado
-    
-  >  > [!quote]- Outros
-  >  > 
 - Derivação e composição #Portugues #Morfologia  
   Chronos, um guia (quase) perfeito
   > [!cite] Hodierno
