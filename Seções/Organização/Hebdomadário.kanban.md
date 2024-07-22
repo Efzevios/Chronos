@@ -145,6 +145,7 @@
   - [ ] Escrita
     
   >  > [!quote]- Outros
+- 05. Poemas de forma fixa  
 
 ## Segunda-feira
 - 07. Frase, oração e período #Portugues 2024-07-29  
