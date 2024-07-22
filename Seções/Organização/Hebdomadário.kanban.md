@@ -132,6 +132,7 @@
   - [ ] Escrita
     
   >  > [!quote]- Outros
+- 04. Estrofação  
 
 ## Segunda-feira
 - 07. Frase, oração e período #Portugues 2024-07-29  
