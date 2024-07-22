@@ -5,20 +5,6 @@
 ## Terça-feira
 
 ## Quarta-feira
-- Tipos de verso #Poesia  
-  Chronos, um guia (quase) perfeito
-  > [!cite] Hodierno
-  >  > [!faq] Origem
-  >  >  > Para acessar a seção kanban da disciplina, [clique aqui](https://www.noteshub.app/notebooks/github/Efzevios%2FChronos/Se%C3%A7%C3%B5es%2FDisciplinas%2FOutros%2FPoesia%2FNo%C3%A7%C3%B5es%20de%20versifica%C3%A7%C3%A3o%20(Cap.%2022%3B%20Nova%20gram%C3%A1tica%20do%20portugu%C3%AAs%20contempor%C3%A2neo)/Kanban%20-%20No%C3%A7%C3%B5es%20de%20versifica%C3%A7%C3%A3o.kanban.md). Para acessar a pasta da matéria, [clique aqui](https://www.noteshub.app/notebooks/github/Efzevios%2FChronos/Se%C3%A7%C3%B5es%2FDisciplinas%2FOutros%2FPoesia%2FNo%C3%A7%C3%B5es%20de%20versifica%C3%A7%C3%A3o%20(Cap.%2022%3B%20Nova%20gram%C3%A1tica%20do%20portugu%C3%AAs%20contempor%C3%A2neo)%2F02.%20Tipos%20de%20verso).
-  >  
-  #### Metas
-  - [ ] Leitura
-  - [ ] .Anki
-  - [ ] Revisão
-  - [ ] Escrita
-    
-  >  > [!quote]- Outros
-  >  > 
 
 ## Quinta-feira
 - Classe, estrutura e formação de palavras #Portugues #Morfologia  
