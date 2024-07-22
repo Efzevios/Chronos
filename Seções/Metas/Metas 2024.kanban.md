@@ -28,7 +28,7 @@
   > > 1984 | 13 | Fazendo.
   > > 
   > 
-- 1984 #Inteligencia #Aprendizado  
+- 1984 #Inteligencia #Aprendizado 2024-07-31  
   > [!cite] Chronos, um guia (quase) perfeito
   > ![image](.attachments/82ae44a5a3265e69e717c2f342cb1a202786882c.svg) 
   > # Metas
