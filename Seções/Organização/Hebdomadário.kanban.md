@@ -33,7 +33,7 @@
   >  > 
 
 ## Sexta-feira
-- 05. Classe, estrutura e formação de palavras  
+- 05. Classe, estrutura e formação de palavras #Portugues  
   Chronos, um guia (quase) perfeito
   > [!cite] Hodierno
   >  > [!faq] Origem
