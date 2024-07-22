@@ -46,7 +46,7 @@
   >  > 
 
 ## Sexta-feira
-- 05. Classe, estrutura e formação de palavras #Portugues  
+- 05. Classe, estrutura e formação de palavras #Portugues 2024-07-26  
   Chronos, um guia (quase) perfeito
   > [!cite] Hodierno
   >  > [!faq] Origem
