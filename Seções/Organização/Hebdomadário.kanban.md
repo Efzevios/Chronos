@@ -1,4 +1,5 @@
 ## Terça-feira
+- 03. Fonética e fonologia  
 
 ## Quarta-feira
 
