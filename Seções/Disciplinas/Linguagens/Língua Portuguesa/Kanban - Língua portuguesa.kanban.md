@@ -405,7 +405,7 @@
   - [ ] Simulado
 
 ## Planejado
-- 04. Ortografia ~2d #Linguagens #Portugues #Ortografia 2024-07-26  
+- 04. Ortografia ~2d #Linguagens #Portugues #Ortografia 2024-07-25  
   > [!cite] Chronos, um guia (quase) perfeito
   > ![image](.attachments/b2fd7590c0525b35c9718d836807c55484cd9317.svg) 
   > # Português
