@@ -496,11 +496,11 @@
   > > </iframe>
   >  ---
   > > ### Situação
-  > >- [x] Leitura
-  > >- [ ] .Anki
-  > >- [ ] Revisão
-  > >- [ ] Escrita
-  > > - [ ] Simulado
+  - [x] Leitura
+  - [ ] .Anki
+  - [ ] Revisão
+  - [ ] Escrita
+   - [ ] Simulado
   
 
 ## Feito
