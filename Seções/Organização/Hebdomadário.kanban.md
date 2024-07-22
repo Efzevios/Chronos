@@ -119,6 +119,7 @@
   - [ ] Escrita
     
   >  > [!quote]- Outros
+- 03. A rima  
 
 ## Segunda-feira
 - 07. Frase, oração e período #Portugues 2024-07-29  
