@@ -17,7 +17,7 @@
 ## Quarta-feira
 
 ## Quinta-feira
-- 04. Ortografia  
+- 04. Ortografia #Portugues  
   Chronos, um guia (quase) perfeito
   > [!cite] Hodierno
   >  > [!faq] Origem
