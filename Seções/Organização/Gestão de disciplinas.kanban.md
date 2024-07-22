@@ -61,7 +61,7 @@
   # Gestão de Português
   >  [!cite]+ Organização
   >  >  [!cite] Material 
-  >  >    Em caso de dúvida, [clique aqui para a gestão do material intraorganizacional](https://www.noteshub.app/notebooks/github/Efzevios%2FChronos/Se%C3%A7%C3%B5es%2FDisciplinas%2FLinguagens%2FL%C3%ADngua%20Portuguesa) e [aqui para a gestão de metas](https://www.noteshub.app/notebooks/github/Efzevios%2FChronos/Se%C3%A7%C3%B5es%2FDisciplinas%2FLinguagens%2FL%C3%ADngua%20Portuguesa/Kanban%20-%20L%C3%ADngua%20portuguesa.kanban.md)
+  >  >    Em caso de dúvida, [clique aqui para a gestão do material intraorganizacional](/Se%C3%A7%C3%B5es%2FDisciplinas%2FLinguagens%2FL%C3%ADngua%20Portuguesa) e [aqui para a gestão de metas](/Se%C3%A7%C3%B5es%2FDisciplinas%2FLinguagens%2FL%C3%ADngua%20Portuguesa/Kanban%20-%20L%C3%ADngua%20portuguesa.kanban.md)
   >  
   >  > [!cite]+ Métodos de gerenciamento
   >  >  > [!cite]- Matriz de Eisenhower (modificada)
