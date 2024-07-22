@@ -494,17 +494,13 @@
   > >  style="width:100%;height:auto;aspect-ratio:1/1"
   > >  scrolling="no">
   > > </iframe>
-  > > ---
-  
-  - [x] Leitura
-  
-  - [ ] .Anki
-  
-  - [ ] Revisão
-  
-  - [ ] Escrita
-  
-  - [ ] Simulado
+  >  ---
+  > >
+  > >- [x] Leitura
+  > >- [ ] .Anki
+  > >- [ ] Revisão
+  > >- [ ] Escrita
+  > >- [ ] Simulado
   
 
 ## Feito
