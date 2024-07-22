@@ -94,6 +94,11 @@
   >  > [!quote]- Outros
   >  > 
 - 01. Tipos de verso  
+  ### Situação
+  - [ ] Leitura
+  - [ ] .Anki
+  - [ ] Revisão
+  - [ ] Escrita
 
 ## Segunda-feira
 - 07. Frase, oração e período #Portugues 2024-07-29  
