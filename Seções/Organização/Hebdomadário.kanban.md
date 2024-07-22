@@ -1,5 +1,5 @@
 ## Terça-feira
-- 03. Fonética e fonologia  
+- 03. Fonética e fonologia #Portugues  
   Chronos, um guia (quase) perfeito
   > [!cite] Hodierno
   >  > [!faq] Origem
