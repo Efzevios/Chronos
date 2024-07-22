@@ -1,1 +1,0 @@
-[asdasdsada](file:///notebooks/github/Efzevios%2FChronos/Se%C3%A7%C3%B5es%2FOrganiza%C3%A7%C3%A3o/Hebdomad%C3%A1rio.kanban.md)
