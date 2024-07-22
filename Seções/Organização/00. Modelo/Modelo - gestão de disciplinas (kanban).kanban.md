@@ -20,7 +20,7 @@
   >  >  >  scrolling="no">
   >  >  > </iframe>
   >  >
-  >  >  > [!cite]- Cálculo
+  >  >  > [!cite]- Cálculo de Tempo
   >  >  >  <iframe
   >  >  >   src="https://efzevios.github.io/Spork/Porcento_2.html"
   >  >  >   style="width:100%;height:;aspect-ratio:1"
