@@ -2,6 +2,7 @@
 - A Arte do Poeta (Murillo Araújo)  
 - Tratado de versificação (Olavo Bilac e Guimarães Passos)  
 - Versificação Portuguesa (M. Said Ali)  
+- Tratado de versificação portuguesa (António Feliciano de Castilho)  
 
 ## Fazendo
 - Noções de versificação 2024-07-27  
