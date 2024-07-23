@@ -1,5 +1,5 @@
 > [!cite] Classificação das consoantes
-> > [!example] Tradicional
+> > [!example] Classificação tradicional
 > > > [!cite]- Modo de articulação
 > > >```mermaid
 > > >flowchart TD
@@ -15,8 +15,8 @@
 > > >   Linguodentais;
 > > >  Alveolares;
 > > >   Palatais;
-> > >   Velares
-> > >   .]
+> > >   Velares.]
+> > >   
 > > >```
 > > 
 > > > [!cite]- Papel das cordas vocais
@@ -31,28 +31,47 @@
 > > >    A[Papel das cavidades bucal e nasal] --> b[Orais] & c[Nasais]
 > > >  ```
 >
-> > [!example] Tradicional
+> > [!example] Classificação por traços distintivos
 > > > [!cite]- Modo de articulação
 > > >```mermaid
 > > >flowchart TD
-> > >    A
+> > >    A[Modo de articulação] --> b[+ Contínua;
+> > > - Contínua;
+> > > + Lateral;
+> > > - Lateral.]
+> > >  
 > > >```
 > > 
-> > > [!cite]- Ponto de articulação
+> > > [!cite]- Zona de articulação
 > > >```mermaid
 > > >flowchart TD
-> > >    A
+> > >    A[Zona de articulação] --> b[+ Anterior;
+> > > - Anterior;
+> > > + Coronal;
+> > > - Coronal.]
+> > > 
 > > >```
 > > 
 > > > [!cite]- Papel das cordas vocais
 > > >```mermaid
 > > >flowchart TD
-> > >   A
+> > >   A[Papel das cordas vocais] --> b[+ Vocal;
+> > > - Vocal.]
+> > > 
 > > >```
 > > 
 > > > [!cite]- Papel das cavidades bucal e nasal
 > > >```mermaid
 > > >flowchart TD
-> > >    A
+> > >    A[Papel das cavidades bucal e nasal] --> b[+ Nasal;
+> > > - Nasal.]
+> > > 
 > > >  ```
+> >
+> > > [!cite]- Efeito acústico mais ou menos próximo ao de uma vogal
+> > > ```mermaid
+> > >flowchart TD
+> > > A[Efeito acústico mais ou menos próximo ao de uma vogal] --> b[+ Soante.
+> > > - Soante.]
+> > >
 
