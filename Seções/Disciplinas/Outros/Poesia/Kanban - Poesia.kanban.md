@@ -16,7 +16,6 @@
   > > </iframe>
     ---
   ### Situação
-  - [ ] 
   
 - A Arte do Poeta (Murillo Araújo)  
 - Tratado de versificação (Olavo Bilac e Guimarães Passos)  
