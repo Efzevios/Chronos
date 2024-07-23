@@ -30,5 +30,29 @@
 > > >flowchart TD
 > > >    A[Papel das cavidades bucal e nasal] --> b[Orais] & c[Nasais]
 > > >  ```
-> >
+>
+> > [!example] Tradicional
+> > > [!cite]- Modo de articulação
+> > >```mermaid
+> > >flowchart TD
+> > >    A
+> > >```
+> > 
+> > > [!cite]- Ponto de articulação
+> > >```mermaid
+> > >flowchart TD
+> > >    A
+> > >```
+> > 
+> > > [!cite]- Papel das cordas vocais
+> > >```mermaid
+> > >flowchart TD
+> > >   A
+> > >```
+> > 
+> > > [!cite]- Papel das cavidades bucal e nasal
+> > >```mermaid
+> > >flowchart TD
+> > >    A
+> > >  ```
 
