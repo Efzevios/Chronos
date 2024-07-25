@@ -17,4 +17,4 @@ ___
 > >
 > > > [!cite]- Ideias
 > > > ![image](.attachments/a74e4064032ba0f2f083dbb68f46e5795b738696.svg) 
-> > > ** [Ideias] ()**:
+> > > **[Ideias](./Se%C3%A7%C3%B5es%2FIdeias/Ideias.kanban.md)**: seção para  idealização de possíveis aprimoramentos nos meus métodos de estudo.
