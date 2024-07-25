@@ -14,3 +14,7 @@ ___
 > > > [!cite]- Metas
 > > > ![image](.attachments/82ae44a5a3265e69e717c2f342cb1a202786882c.svg) 
 > > >   **[Metas](/Se%C3%A7%C3%B5es%2FMetas/Metas%202024.kanban.md)**: seção de projeção e execução de metas diversas.
+> >
+> > > [!cite]- Ideias
+> > >
+> > > 
