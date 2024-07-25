@@ -1,8 +1,8 @@
 ## Ideia
 - Modelo  
   > [!cite] Chronos, um guia (quase) perfeito
-  > ![image](.attachments/82ae44a5a3265e69e717c2f342cb1a202786882c.svg) 
-  > # Metas
+  > ![image](.attachments/a74e4064032ba0f2f083dbb68f46e5795b738696.svg) 
+  > # Ideia
   > >  [!cite]+ Tabela
   > >  Afazer | Informações | Situação
   > > -|-|-
