@@ -551,9 +551,8 @@
     ---
   ### Situação
   - [x] Leitura
-  - [ ] .Anki
+  - [x] .Anki
   - [ ] Revisão
-  - [ ] Escrita
   - [ ] Simulado
   
 
