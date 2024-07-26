@@ -91,19 +91,20 @@
   >  >  [!cite] Material 
   >  >    Em caso de dúvida, [clique aqui para a gestão do material intraorganizacional](https://www.noteshub.app/notebooks/github/Efzevios%2FChronos/Se%C3%A7%C3%B5es%2FDisciplinas%2FOutros%2FPoesia%2FNo%C3%A7%C3%B5es%20de%20versifica%C3%A7%C3%A3o%20(Cap.%2022%3B%20Nova%20gram%C3%A1tica%20do%20portugu%C3%AAs%20contempor%C3%A2neo)) e [aqui para a gestão de metas](/Se%C3%A7%C3%B5es%2FDisciplinas%2FOutros%2FPoesia/Kanban%20-%20Poesia.kanban.md)
   >  
+  > [!cite] Gestão de matérias
   >  > [!cite]+ Métodos de gerenciamento
   >  >  > [!cite]- Matriz de Eisenhower (modificada)
   >  >  > <iframe
   >  >  >  src="https://efzevios.github.io/Spork/Matriz%20de%20eisenhower.html"
   >  >  >  style="width:100%;height:auto;aspect-ratio:1/1.3"
-  >  >  >  scrolling="no">
+  >  >  >  scrolling="yes">
   >  >  > </iframe>
   >  >
   >  >  > [!cite]- Matriz de Variáveis
   >  >  > <iframe
   >  >  >  src="https://efzevios.github.io/Spork/Matriz%20de%20vari%C3%A1veis.html "
   >  >  >  style="width:100%;height:auto;aspect-ratio:1/1"
-  >  >  >  scrolling="no">
+  >  >  >  scrolling="yes">
   >  >  > </iframe>
   >  >
   >  >  > [!cite]- Cálculo de Tempo
@@ -112,6 +113,16 @@
   >  >  >   style="width:100%;height:;aspect-ratio:1"
   >  >  >   scrolling="yes">
   >  >  > </iframe>
+  >  >
+  > > > [!cite]- Revisão
+  > > > <iframe
+  > >  >src="https://efzevios.github.io/Spork/Matriz%20de%20ciclo%20revisional.html"
+  > >  > style="width:100%;height:auto;aspect-ratio:1/1"
+  > >  >scrolling="yes">
+  > >  >   </iframe>
+  
+  
+  
   
 
 ## Feito
