@@ -7,7 +7,7 @@
   >
   > 
   > > [!cite] Gestão de matérias
-  >  >
+  > 
   >  > [!cite]+ Métodos de gerenciamento
   >  >  > [!cite]- Matriz de Eisenhower (modificada)
   >  >  > <iframe
