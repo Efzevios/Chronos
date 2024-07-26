@@ -5,8 +5,8 @@
   >  >  [!cite] Material 
   >  >    Em caso de dúvida, [clique aqui para a gestão do material intraorganizacional]() e [aqui para a gestão de metas]()
   >  
-  >  > [!cite] Gestão de matérias
-  >  
+  >   [!cite] Gestão de matérias
+  >  >
   >  > [!cite]+ Métodos de gerenciamento
   >  >  > [!cite]- Matriz de Eisenhower (modificada)
   >  >  > <iframe
