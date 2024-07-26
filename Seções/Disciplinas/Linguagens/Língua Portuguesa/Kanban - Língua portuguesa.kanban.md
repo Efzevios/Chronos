@@ -530,11 +530,6 @@
 ## Fazendo
 
 ## Revisar
-
-## Feito
-- 00. Introdução - conceitos gerais #Linguagens #Portugues  
-- 01. Do latim ao português atual #Linguagens #Portugues  
-- 02. Domínio atual da língua portuguesa #Portugues #Linguagens  
 - 03. Fonética e fonologia ~3d #Linguagens #Portugues #Ortografia 2024-07-26  
   > [!cite] Chronos, um guia (quase) perfeito
   > ![image](.attachments/b2fd7590c0525b35c9718d836807c55484cd9317.svg) 
@@ -562,3 +557,8 @@
   - [x] Revisão
   - [x] Simulado
   
+
+## Feito
+- 00. Introdução - conceitos gerais #Linguagens #Portugues  
+- 01. Do latim ao português atual #Linguagens #Portugues  
+- 02. Domínio atual da língua portuguesa #Portugues #Linguagens  
