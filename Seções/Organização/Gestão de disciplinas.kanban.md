@@ -97,7 +97,7 @@
   
   
   
-- Poesia 2024-07-27  
+- Poesia 2024-07-31  
   # Gestão de Poesia
   >  [!cite]+ Organização
   >  >  [!cite] Material 
