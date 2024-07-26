@@ -168,6 +168,6 @@
 
 ## Fazendo
 
-## Feito
-
 ## Revisar
+
+## Feito
