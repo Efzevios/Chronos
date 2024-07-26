@@ -554,7 +554,7 @@
   > > [!cite]- Revisão
   > > <iframe
   > > src="https://efzevios.github.io/Spork/Matriz%20de%20ciclo%20revisional.html"
-  > > style="width:100%;height:auto;aspect-ratio:1.5/1.0"
+  > > style="width:100%;height:auto;aspect-ratio:1/1"
   > > scrolling="no">
   > >   </iframe>
     ---
