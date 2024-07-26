@@ -553,7 +553,7 @@
   - [x] Leitura
   - [x] .Anki
   - [x] Revisão
-  - [ ] Simulado
+  - [x] Simulado
   
 
 ## Feito
