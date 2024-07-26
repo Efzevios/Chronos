@@ -528,7 +528,6 @@
   - [ ] Simulado
 
 ## Fazendo
-- a  
 
 ## Feito
 - 00. Introdução - conceitos gerais #Linguagens #Portugues  
