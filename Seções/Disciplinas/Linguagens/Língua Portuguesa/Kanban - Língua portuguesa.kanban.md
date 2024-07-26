@@ -552,7 +552,7 @@
   ### Situação
   - [x] Leitura
   - [x] .Anki
-  - [ ] Revisão
+  - [x] Revisão
   - [ ] Simulado
   
 
