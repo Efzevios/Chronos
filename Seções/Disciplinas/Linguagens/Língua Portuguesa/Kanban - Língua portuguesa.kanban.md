@@ -542,7 +542,7 @@
   - [ ] Simulado
 
 ## Planejado
-- 05. Classe, estrutura e formação de palavras ~1d #Linguagens #Portugues #Morfologia 2024-07-29  
+- 05. Classe, estrutura e formação de palavras ~1d #Linguagens #Portugues #Morfologia 2024-07-28  
   > [!cite] Chronos, um guia (quase) perfeito
   > ![image](.attachments/b2fd7590c0525b35c9718d836807c55484cd9317.svg) 
   > # Português
