@@ -649,9 +649,9 @@
   ### Situação
   - [x] Leitura
   - [x] Cartões antigos
-  - [ ] .Anki
+  - [x] .Anki
   - [ ] Revisão
-  - [ ] Escrita
+  - [x] Escrita
   - [ ] Simulado
   
 
