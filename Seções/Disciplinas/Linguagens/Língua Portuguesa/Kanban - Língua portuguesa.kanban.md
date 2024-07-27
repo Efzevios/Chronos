@@ -617,7 +617,7 @@
   - [ ] Simulado
 
 ## Fazendo
-- 04. Ortografia ~2d #Linguagens #Portugues #Ortografia 2024-07-28  
+- 04. Ortografia ~2d #Linguagens #Portugues #Ortografia 2024-08-02  
   > [!cite] Chronos, um guia (quase) perfeito
   > ![image](.attachments/b2fd7590c0525b35c9718d836807c55484cd9317.svg) 
   > # Português
@@ -652,7 +652,7 @@
   - [x] .Anki
   - [x] Revisão
   - [x] Escrita
-  - [ ] Simulado
+  - [x] Simulado
   
 
 ## Revisar
