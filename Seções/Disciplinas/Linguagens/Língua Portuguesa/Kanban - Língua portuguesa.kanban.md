@@ -650,7 +650,7 @@
   - [x] Leitura
   - [x] Cartões antigos
   - [x] .Anki
-  - [ ] Revisão
+  - [x] Revisão
   - [x] Escrita
   - [ ] Simulado
   
