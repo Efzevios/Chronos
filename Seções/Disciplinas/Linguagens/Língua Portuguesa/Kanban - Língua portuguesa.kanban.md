@@ -648,7 +648,7 @@
     ---
   ### Situação
   - [x] Leitura
-  - [ ] Cartões antigos
+  - [x] Cartões antigos
   - [ ] .Anki
   - [ ] Revisão
   - [ ] Escrita
