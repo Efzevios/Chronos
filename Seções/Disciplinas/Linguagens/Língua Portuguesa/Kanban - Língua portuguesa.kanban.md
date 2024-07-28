@@ -544,42 +544,6 @@
   
 
 ## Fazendo
-- 06. Derivação e composição ~1d #Linguagens #Portugues #Morfologia 2024-08-07  
-  > [!cite] Chronos, um guia (quase) perfeito
-  > ![image](.attachments/b2fd7590c0525b35c9718d836807c55484cd9317.svg) 
-  > # Português
-  > >  [!cite]+ Tabela
-  > >  Afazer | Informações
-  > > -|-
-  > > Leitura | Antes de iniciar o processo de criação de cartões, leia atentamente o conteúdo do material referente ao estudo em questão. Em caso de dúvida, [clique aqui para a leitura.](https://drive.google.com/file/d/1GEmjSxEeHwLAq3wGL5zvcbVxs_wmOxUG/view?usp=sharing)
-  > > Cartões antigos | Após a leitura inicial, com base nos [cartões antigos](https://drive.google.com/file/d/1xDvvTC735zDwX98y6rTFb-N-Vjn7q1DP/view?usp=sharing), organize-os para se adequar ao material de agora. 
-  > > .Anki | Após organizar os cartões .anki antigos, já detendo o conhecimento da matéria em questão, forme o baralho de estudo. 
-  > > Revisão | Quando já feito os cartões, revise todos eles antes de passar para as próximas etapas. 
-  > > Escrita | Terminada a revisão primária do baralho, com base nos conhecimentos já adquiridos, além de possíveis consultas ao material didático, escreva e forma mapas mentais referentes ao conhecimento em apredizado. [Área de produção aqui.](https://www.noteshub.app/notebooks/github/Efzevios%2FChronos/Se%C3%A7%C3%B5es%2FDisciplinas%2FLinguagens%2FL%C3%ADngua%20Portuguesa%2F06.%20Deriva%C3%A7%C3%A3o%20e%20composi%C3%A7%C3%A3o) 
-  > > Simulado | Quando já feitas as demais etapas do processo de aprendizagem, gere um simulado referente ao conteúdo aprendido. Na formação, deverá ter de trinta a cinquenta questões, de complexidade intermediária a difícil. Taxa mínima para seguir nos estudos: 70%.
-  >
-  > > [!cite]- Gestão de tempo
-  > > 
-  > > <iframe
-  > >  src="https://efzevios.github.io/Spork/Porcento_2.html"
-  > >  style="width:100%;height:auto;aspect-ratio:1/1"
-  > >  scrolling="no">
-  > > </iframe>
-  >
-  > > [!cite]- Revisão
-  > > <iframe
-  > > src="https://efzevios.github.io/Spork/Matriz%20de%20ciclo%20revisional.html"
-  > > style="width:100%;height:auto;aspect-ratio:1/1"
-  > > scrolling="no">
-  > >   </iframe>
-    ---
-  ### Situação
-  - [x] Leitura
-  - [x] Cartões antigos
-  - [x] .Anki
-  - [x] Revisão
-  - [x] Escrita
-  - [x] Simulado
 
 ## Revisar
 - 03. Fonética e fonologia ~3d #Linguagens #Portugues #Ortografia 2024-08-05  
@@ -690,6 +654,42 @@
   - [x] Escrita
   - [x] Simulado
   
+- 06. Derivação e composição ~1d #Linguagens #Portugues #Morfologia 2024-08-07  
+  > [!cite] Chronos, um guia (quase) perfeito
+  > ![image](.attachments/b2fd7590c0525b35c9718d836807c55484cd9317.svg) 
+  > # Português
+  > >  [!cite]+ Tabela
+  > >  Afazer | Informações
+  > > -|-
+  > > Leitura | Antes de iniciar o processo de criação de cartões, leia atentamente o conteúdo do material referente ao estudo em questão. Em caso de dúvida, [clique aqui para a leitura.](https://drive.google.com/file/d/1GEmjSxEeHwLAq3wGL5zvcbVxs_wmOxUG/view?usp=sharing)
+  > > Cartões antigos | Após a leitura inicial, com base nos [cartões antigos](https://drive.google.com/file/d/1xDvvTC735zDwX98y6rTFb-N-Vjn7q1DP/view?usp=sharing), organize-os para se adequar ao material de agora. 
+  > > .Anki | Após organizar os cartões .anki antigos, já detendo o conhecimento da matéria em questão, forme o baralho de estudo. 
+  > > Revisão | Quando já feito os cartões, revise todos eles antes de passar para as próximas etapas. 
+  > > Escrita | Terminada a revisão primária do baralho, com base nos conhecimentos já adquiridos, além de possíveis consultas ao material didático, escreva e forma mapas mentais referentes ao conhecimento em apredizado. [Área de produção aqui.](https://www.noteshub.app/notebooks/github/Efzevios%2FChronos/Se%C3%A7%C3%B5es%2FDisciplinas%2FLinguagens%2FL%C3%ADngua%20Portuguesa%2F06.%20Deriva%C3%A7%C3%A3o%20e%20composi%C3%A7%C3%A3o) 
+  > > Simulado | Quando já feitas as demais etapas do processo de aprendizagem, gere um simulado referente ao conteúdo aprendido. Na formação, deverá ter de trinta a cinquenta questões, de complexidade intermediária a difícil. Taxa mínima para seguir nos estudos: 70%.
+  >
+  > > [!cite]- Gestão de tempo
+  > > 
+  > > <iframe
+  > >  src="https://efzevios.github.io/Spork/Porcento_2.html"
+  > >  style="width:100%;height:auto;aspect-ratio:1/1"
+  > >  scrolling="no">
+  > > </iframe>
+  >
+  > > [!cite]- Revisão
+  > > <iframe
+  > > src="https://efzevios.github.io/Spork/Matriz%20de%20ciclo%20revisional.html"
+  > > style="width:100%;height:auto;aspect-ratio:1/1"
+  > > scrolling="no">
+  > >   </iframe>
+    ---
+  ### Situação
+  - [x] Leitura
+  - [x] Cartões antigos
+  - [x] .Anki
+  - [x] Revisão
+  - [x] Escrita
+  - [x] Simulado
 
 ## Feito
 - 00. Introdução - conceitos gerais #Linguagens #Portugues  
