@@ -611,11 +611,11 @@
   > >   </iframe>
     ---
   ### Situação
-  - [ ] Leitura
-  - [ ] Cartões antigos
-  - [ ] .Anki
+  - [x] Leitura
+  - [x] Cartões antigos
+  - [x] .Anki
   - [ ] Revisão
-  - [ ] Escrita
+  - [x] Escrita
   - [ ] Simulado
 
 ## Revisar
