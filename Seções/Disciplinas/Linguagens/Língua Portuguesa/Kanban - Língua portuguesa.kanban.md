@@ -616,7 +616,7 @@
   - [x] .Anki
   - [x] Revisão
   - [x] Escrita
-  - [ ] Simulado
+  - [x] Simulado
 
 ## Revisar
 - 03. Fonética e fonologia ~3d #Linguagens #Portugues #Ortografia 2024-08-05  
