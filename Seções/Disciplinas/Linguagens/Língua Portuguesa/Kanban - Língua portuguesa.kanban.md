@@ -533,11 +533,11 @@
   > >   </iframe>
     ---
   ### Situação
-  - [ ] Leitura
-  - [ ] Cartões antigos
-  - [ ] .Anki
+  - [x] Leitura
+  - [x] Cartões antigos
+  - [x] .Anki
   - [ ] Revisão
-  - [ ] Escrita
+  - [x] Escrita
   - [ ] Simulado
   
 - 06. Derivação e composição ~1d #Linguagens #Portugues #Morfologia 2024-07-28  
