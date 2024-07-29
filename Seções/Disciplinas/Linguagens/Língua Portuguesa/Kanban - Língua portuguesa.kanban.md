@@ -359,7 +359,7 @@
   - [ ] Revisão
   - [ ] Escrita
   - [ ] Simulado
-- 18. O período e sua construção #Linguagens #Portugues #Sintaxe  
+- 18. O período e sua construção ~5d #Linguagens #Portugues #Sintaxe  
   > [!cite] Chronos, um guia (quase) perfeito
   > ![image](.attachments/b2fd7590c0525b35c9718d836807c55484cd9317.svg) 
   > # Português
