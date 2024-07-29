@@ -35,7 +35,7 @@
   - [ ] Revisão
   - [ ] Escrita
   - [ ] Simulado
-- 09. Artigo #Linguagens #Portugues #Morfologia  
+- 09. Artigo ~4d #Linguagens #Portugues #Morfologia  
   > [!cite] Chronos, um guia (quase) perfeito
   > ![image](.attachments/b2fd7590c0525b35c9718d836807c55484cd9317.svg) 
   > # Português
