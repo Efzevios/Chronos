@@ -393,7 +393,7 @@
   - [ ] Revisão
   - [ ] Escrita
   - [ ] Simulado
-- 19. Figuras de sintaxe #Linguagens #Portugues #Sintaxe  
+- 19. Figuras de sintaxe ~3d #Linguagens #Portugues #Sintaxe  
   > [!cite] Chronos, um guia (quase) perfeito
   > ![image](.attachments/b2fd7590c0525b35c9718d836807c55484cd9317.svg) 
   > # Português
