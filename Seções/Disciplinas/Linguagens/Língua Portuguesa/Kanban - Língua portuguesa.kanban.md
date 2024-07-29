@@ -429,7 +429,7 @@
   - [ ] Revisão
   - [ ] Escrita
   - [ ] Simulado
-- 20. Discurso direto, discurso indireto e discurso indireto livre #Linguagens #Portugues  
+- 20. Discurso direto, discurso indireto e discurso indireto livre ~1d #Linguagens #Portugues  
   > [!cite] Chronos, um guia (quase) perfeito
   > ![image](.attachments/b2fd7590c0525b35c9718d836807c55484cd9317.svg) 
   > # Português
