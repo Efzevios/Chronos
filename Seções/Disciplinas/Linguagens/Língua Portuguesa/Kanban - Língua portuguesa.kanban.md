@@ -503,7 +503,7 @@
   - [ ] Simulado
 
 ## Planejado
-- 07. Frase, oração e período ~5d #Linguagens #Portugues #Sintaxe 2024-08-04  
+- 07. Frase, oração e período ~5d #Linguagens #Portugues #Sintaxe 2024-08-03  
   > [!cite] Chronos, um guia (quase) perfeito
   > ![image](.attachments/b2fd7590c0525b35c9718d836807c55484cd9317.svg) 
   > # Português
