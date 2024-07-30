@@ -1,5 +1,5 @@
 ## Ideia
-- Modelo  
+- Playlist para estudar  
   > [!cite] Chronos, um guia (quase) perfeito
   > ![image](.attachments/a74e4064032ba0f2f083dbb68f46e5795b738696.svg) 
   > # Ideia
