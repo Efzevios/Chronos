@@ -537,11 +537,11 @@
     ---
   ### Situação
   - [ ] Leitura
-  - [ ] Cartões antigos
+  - [x] Cartões antigos
   - [ ] .Anki
   - [ ] Videoaulas
   - [ ] Revisão
-  - [ ] Escrita
+  - [x] Escrita
   - [ ] Simulado
   
 
