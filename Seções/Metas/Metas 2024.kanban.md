@@ -3,7 +3,7 @@
 ## A Fazer
 
 ## Fazendo
-- Meta de leitura anual #Aprendizado #Inteligencia 2024-12-31  
+- [ ] Meta de leitura anual #Aprendizado #Inteligencia 2024-12-31  
   > [!cite] Chronos, um guia (quase) perfeito
   > ![image](.attachments/82ae44a5a3265e69e717c2f342cb1a202786882c.svg) 
   > # Metas
@@ -28,7 +28,7 @@
   > > 1984 | 13 | Fazendo.
   > > 
   > 
-- 1984 #Inteligencia #Aprendizado 2024-08-04  
+- [x] 1984 #Inteligencia #Aprendizado 2024-08-04  
   > [!cite] Chronos, um guia (quase) perfeito
   > ![image](.attachments/82ae44a5a3265e69e717c2f342cb1a202786882c.svg) 
   > # Metas
