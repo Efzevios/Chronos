@@ -25,7 +25,7 @@
   > > Tarde (Bilac) | 10 | Feito.
   > > Hamlet ou Amleto, Shakespeare para jovens curiosos ou adultos preguiçosos | 11 | Feito.
   > > Lolita | 12 | Feito.
-  > > 1984 | 13 | Fazendo.
+  > > 1984 | 13 | Feito.
   > > 
   > 
 
