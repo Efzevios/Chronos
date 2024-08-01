@@ -502,6 +502,7 @@
   - [ ] Escrita
   - [ ] Simulado
 - 22. Crase  
+- 23. Interpretação de Textos  
 
 ## Planejado
 
