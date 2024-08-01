@@ -1,5 +1,11 @@
 ## Ideia
-- Refazer organização de arquivos  
+
+## A Fazer
+
+## Fazendo
+
+## Feito
+- Playlist para estudar  
   > [!cite] Chronos, um guia (quase) perfeito
   > ![image](.attachments/a74e4064032ba0f2f083dbb68f46e5795b738696.svg) 
   > # Ideia
@@ -36,13 +42,7 @@
   
   
   
-
-## A Fazer
-
-## Fazendo
-
-## Feito
-- Playlist para estudar  
+- Refazer organização de arquivos  
   > [!cite] Chronos, um guia (quase) perfeito
   > ![image](.attachments/a74e4064032ba0f2f083dbb68f46e5795b738696.svg) 
   > # Ideia
