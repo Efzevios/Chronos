@@ -608,7 +608,7 @@
   > >   </iframe>
     ---
   ### Situação
-  - [ ] Leitura
+  - [x] Leitura
   - [x] Cartões antigos
   - [ ] .Anki
   - [ ] Videoaulas
