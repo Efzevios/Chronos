@@ -501,6 +501,7 @@
   - [ ] Revisão
   - [ ] Escrita
   - [ ] Simulado
+- 22. Crase  
 
 ## Planejado
 
