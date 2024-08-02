@@ -618,7 +618,7 @@
   
 
 ## Revisar
-- 03. Fonética e fonologia ~3d #Linguagens #Portugues #Ortografia 2024-08-08  
+- [x] 03. Fonética e fonologia ~3d #Linguagens #Portugues #Ortografia 2024-08-08  
   > [!cite] Chronos, um guia (quase) perfeito
   > ![image](.attachments/b2fd7590c0525b35c9718d836807c55484cd9317.svg) 
   > # Português
@@ -652,7 +652,7 @@
   - [x] Revisão
   - [x] Simulado
   
-- 04. Ortografia ~2d #Linguagens #Portugues #Ortografia 2024-08-09  
+- [ ] 04. Ortografia ~2d #Linguagens #Portugues #Ortografia 2024-08-09  
   > [!cite] Chronos, um guia (quase) perfeito
   > ![image](.attachments/b2fd7590c0525b35c9718d836807c55484cd9317.svg) 
   > # Português
@@ -689,7 +689,7 @@
   - [x] Escrita
   - [x] Simulado
   
-- 05. Classe, estrutura e formação de palavras ~1d #Linguagens #Portugues #Morfologia 2024-08-09  
+- [ ] 05. Classe, estrutura e formação de palavras ~1d #Linguagens #Portugues #Morfologia 2024-08-09  
   > [!cite] Chronos, um guia (quase) perfeito
   > ![image](.attachments/b2fd7590c0525b35c9718d836807c55484cd9317.svg) 
   > # Português
@@ -726,7 +726,7 @@
   - [x] Escrita
   - [x] Simulado
   
-- 06. Derivação e composição ~1d #Linguagens #Portugues #Morfologia 2024-08-09  
+- [ ] 06. Derivação e composição ~1d #Linguagens #Portugues #Morfologia 2024-08-09  
   > [!cite] Chronos, um guia (quase) perfeito
   > ![image](.attachments/b2fd7590c0525b35c9718d836807c55484cd9317.svg) 
   > # Português
