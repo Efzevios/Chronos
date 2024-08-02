@@ -618,7 +618,7 @@
   
 
 ## Revisar
-- 03. Fonética e fonologia #Linguagens #Portugues #Ortografia 2024-08-05  
+- 03. Fonética e fonologia ~3d #Linguagens #Portugues #Ortografia  
   > [!cite] Chronos, um guia (quase) perfeito
   > ![image](.attachments/b2fd7590c0525b35c9718d836807c55484cd9317.svg) 
   > # Português
