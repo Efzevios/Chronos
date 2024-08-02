@@ -287,7 +287,7 @@
   - [ ] Revisão
   - [ ] Escrita
   - [ ] Simulado
-- 16. Conjunção ~2d #Linguagens #Portugues #Morfologia  
+- 16. Conjunção ~2d #Linguagens #Portugues #Morfologia 2024-09-20  
   > [!cite] Chronos, um guia (quase) perfeito
   > ![image](.attachments/b2fd7590c0525b35c9718d836807c55484cd9317.svg) 
   > # Português
