@@ -764,6 +764,6 @@
   - [x] Simulado
 
 ## Feito
-- 00. Introdução - conceitos gerais #Linguagens #Portugues  
+- 00. Introdução - conceitos gerais #Linguagens #Portugues 2024-08-08  
 - 01. Do latim ao português atual #Linguagens #Portugues  
 - 02. Domínio atual da língua portuguesa #Portugues #Linguagens  
