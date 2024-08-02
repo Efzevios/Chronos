@@ -10,13 +10,14 @@
 > > _=t=18==_ | 19 | 20 | =p=21== | 22 | 23 | _=t=24==_ |
 > > _=t=25==_ | 26 | 27 | 28 | 29 | =b=30== | _=p=31==_ |
 > > ---
-> > =t=azul-petróleo==:_ finais de semana
+> > =t=azul-petróleo==: finais de semana
 > >  =s=Cinza==: dias passados
 > > =p=Carmesim==: dias importantes
 > > =b=Azul==: eventos e feriados
 > > - [x]  01: aniversário da Ia
 > > - [x]  01: aniversário da Marilu
 > > - [ ]  30: aniversário da Sása
+> > ---
 > >       Estudos
 > > - [ ] =p=07==: 06. Frase, oração e período
 > > - [ ] =p=13==: 07. Substantivo
@@ -34,10 +35,12 @@
 > > _=t=22==_ | 23 | 24 | =p=25== | 26 | 27 | _=p=28==_ |
 > > _=p=29==_ | 30 | -- | -- | -- | -- | -- |
 > > ---
-> > =t=azul-petróleo==:_ finais de semana
+> > =t=azul-petróleo==: finais de semana
 > >  =s=Cinza==: dias passados
 > > =p=Carmesim==: dias importantes
 > > =b=Azul==: eventos e feriados
+> > 
+> > ---
 > >       Estudos
 > > - [ ] =p=10==: 12. Verbo
 > > - [ ] =p=13==: 13. Advérbio
@@ -56,10 +59,12 @@
 > > _=t=20==_ | 21 | 22 | 23 | 24 | 25 | _=t=26==_ |
 > > _=t=27==_ | 28 | 29 | 30 | 31 | -- | -- |
 > > ---
-> > =t=azul-petróleo==:_ finais de semana
+> > =t=azul-petróleo==: finais de semana
 > >  =s=Cinza==: dias passados
 > > =p=Carmesim==: dias importantes
 > > =b=Azul==: eventos e feriados
+> >
+> > ---
 > >       Estudos
 > > =p=01==: 20. Pontuação
 > > =p=04==: 21. Crase
@@ -74,7 +79,7 @@
 > > _=t=17==_ | 18 | 19 | 20 | 21 | 22 | _=t=23==_ |
 > > _=t=24==_ | 25 | 26 | 27 | 28 | 29 | _=t=30==_ |
 > > ---
-> > =t=azul-petróleo==:_ finais de semana
+> > =t=azul-petróleo==: finais de semana
 > >  =s=Cinza==: dias passados
 > > =p=Carmesim==: dias importantes
 > > =b=Azul==: eventos e feriados
@@ -88,7 +93,7 @@
 > > _=t=22==_ | 23 | 24 | 25 | 26 | 27 | _=t=28==_ |
 > > _=t=29==_ | 30 | 31 | -- | -- | -- | -- |
 > > ---
-> > =t=azul-petróleo==:_ finais de semana
+> > =t=azul-petróleo==: finais de semana
 > >  =s=Cinza==: dias passados
 > > =p=Carmesim==: dias importantes
 > > =b=Azul==: eventos e feriados
