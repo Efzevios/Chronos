@@ -652,7 +652,7 @@
   - [x] Revisão
   - [x] Simulado
   
-- [ ] 04. Ortografia ~2d #Linguagens #Portugues #Ortografia 2024-08-09  
+- [x] 04. Ortografia ~2d #Linguagens #Portugues #Ortografia 2024-08-09  
   > [!cite] Chronos, um guia (quase) perfeito
   > ![image](.attachments/b2fd7590c0525b35c9718d836807c55484cd9317.svg) 
   > # Português
