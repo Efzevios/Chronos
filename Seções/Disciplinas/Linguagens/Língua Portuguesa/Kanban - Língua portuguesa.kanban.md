@@ -501,7 +501,7 @@
   - [ ] Revisão
   - [ ] Escrita
   - [ ] Simulado
-- 22. Crase ~3d  
+- 22. Crase ~3d 2024-10-04  
   > [!cite] Chronos, um guia (quase) perfeito
   > ![image](.attachments/b2fd7590c0525b35c9718d836807c55484cd9317.svg) 
   > # Modelo
