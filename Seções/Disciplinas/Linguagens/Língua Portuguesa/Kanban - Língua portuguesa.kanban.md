@@ -620,10 +620,10 @@
 ## Revisar
 
 ## Feito
-- [ ] 00. Introdução - conceitos gerais #Linguagens #Portugues 2024-08-08  
-- [ ] 01. Do latim ao português atual #Linguagens #Portugues  
-- [ ] 02. Domínio atual da língua portuguesa #Portugues #Linguagens  
-- [x] 03. Fonética e fonologia ~3d #Linguagens #Portugues #Ortografia 2024-08-08  
+- 00. Introdução - conceitos gerais #Linguagens #Portugues 2024-08-08  
+- 01. Do latim ao português atual #Linguagens #Portugues  
+- 02. Domínio atual da língua portuguesa #Portugues #Linguagens  
+- 03. Fonética e fonologia ~3d #Linguagens #Portugues #Ortografia  
   > [!cite] Chronos, um guia (quase) perfeito
   > ![image](.attachments/b2fd7590c0525b35c9718d836807c55484cd9317.svg) 
   > # Português
@@ -657,7 +657,7 @@
   - [x] Revisão
   - [x] Simulado
   
-- [ ] 04. Ortografia ~2d #Linguagens #Portugues #Ortografia  
+- 04. Ortografia ~2d #Linguagens #Portugues #Ortografia  
   > [!cite] Chronos, um guia (quase) perfeito
   > ![image](.attachments/b2fd7590c0525b35c9718d836807c55484cd9317.svg) 
   > # Português
@@ -694,7 +694,7 @@
   - [x] Escrita
   - [x] Simulado
   
-- [ ] 05. Classe, estrutura e formação de palavras ~1d #Linguagens #Portugues #Morfologia  
+- 05. Classe, estrutura e formação de palavras ~1d #Linguagens #Portugues #Morfologia  
   > [!cite] Chronos, um guia (quase) perfeito
   > ![image](.attachments/b2fd7590c0525b35c9718d836807c55484cd9317.svg) 
   > # Português
@@ -731,7 +731,7 @@
   - [x] Escrita
   - [x] Simulado
   
-- [ ] 06. Derivação e composição ~1d #Linguagens #Portugues #Morfologia  
+- 06. Derivação e composição ~1d #Linguagens #Portugues #Morfologia  
   > [!cite] Chronos, um guia (quase) perfeito
   > ![image](.attachments/b2fd7590c0525b35c9718d836807c55484cd9317.svg) 
   > # Português
