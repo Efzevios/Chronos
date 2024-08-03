@@ -537,7 +537,7 @@
   - [ ] Revisão
   - [ ] Escrita
   - [ ] Simulado
-- 23. Interpretação de Textos ~5d 2024-10-09  
+- 23. Interpretação de Textos ~5d  
   > [!cite] Chronos, um guia (quase) perfeito
   > ![image](.attachments/b2fd7590c0525b35c9718d836807c55484cd9317.svg) 
   > # Modelo
