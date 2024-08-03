@@ -465,7 +465,7 @@
   - [ ] Revisão
   - [ ] Escrita
   - [ ] Simulado
-- 21. Pontuação ~3d #Linguagens #Portugues #Ortografia 2024-10-01  
+- 21. Pontuação ~3d #Linguagens #Portugues #Ortografia  
   > [!cite] Chronos, um guia (quase) perfeito
   > ![image](.attachments/b2fd7590c0525b35c9718d836807c55484cd9317.svg) 
   > # Português
