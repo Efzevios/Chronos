@@ -16,5 +16,6 @@
 > > - [ ]  30: aniversário da Sása
 > >  ---
 > >       Estudos
-> > 
+> >  Afazer | Informações
+> >  -|-
 > > 
