@@ -46,19 +46,3 @@
   >  > </iframe>
 
 ## Feito
-- [x] 1984 #Inteligencia #Aprendizado 2024-08-04  
-  > [!cite] Chronos, um guia (quase) perfeito
-  > ![image](.attachments/82ae44a5a3265e69e717c2f342cb1a202786882c.svg) 
-  > # Metas
-  > >  [!cite]+ Tabela
-  > >  Afazer | Informações | Situação
-  > > -|-|-
-  > > Leitura | Ler 1984 | Fazendo.
-  > > [Termos](/Se%C3%A7%C3%B5es%2FBiblioteca%2FFic%C3%A7%C3%A3o%2F1984/Vocabul%C3%A1rio.md) | [Anotar vocábulos desconhecidos](/Se%C3%A7%C3%B5es%2FBiblioteca%2FFic%C3%A7%C3%A3o%2F1984/Vocabul%C3%A1rio.md) | A Fazer.
-  > > [Resenha](/Se%C3%A7%C3%B5es%2FBiblioteca%2FFic%C3%A7%C3%A3o%2F1984/1984%20-%20resenha.md) | [Escrever resenha crítica sobre o livro](/Se%C3%A7%C3%B5es%2FBiblioteca%2FFic%C3%A7%C3%A3o%2F1984/1984%20-%20resenha.md) | A Fazer.
-  > > 
-  >  >  <iframe
-  >  >   src="https://efzevios.github.io/Spork/Leitura.html"
-  >  >   style="width:100%;height:;aspect-ratio:1/1"
-  >  >   scrolling="yes">
-  >  > </iframe>
