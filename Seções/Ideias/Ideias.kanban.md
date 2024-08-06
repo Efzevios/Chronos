@@ -1,6 +1,7 @@
 ## Ideia
 
 ## A Fazer
+- Organização hebdomadária  
 
 ## Fazendo
 
