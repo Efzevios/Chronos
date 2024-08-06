@@ -1,4 +1,5 @@
 ## Planejando
+- Modelo (leitura)  
 
 ## A Fazer
 
