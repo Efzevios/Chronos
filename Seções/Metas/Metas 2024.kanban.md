@@ -35,7 +35,7 @@
   > >  [!cite]+ Tabela
   > >  Afazer | Informações | Situação
   > > -|-|-
-  > > Leitura | | Fazendo.
+  > > Leitura | Contos escolhidos | Fazendo.
   > > [Termos](/Se%C3%A7%C3%B5es%2FBiblioteca%2FConto%2FContos%20escolhidos%20(Machado%20de%20Assis)/Modelo%20-%20vocabul%C3%A1rio.md) | [Anotar vocábulos desconhecidos](/Se%C3%A7%C3%B5es%2FBiblioteca%2FConto%2FContos%20escolhidos%20(Machado%20de%20Assis)/Modelo%20-%20vocabul%C3%A1rio.md) | A Fazer.
   > > 
   >  >  <iframe
