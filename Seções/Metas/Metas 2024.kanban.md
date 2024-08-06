@@ -28,6 +28,7 @@
   > > 1984 | 13 | Feito.
   > >  Contos escolhidos (M. de Assis) | Fazendo.
   > 
+- Contos escolhidos  
 
 ## Feito
 - [x] 1984 #Inteligencia #Aprendizado 2024-08-04  
