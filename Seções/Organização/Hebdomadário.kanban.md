@@ -1,5 +1,3 @@
-## Segunda-feira
-
 ## Quarta-feira
 
 ## Quinta-feira
@@ -11,3 +9,5 @@
 ## Domingo
 
 ## Terça-feira
+
+## Segunda-feira
