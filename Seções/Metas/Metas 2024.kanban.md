@@ -37,7 +37,6 @@
   > > -|-|-
   > > Leitura | | Fazendo.
   > > [Termos]() | [Anotar vocábulos desconhecidos]() | A Fazer.
-  > > [Resenha]() | [Escrever resenha crítica sobre o livro]() | A Fazer.
   > > 
   >  >  <iframe
   >  >   src="https://efzevios.github.io/Spork/Leitura.html"
