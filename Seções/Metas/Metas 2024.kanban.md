@@ -6,7 +6,7 @@
   > >  [!cite]+ Tabela
   > >  Afazer | Informações | Situação
   > > -|-|-
-  > > Leitura | Ler 1984 | Fazendo.
+  > > Leitura |  | Fazendo.
   > > [Termos]() | [Anotar vocábulos desconhecidos]() | A Fazer.
   > > [Resenha]() | [Escrever resenha crítica sobre o livro]() | A Fazer.
   > > 
