@@ -1,3 +1,0 @@
-> [!cite] Lista
-> > [!example]- Termos
-> > 
