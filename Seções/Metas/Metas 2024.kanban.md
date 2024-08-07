@@ -44,7 +44,7 @@
   > > 1984 | 13 | Feito.
   > >  Contos escolhidos (M. de Assis) | Fazendo.
   > 
-- Contos escolhidos  
+- Contos escolhidos 2024-08-14  
   > [!cite] Chronos, um guia (quase) perfeito
   > ![image](.attachments/82ae44a5a3265e69e717c2f342cb1a202786882c.svg) 
   > # Metas
