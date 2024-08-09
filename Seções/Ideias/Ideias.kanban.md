@@ -1,6 +1,8 @@
 ## Ideia
 
 ## A Fazer
+- Organização hebdomadária  
+  [Hebdomadário](/Se%C3%A7%C3%B5es%2FProduzindo/Hebdomad%C3%A1rio.kanban.md)
 
 ## Fazendo
 
