@@ -25,7 +25,7 @@
   > >  Afazer | Informações | Situação
   > > -|-|-
   > > Livro | Local | Fazendo.
-  > > [Termos](a) | [Anotar vocábulos desconhecidos](a) | A Fazer.
+  > > [Termos]() | [Anotar vocábulos desconhecidos]() | A Fazer.
   
 
 ## Fazendo
