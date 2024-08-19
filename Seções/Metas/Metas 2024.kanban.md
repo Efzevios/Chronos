@@ -17,6 +17,17 @@
   >  > </iframe>
 
 ## A Fazer
+- Vocábulos  
+  > [!cite] Chronos, um guia (quase) perfeito
+  > ![image](.attachments/82ae44a5a3265e69e717c2f342cb1a202786882c.svg) 
+  > # Metas
+  > >  [!cite]+ Tabela
+  > >  Afazer | Informações | Situação
+  > > -|-|-
+  > > 1984 | [Anotar vocábulos desconhecidos](/Se%C3%A7%C3%B5es%2FBiblioteca%2FFic%C3%A7%C3%A3o%2F1984/Vocabul%C3%A1rio.md) | A Fazer.
+  > > Tarde | [Anotar vocábulos desconhecidos](/Se%C3%A7%C3%B5es%2FBiblioteca%2FPoesia%2FTarde%20(Olavo%20Bilac)/Vocabul%C3%A1rio.md) | A Fazer.
+  > > Contos escolhidos | [Anotar vocábulos desconhecidos](/Se%C3%A7%C3%B5es%2FBiblioteca%2FConto%2FContos%20escolhidos%20(Machado%20de%20Assis)/Modelo%20-%20vocabul%C3%A1rio.md) | A Fazer.
+  
 
 ## Fazendo
 - Meta de leitura anual #Aprendizado #Inteligencia 2024-12-31  
@@ -44,7 +55,7 @@
   > > 1984 | 13 | Feito.
   > >  Contos escolhidos (M. de Assis) | 14 | Fazendo.
   > 
-- Contos escolhidos 2024-08-14  
+- Contos escolhidos (Leitura) 2024-08-24  
   > [!cite] Chronos, um guia (quase) perfeito
   > ![image](.attachments/82ae44a5a3265e69e717c2f342cb1a202786882c.svg) 
   > # Metas
@@ -52,7 +63,6 @@
   > >  Afazer | Informações | Situação
   > > -|-|-
   > > Leitura | Contos escolhidos | Fazendo.
-  > > [Termos](/Se%C3%A7%C3%B5es%2FBiblioteca%2FConto%2FContos%20escolhidos%20(Machado%20de%20Assis)/Modelo%20-%20vocabul%C3%A1rio.md) | [Anotar vocábulos desconhecidos](/Se%C3%A7%C3%B5es%2FBiblioteca%2FConto%2FContos%20escolhidos%20(Machado%20de%20Assis)/Modelo%20-%20vocabul%C3%A1rio.md) | A Fazer.
   > > 
   >  >  <iframe
   >  >   src="https://efzevios.github.io/Spork/Leitura.html"
