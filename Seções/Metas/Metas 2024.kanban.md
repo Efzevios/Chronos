@@ -25,7 +25,7 @@
   > >  Afazer | Informações | Situação
   > > -|-|-
   > > Livro | Local | Fazendo.
-  > > [Termos]() | [Anotar vocábulos desconhecidos]() | A Fazer.
+  > > [Termos](Tarde) | [Anotar vocábulos desconhecidos](/Se%C3%A7%C3%B5es%2FBiblioteca%2FPoesia%2FTarde%20(Olavo%20Bilac)/Vocabul%C3%A1rio.md) | A Fazer.
   
 
 ## Fazendo
