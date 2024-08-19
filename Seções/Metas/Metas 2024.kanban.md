@@ -26,6 +26,7 @@
   > > -|-|-
   > > 1984 | [Anotar vocábulos desconhecidos](/Se%C3%A7%C3%B5es%2FBiblioteca%2FFic%C3%A7%C3%A3o%2F1984/Vocabul%C3%A1rio.md) | A Fazer.
   > > Tarde | [Anotar vocábulos desconhecidos](/Se%C3%A7%C3%B5es%2FBiblioteca%2FPoesia%2FTarde%20(Olavo%20Bilac)/Vocabul%C3%A1rio.md) | A Fazer.
+  > > Contos escolhidos | [Anotar vocábulos desconhecidos](/Se%C3%A7%C3%B5es%2FBiblioteca%2FConto%2FContos%20escolhidos%20(Machado%20de%20Assis)/Modelo%20-%20vocabul%C3%A1rio.md) | A Fazer.
   
 
 ## Fazendo
