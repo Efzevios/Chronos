@@ -22,6 +22,7 @@
   > ![image](.attachments/82ae44a5a3265e69e717c2f342cb1a202786882c.svg) 
   > # Metas
   > >  [!cite]+ Tabela
+  > > 
   > > -|-|-
   > > Livro | Local | Fazendo.
   > > [Termos]() | [Anotar vocábulos desconhecidos]() | A Fazer.
