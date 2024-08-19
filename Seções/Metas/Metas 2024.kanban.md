@@ -17,6 +17,7 @@
   >  > </iframe>
 
 ## A Fazer
+- Vocábulos  
 
 ## Fazendo
 - Meta de leitura anual #Aprendizado #Inteligencia 2024-12-31  
