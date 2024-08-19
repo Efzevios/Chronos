@@ -24,7 +24,7 @@
   > >  [!cite]+ Tabela
   > >  Afazer | Informações | Situação
   > > -|-|-
-  > > Livro | Local | Fazendo.
+  > > 1984 | [Anotar vocábulos desconhecidos](/Se%C3%A7%C3%B5es%2FBiblioteca%2FFic%C3%A7%C3%A3o%2F1984/Vocabul%C3%A1rio.md) | A Fazer.
   > > Tarde | [Anotar vocábulos desconhecidos](/Se%C3%A7%C3%B5es%2FBiblioteca%2FPoesia%2FTarde%20(Olavo%20Bilac)/Vocabul%C3%A1rio.md) | A Fazer.
   
 
