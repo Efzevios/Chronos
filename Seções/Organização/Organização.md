@@ -7,7 +7,7 @@
 > > [Gestão de matérias](/Se%C3%A7%C3%B5es%2FOrganiza%C3%A7%C3%A3o/Organiza%C3%A7%C3%A3o%20de%20mat%C3%A9rias.md): ferramentas auxiliares no processo de organização semanal.
 > > 
 > > > [!example] Planejamento definitivo
-> > > 
+> > > [Hebdomadário](/Se%C3%A7%C3%B5es%2FOrganiza%C3%A7%C3%A3o/Hebdomad%C3%A1rio.kanban.md)
 >  
 > > [!cite]+ Matérias
 > > > [!info]+ O que é?
