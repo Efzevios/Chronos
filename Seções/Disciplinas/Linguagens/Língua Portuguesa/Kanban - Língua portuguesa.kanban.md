@@ -687,12 +687,12 @@
   > >   </iframe>
     ---
   ### Situação
-  - [x] Leitura
-  - [x] Cartões antigos
-  - [x] .Anki
-  - [x] Revisão
-  - [x] Escrita
-  - [x] Simulado
+  - [ ] Leitura
+  - [ ] Cartões antigos
+  - [ ] .Anki
+  - [ ] Revisão
+  - [ ] Escrita
+  - [ ] Simulado
   
 - 05. Classe, estrutura e formação de palavras ~1d #Linguagens #Portugues #Morfologia  
   > [!cite] Chronos, um guia (quase) perfeito
