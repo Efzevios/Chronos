@@ -716,12 +716,12 @@
   > >   </iframe>
     ---
   ### Situação
-  - [x] Leitura
-  - [x] Cartões antigos
+  - [ ] Leitura
+  - [ ] Cartões antigos
   - [ ] .Anki
   - [ ] Videoaulas
   - [ ] Revisão
-  - [x] Escrita
+  - [ ] Escrita
   - [ ] Simulado
   
 
