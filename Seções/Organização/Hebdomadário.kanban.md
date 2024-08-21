@@ -1,5 +1,3 @@
-## Quarta-feira
-
 ## Quinta-feira
 
 ## Sexta-feira
