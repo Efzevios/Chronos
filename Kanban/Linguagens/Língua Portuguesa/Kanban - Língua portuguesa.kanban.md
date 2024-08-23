@@ -727,8 +727,6 @@
 
 ## Fazendo
 
-## Revisar
-
 ## Feito
 - 00. Introdução - conceitos gerais #Linguagens #Portugues  
 - 01. Do latim ao português atual #Linguagens #Portugues  
