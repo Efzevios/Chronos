@@ -605,8 +605,8 @@
   > >   </iframe>
     ---
   ### Situação
-  - [x] Leitura
-  - [x] Cartões antigos
+  - [ ] Leitura
+  - [ ] Cartões antigos
   - [ ] .Anki
   - [ ] Revisão
   - [ ] Escrita
