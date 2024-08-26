@@ -539,6 +539,39 @@
   - [ ] Simulado
 
 ## Planejado
+- 03. Fonética e fonologia ~3d #Linguagens #Portugues #Ortografia  
+  > [!cite] Chronos, um guia (quase) perfeito
+  > ![image](.attachments/b2fd7590c0525b35c9718d836807c55484cd9317.svg) 
+  > # Português
+  > >  [!cite]+ Tabela
+  > >  Afazer | Informações
+  > > -|-
+  > > Leitura | Antes de iniciar o processo de criação de cartões, leia atentamente o conteúdo do material referente ao estudo em questão. Em caso de dúvida, [clique aqui para a leitura.](https://drive.google.com/file/d/12ZOB8iTVE3CGJMbcTvi8_iXIvAUYLi09/view?usp=sharing)
+  > > .Anki | Após a leitura inicial, quando já detendo o conhecimento da matéria em questão, forme o baralho de estudo.
+  > > Revisão | Quando já feito os cartões, revise todos eles antes de passar para as próximas etapas.
+  > > Simulado | Quando já feitas as demais etapas do processo de aprendizagem, gere um simulado referente ao conteúdo aprendido. Na formação, deverá ter de trinta a cinquenta questões, de complexidade intermediária a difícil. Taxa mínima para seguir nos estudos: 70%.
+  >
+  > > [!cite]- Gestão de tempo
+  > > 
+  > > <iframe
+  > >  src="https://efzevios.github.io/Spork/Porcento_2.html"
+  > >  style="width:100%;height:auto;aspect-ratio:1/1"
+  > >  scrolling="no">
+  > > </iframe>
+  >
+  > > [!cite]- Revisão
+  > > <iframe
+  > > src="https://efzevios.github.io/Spork/Matriz%20de%20ciclo%20revisional.html"
+  > > style="width:100%;height:auto;aspect-ratio:1/1"
+  > > scrolling="no">
+  > >   </iframe>
+    ---
+  ### Situação
+  - [x] Leitura
+  - [x] .Anki
+  - [x] Revisão
+  - [x] Simulado
+  
 - 04. Ortografia ~2d #Linguagens #Portugues #Ortografia  
   > [!cite] Chronos, um guia (quase) perfeito
   > ![image](.attachments/b2fd7590c0525b35c9718d836807c55484cd9317.svg) 
@@ -695,36 +728,3 @@
 - 00. Introdução - conceitos gerais #Linguagens #Portugues  
 - 01. Do latim ao português atual #Linguagens #Portugues  
 - 02. Domínio atual da língua portuguesa #Portugues #Linguagens  
-- 03. Fonética e fonologia ~3d #Linguagens #Portugues #Ortografia  
-  > [!cite] Chronos, um guia (quase) perfeito
-  > ![image](.attachments/b2fd7590c0525b35c9718d836807c55484cd9317.svg) 
-  > # Português
-  > >  [!cite]+ Tabela
-  > >  Afazer | Informações
-  > > -|-
-  > > Leitura | Antes de iniciar o processo de criação de cartões, leia atentamente o conteúdo do material referente ao estudo em questão. Em caso de dúvida, [clique aqui para a leitura.](https://drive.google.com/file/d/12ZOB8iTVE3CGJMbcTvi8_iXIvAUYLi09/view?usp=sharing)
-  > > .Anki | Após a leitura inicial, quando já detendo o conhecimento da matéria em questão, forme o baralho de estudo.
-  > > Revisão | Quando já feito os cartões, revise todos eles antes de passar para as próximas etapas.
-  > > Simulado | Quando já feitas as demais etapas do processo de aprendizagem, gere um simulado referente ao conteúdo aprendido. Na formação, deverá ter de trinta a cinquenta questões, de complexidade intermediária a difícil. Taxa mínima para seguir nos estudos: 70%.
-  >
-  > > [!cite]- Gestão de tempo
-  > > 
-  > > <iframe
-  > >  src="https://efzevios.github.io/Spork/Porcento_2.html"
-  > >  style="width:100%;height:auto;aspect-ratio:1/1"
-  > >  scrolling="no">
-  > > </iframe>
-  >
-  > > [!cite]- Revisão
-  > > <iframe
-  > > src="https://efzevios.github.io/Spork/Matriz%20de%20ciclo%20revisional.html"
-  > > style="width:100%;height:auto;aspect-ratio:1/1"
-  > > scrolling="no">
-  > >   </iframe>
-    ---
-  ### Situação
-  - [x] Leitura
-  - [x] .Anki
-  - [x] Revisão
-  - [x] Simulado
-  
