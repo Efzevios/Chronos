@@ -540,7 +540,7 @@
 
 ## Planejado
 - 03. Fonética e fonologia ~3d #Linguagens #Portugues #Ortografia  
-  > > # Modelo
+  > # Modelo
   > >  [!cite]- Tabela
   > > 
   > >   ---
