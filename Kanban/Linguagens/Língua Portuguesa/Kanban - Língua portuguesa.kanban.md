@@ -82,7 +82,7 @@
   - [ ] Revisão
   - [ ] Escrita
   - [ ] Simulado
-- 13. Verbo ~10d #Linguagens #Portugues #Morfologia  
+- 13. Verbo ~10d #Linguagens #Portugues #Morfologia 2024-10-12  
   ### Situação
   - [ ] Leitura
   - [ ] Cartões antigos
