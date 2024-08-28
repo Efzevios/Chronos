@@ -58,7 +58,7 @@
   - [ ] Revisão
   - [ ] Escrita
   - [ ] Simulado
-- 10. Adjetivo ~4d #Linguagens #Portugues #Morfologia 2024-09-22  
+- 10. Adjetivo ~4d #Linguagens #Portugues #Morfologia  
   ### Situação
   - [ ] Leitura
   - [ ] Cartões antigos
