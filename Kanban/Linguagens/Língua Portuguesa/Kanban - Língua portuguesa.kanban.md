@@ -744,7 +744,7 @@
   >
   > >
   > > ### Afazeres
-  > > - [ ] Leitura
+  > > - [x] Leitura
   > > - [ ] Escrita
   > > - [ ] Cartões antigos
   > > - [ ] .Anki
