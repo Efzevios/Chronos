@@ -11,12 +11,10 @@
 > >  Leitura | [Clique aqui.]()
 > >  Escrita | [Clique aqui.]()
 > >  Cartões antigos | [Clique aqui.]()
->
-> >
-> > ### Afazeres
-> > - [ ] Leitura
-> > - [ ] Escrita
-> > - [ ] Cartões antigos
-> > - [ ] .Anki
-> > - [ ] Revisão
-> > - [ ] Simulado
+ ### Afazeres
+- [ ] Leitura
+ - [ ] Escrita
+ - [ ] Cartões antigos
+ - [ ] .Anki
+ - [ ] Revisão
+ - [ ] Simulado
