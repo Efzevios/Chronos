@@ -42,7 +42,7 @@
   - [ ] Escrita
   - [ ] Simulado
   
-- 08. Substantivo ~4d #Linguagens #Portugues #Morfologia 2024-09-14  
+- 08. Substantivo ~4d #Linguagens #Portugues #Morfologia  
   ### Situação
   - [ ] Leitura
   - [ ] Cartões antigos
