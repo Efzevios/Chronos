@@ -1,4 +1,13 @@
 ## A Fazer
+- 05. Classe, estrutura e formação de palavras ~1d #Linguagens #Portugues #Morfologia  
+  ### Situação
+  - [ ] Leitura
+  - [ ] Cartões antigos
+  - [ ] .Anki
+  - [ ] Revisão
+  - [ ] Escrita
+  - [ ] Simulado
+  
 - 06. Derivação e composição ~1d #Linguagens #Portugues #Morfologia  
   ### Situação
   - [ ] Leitura
@@ -146,15 +155,6 @@
    - [ ] Revisão
    - [ ] Simulado
 - 04. Ortografia ~2d #Linguagens #Portugues #Ortografia  
-  ### Situação
-  - [ ] Leitura
-  - [ ] Cartões antigos
-  - [ ] .Anki
-  - [ ] Revisão
-  - [ ] Escrita
-  - [ ] Simulado
-  
-- 05. Classe, estrutura e formação de palavras ~1d #Linguagens #Portugues #Morfologia  
   ### Situação
   - [ ] Leitura
   - [ ] Cartões antigos
