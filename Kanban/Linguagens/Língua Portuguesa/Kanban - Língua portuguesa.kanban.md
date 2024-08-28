@@ -549,7 +549,7 @@
   > > Nome | Local
   > > -|-
   > >  Leitura | [Clique aqui.](https://drive.google.com/file/d/12ZOB8iTVE3CGJMbcTvi8_iXIvAUYLi09/view?usp=sharing)
-  > >  Escrita | [Clique aqui.](obsidian://open?vault=Ob&file=CHRONOS%2FAnota%C3%A7%C3%B5es%2FEstudos%2FLinguagens%2FPortugu%C3%AAs%2F03.%20Fon%C3%A9tica%20e%20fonologia%2FArquivos%2FFon%C3%A9tica%20e%20fonologia%20-%20Cap.3%20(Nova%20gram%C3%A1tica%20do%20portugu%C3%AAs%20contempor%C3%A2neo).pdf)
+  > >  Escrita | [Clique aqui.](CHRONOS/Anotações/Estudos/Linguagens/Português/03. Fonética e fonologia/Fonética e fonologia.md)
    ### Afazeres
    - [ ] Leitura
    - [ ] Escrita
