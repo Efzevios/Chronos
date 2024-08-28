@@ -162,8 +162,6 @@
   - [ ] Escrita
   - [ ] Simulado
 
-## Planejado
-
 ## Fazendo
 
 ## Feito
