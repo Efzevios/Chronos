@@ -66,7 +66,7 @@
   - [ ] Revisão
   - [ ] Escrita
   - [ ] Simulado
-- 11. Pronomes ~9d #Linguagens #Portugues #Morfologia  
+- 11. Pronomes ~9d #Linguagens #Portugues #Morfologia 2024-10-01  
   ### Situação
   - [ ] Leitura
   - [ ] Cartões antigos
