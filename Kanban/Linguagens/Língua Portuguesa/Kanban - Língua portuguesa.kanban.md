@@ -540,19 +540,7 @@
 
 ## Planejado
 - 03. Fonética e fonologia ~3d #Linguagens #Portugues #Ortografia  
-  > [!cite] Chronos, um guia (quase) perfeito
-  > ![image](.attachments/b2fd7590c0525b35c9718d836807c55484cd9317.svg)
-  > # Modelo
-  > >  [!cite]- Tabela
-  > > 
-  > >   ---
-  > >
-  > > ### Seções
-  > > Nome | Local
-  > > -|-
-  > >  Leitura | [Clique aqui.](https://drive.google.com/file/d/12ZOB8iTVE3CGJMbcTvi8_iXIvAUYLi09/view?usp=sharing)
-  > >  Escrita | [Clique aqui.](CHRONOS/Anotações/Estudos/Linguagens/Português/03. Fonética e fonologia/Fonética e fonologia.md)
-   ### Afazeres
+  ### Afazeres
    - [ ] Leitura
    - [ ] Escrita
    - [ ] .Anki
