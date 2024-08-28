@@ -742,9 +742,9 @@
   > >  Escrita | [Clique aqui.]()
   > >  Cartões antigos | [Clique aqui.]()
   
-  > >
-  > > ### Afazeres
-  > > - [x] Leitura
+  > 
+  >  ### Afazeres
+   - [x] Leitura
   > > - [ ] Escrita
   > > - [ ] Cartões antigos
   > > - [ ] .Anki
