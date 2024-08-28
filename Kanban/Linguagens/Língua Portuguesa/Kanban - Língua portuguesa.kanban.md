@@ -1,4 +1,14 @@
 ## A Fazer
+- 07. Frase, oração e período ~5d #Linguagens #Portugues #Sintaxe  
+  ### Situação
+  - [ ] Leitura
+  - [ ] Cartões antigos
+  - [ ] .Anki
+  - [ ] Videoaulas
+  - [ ] Revisão
+  - [ ] Escrita
+  - [ ] Simulado
+  
 - 08. Substantivo ~4d #Linguagens #Portugues #Morfologia  
   ### Situação
   - [ ] Leitura
@@ -153,16 +163,6 @@
   - [ ] Revisão
   - [ ] Escrita
   - [ ] Simulado
-- 07. Frase, oração e período ~5d #Linguagens #Portugues #Sintaxe  
-  ### Situação
-  - [ ] Leitura
-  - [ ] Cartões antigos
-  - [ ] .Anki
-  - [ ] Videoaulas
-  - [ ] Revisão
-  - [ ] Escrita
-  - [ ] Simulado
-  
 
 ## Fazendo
 
