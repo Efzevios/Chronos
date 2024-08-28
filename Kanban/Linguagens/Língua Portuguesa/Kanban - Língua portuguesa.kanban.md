@@ -1,4 +1,12 @@
 ## A Fazer
+- 06. Derivação e composição ~1d #Linguagens #Portugues #Morfologia  
+  ### Situação
+  - [ ] Leitura
+  - [ ] Cartões antigos
+  - [ ] .Anki
+  - [ ] Revisão
+  - [ ] Escrita
+  - [ ] Simulado
 - 07. Frase, oração e período ~5d #Linguagens #Portugues #Sintaxe  
   ### Situação
   - [ ] Leitura
@@ -155,14 +163,6 @@
   - [ ] Escrita
   - [ ] Simulado
   
-- 06. Derivação e composição ~1d #Linguagens #Portugues #Morfologia  
-  ### Situação
-  - [ ] Leitura
-  - [ ] Cartões antigos
-  - [ ] .Anki
-  - [ ] Revisão
-  - [ ] Escrita
-  - [ ] Simulado
 
 ## Fazendo
 
