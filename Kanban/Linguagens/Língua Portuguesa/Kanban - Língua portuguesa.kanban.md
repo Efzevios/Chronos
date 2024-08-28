@@ -50,7 +50,7 @@
   - [ ] Revisão
   - [ ] Escrita
   - [ ] Simulado
-- 09. Artigo ~4d #Linguagens #Portugues #Morfologia  
+- 09. Artigo ~4d #Linguagens #Portugues #Morfologia 2024-09-18  
   ### Situação
   - [ ] Leitura
   - [ ] Cartões antigos
