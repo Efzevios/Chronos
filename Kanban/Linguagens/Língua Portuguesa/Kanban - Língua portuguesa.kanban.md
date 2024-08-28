@@ -1,4 +1,11 @@
 ## A Fazer
+- 03. Fonética e fonologia ~3d #Linguagens #Portugues #Ortografia  
+  ### Afazeres
+   - [ ] Leitura
+   - [ ] Escrita
+   - [ ] .Anki
+   - [ ] Revisão
+   - [ ] Simulado
 - 04. Ortografia ~2d #Linguagens #Portugues #Ortografia  
   ### Situação
   - [ ] Leitura
@@ -156,13 +163,6 @@
   - [ ] Simulado
 
 ## Planejado
-- 03. Fonética e fonologia ~3d #Linguagens #Portugues #Ortografia  
-  ### Afazeres
-   - [ ] Leitura
-   - [ ] Escrita
-   - [ ] .Anki
-   - [ ] Revisão
-   - [ ] Simulado
 
 ## Fazendo
 
