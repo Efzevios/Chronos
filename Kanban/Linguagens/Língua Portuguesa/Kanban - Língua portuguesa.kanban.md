@@ -728,3 +728,25 @@
 - 00. Introdução - conceitos gerais #Linguagens #Portugues  
 - 01. Do latim ao português atual #Linguagens #Portugues  
 - 02. Domínio atual da língua portuguesa #Portugues #Linguagens  
+  > [!cite] Chronos, um guia (quase) perfeito
+  > ![image](.attachments/b2fd7590c0525b35c9718d836807c55484cd9317.svg) 
+  > # Modelo
+  > >  [!cite]- Tabela
+  > > 
+  > >   ---
+  > >
+  > > ### Seções
+  > > Nome | Local
+  > > -|-
+  > >  Leitura | [Clique aqui.]()
+  > >  Escrita | [Clique aqui.]()
+  > >  Cartões antigos | [Clique aqui.]()
+  >
+  > >
+  > > ### Afazeres
+  > > - [ ] Leitura
+  > > - [ ] Escrita
+  > > - [ ] Cartões antigos
+  > > - [ ] .Anki
+  > > - [ ] Revisão
+  > > - [ ] Simulado
