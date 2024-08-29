@@ -164,9 +164,9 @@
 
 ## Fazendo
 
+## Revisando
+
 ## Feito
 - [x] 00. Introdução - conceitos gerais #Linguagens #Portugues 2024-08-28  
 - [x] 01. Do latim ao português atual #Linguagens #Portugues 2024-08-28  
 - [x] 02. Domínio atual da língua portuguesa #Portugues #Linguagens 2024-08-28  
-
-## Revisando
