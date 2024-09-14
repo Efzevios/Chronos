@@ -1,4 +1,5 @@
 ## A Fazer
+- 02. Domínio atual da língua portuguesa #Portugues #Linguagens  
 - 03. Fonética e fonologia ~3d #Linguagens #Portugues #Ortografia  
   ### Afazeres
    - [ ] Leitura
@@ -169,4 +170,3 @@
 ## Feito
 - [x] 00. Introdução - conceitos gerais #Linguagens #Portugues 2024-08-28  
 - [x] 01. Do latim ao português atual #Linguagens #Portugues 2024-08-28  
-- [ ] 02. Domínio atual da língua portuguesa #Portugues #Linguagens  
