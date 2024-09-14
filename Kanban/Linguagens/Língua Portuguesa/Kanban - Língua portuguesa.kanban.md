@@ -25,7 +25,7 @@
   - [ ] Escrita
   - [ ] Simulado
   
-- 06. Derivação e composição ~1d #Linguagens #Portugues #Morfologia  
+- 06. Derivação e composição ~3d #Linguagens #Portugues #Morfologia  
   ### Situação
   - [ ] Leitura
   - [ ] Cartões antigos
