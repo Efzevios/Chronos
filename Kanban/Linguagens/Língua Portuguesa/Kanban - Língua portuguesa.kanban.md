@@ -1,5 +1,5 @@
 ## A Fazer
-- 02. Domínio atual da língua portuguesa #Portugues #Linguagens  
+- 02. Domínio atual da língua portuguesa ~2h #Portugues #Linguagens  
 - 03. Fonética e fonologia ~3d #Linguagens #Portugues #Ortografia  
   ### Afazeres
    - [ ] Leitura
