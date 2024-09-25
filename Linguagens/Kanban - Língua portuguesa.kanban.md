@@ -15,7 +15,7 @@
   - [ ] Escrita
   - [ ] Simulado
   
-- 05. Classe, estrutura e formação de palavras ~1d #Linguagens #Portugues #Morfologia  
+- 05. Classe, estrutura e formação de palavras ~1d #Linguagens #Portugues #Morfologia 2024-10-03  
   ### Situação
   - [ ] Leitura
   - [ ] Cartões antigos
