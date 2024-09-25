@@ -163,10 +163,10 @@
   - [ ] Simulado
 
 ## Fazendo
+- [x] 00. Introdução - conceitos gerais #Linguagens #Portugues 2024-08-28  
 - [x] 01. Do latim ao português atual #Linguagens #Portugues 2024-08-28  
 - [ ] 02. Domínio atual da língua portuguesa ~2h #Portugues #Linguagens  
 
 ## Revisando
 
 ## Feito
-- [x] 00. Introdução - conceitos gerais #Linguagens #Portugues 2024-08-28  
