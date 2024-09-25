@@ -32,7 +32,7 @@
   - [ ] Revisão
   - [ ] Escrita
   - [ ] Simulado
-- 07. Frase, oração e período ~6d #Linguagens #Portugues #Sintaxe  
+- 07. Frase, oração e período ~6d #Linguagens #Portugues #Sintaxe 2024-10-11  
   ### Situação
   - [ ] Leitura
   - [ ] Cartões antigos
