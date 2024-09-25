@@ -6,7 +6,7 @@
    - [ ] .Anki
    - [ ] Revisão
    - [ ] Simulado
-- 04. Ortografia ~4d #Linguagens #Portugues #Ortografia  
+- 04. Ortografia ~4d #Linguagens #Portugues #Ortografia 2024-10-02  
   ### Situação
   - [ ] Leitura
   - [ ] Cartões antigos
