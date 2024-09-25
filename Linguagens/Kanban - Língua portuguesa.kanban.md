@@ -74,7 +74,7 @@
   - [ ] Revisão
   - [ ] Escrita
   - [ ] Simulado
-- 12. Numerais ~1d #Linguagens #Portugues #Morfologia  
+- 12. Numerais ~1d #Linguagens #Portugues #Morfologia 2024-10-30  
   ### Situação
   - [ ] Leitura
   - [ ] Cartões antigos
