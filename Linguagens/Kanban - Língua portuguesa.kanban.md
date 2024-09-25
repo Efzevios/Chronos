@@ -137,7 +137,7 @@
   - [ ] Revisão
   - [ ] Escrita
   - [ ] Simulado
-- 20. Discurso direto, discurso indireto e discurso indireto livre ~1h #Linguagens #Portugues  
+- 20. Discurso direto, discurso indireto e discurso indireto livre ~1h #Linguagens #Portugues 2024-11-25  
   ### Situação
   - [ ] Leitura
   - [ ] Cartões antigos
