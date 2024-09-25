@@ -1,5 +1,5 @@
 ## A Fazer
-- 03. Fonética e fonologia ~2d #Linguagens #Portugues #Ortografia  
+- 03. Fonética e fonologia ~2d #Linguagens #Portugues #Ortografia 2024-09-28  
   ### Afazeres
    - [ ] Leitura
    - [ ] Escrita
