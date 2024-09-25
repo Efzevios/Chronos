@@ -153,7 +153,7 @@
   - [ ] Revisão
   - [ ] Escrita
   - [ ] Simulado
-- 22. Crase ~3d  
+- 22. Crase ~3d 2024-12-01  
   ### Situação
   - [ ] Leitura
   - [ ] Cartões antigos
