@@ -167,6 +167,6 @@
 ## Revisando
 
 ## Feito
-- 00. Introdução - conceitos gerais #Linguagens #Portugues 2024-09-26  
-- 01. Do latim ao português atual #Linguagens #Portugues 2024-09-26  
-- 02. Domínio atual da língua portuguesa ~2h #Portugues #Linguagens 2024-09-26  
+- [x] 00. Introdução - conceitos gerais #Linguagens #Portugues 2024-09-26  
+- [ ] 01. Do latim ao português atual #Linguagens #Portugues 2024-09-26  
+- [ ] 02. Domínio atual da língua portuguesa ~2h #Portugues #Linguagens 2024-09-26  
