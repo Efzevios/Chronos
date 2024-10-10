@@ -3,13 +3,9 @@
   ### Afazeres
    - [ ] Revisão
    - [ ] Simulado
-- 03. Ortografia ~4d #Linguagens #Portugues #Ortografia  
+- 03. Ortografia ~2d #Linguagens #Portugues #Ortografia  
   ### Situação
-  - [ ] Leitura
-  - [ ] Cartões antigos
-  - [ ] .Anki
   - [ ] Revisão
-  - [ ] Escrita
   - [ ] Simulado
   
 - 04. Classe, estrutura e formação de palavras ~1d #Linguagens #Portugues #Morfologia  
