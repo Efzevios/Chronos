@@ -91,7 +91,7 @@
   - [ ] Revisão
   - [ ] Escrita
   - [ ] Simulado
-- 15. Preposição ~5d #Linguagens #Portugues #Morfologia 2024-11-14  
+- 15. Preposição ~5d #Linguagens #Portugues #Morfologia  
   ### Situação
   - [ ] Leitura
   - [ ] Cartões antigos
