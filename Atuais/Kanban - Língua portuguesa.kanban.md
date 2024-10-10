@@ -87,13 +87,9 @@
   ### Situação
   - [ ] Revisão
   - [ ] Simulado
-- 15. Conjunção ~2d #Linguagens #Portugues #Morfologia  
+- 15. Conjunção ~1d #Linguagens #Portugues #Morfologia  
   ### Situação
-  - [ ] Leitura
-  - [ ] Cartões antigos
-  - [ ] .Anki
   - [ ] Revisão
-  - [ ] Escrita
   - [ ] Simulado
 - 16. Interjeição ~1d #Linguagens #Portugues #Morfologia  
   ### Situação
