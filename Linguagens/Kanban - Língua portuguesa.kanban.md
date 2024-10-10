@@ -167,4 +167,3 @@
 ## Revisando
 
 ## Feito
-- 02. Domínio atual da língua portuguesa ~2h #Portugues #Linguagens  
