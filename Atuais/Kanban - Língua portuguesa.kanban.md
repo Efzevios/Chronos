@@ -67,7 +67,7 @@
   - [ ] Revisão
   - [ ] Escrita
   - [ ] Simulado
-- 12. Verbo ~10d #Linguagens #Portugues #Morfologia  
+- 12. Verbo ~7d #Linguagens #Portugues #Morfologia  
   ### Situação
   - [ ] Leitura
   - [ ] Cartões antigos
