@@ -83,13 +83,9 @@
   - [ ] Revisão
   - [ ] Escrita
   - [ ] Simulado
-- 14. Preposição ~5d #Linguagens #Portugues #Morfologia  
+- 14. Preposição ~1d #Linguagens #Portugues #Morfologia  
   ### Situação
-  - [ ] Leitura
-  - [ ] Cartões antigos
-  - [ ] .Anki
   - [ ] Revisão
-  - [ ] Escrita
   - [ ] Simulado
 - 15. Conjunção ~2d #Linguagens #Portugues #Morfologia  
   ### Situação
