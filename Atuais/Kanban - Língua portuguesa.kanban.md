@@ -122,7 +122,7 @@
   - [ ] Revisão
   - [ ] Escrita
   - [ ] Simulado
-- 21. Crase ~3d  
+- 21. Crase ~3d #Portugues #Ortografia #Sintaxe  
   ### Situação
   - [ ] Leitura
   - [ ] Cartões antigos
