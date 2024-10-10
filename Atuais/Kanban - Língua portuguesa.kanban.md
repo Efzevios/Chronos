@@ -111,11 +111,7 @@
   - [ ] Simulado
 - 19. Discurso direto, discurso indireto e discurso indireto livre ~1h #Linguagens #Portugues  
   ### Situação
-  - [ ] Leitura
-  - [ ] Cartões antigos
-  - [ ] .Anki
   - [ ] Revisão
-  - [ ] Escrita
   - [ ] Simulado
 - 20. Pontuação ~3d #Linguagens #Portugues #Ortografia  
   ### Situação
