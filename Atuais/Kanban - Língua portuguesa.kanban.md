@@ -1,4 +1,5 @@
 ## A Fazer
+- 01. Conceitos gerais  
 - 02. Fonética e fonologia ~1d #Linguagens #Portugues #Ortografia  
   ### Afazeres
    - [ ] Revisão
@@ -141,7 +142,6 @@
   - [ ] 8. Coesão e coerência
   - [ ] 9. Paralelismo sintático e semântico
   - [ ] 10. Redação - Reescritura de texto
-- 01. Conceitos gerais  
 
 ## Fazendo
 
