@@ -75,7 +75,7 @@
   - [ ] Revisão
   - [ ] Escrita
   - [ ] Simulado
-- 13. Advérbio ~3d #Portugues #Linguagens #Morfologia  
+- 13. Advérbio ~2d #Portugues #Linguagens #Morfologia  
   ### Situação
   - [ ] Leitura
   - [ ] Cartões antigos
