@@ -156,7 +156,7 @@
   - [ ] Simulado
 
 ## Fazendo
-- 03. Fonética e fonologia ~2d #Linguagens #Portugues #Ortografia 2024-09-28  
+- 03. Fonética e fonologia ~2d #Linguagens #Portugues #Ortografia  
   ### Afazeres
    - [ ] Leitura
    - [ ] Escrita
