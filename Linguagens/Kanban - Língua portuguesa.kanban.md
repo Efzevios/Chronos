@@ -1,5 +1,5 @@
 ## A Fazer
-- 04. Ortografia ~4d #Linguagens #Portugues #Ortografia 2024-10-02  
+- 04. Ortografia ~4d #Linguagens #Portugues #Ortografia  
   ### Situação
   - [ ] Leitura
   - [ ] Cartões antigos
