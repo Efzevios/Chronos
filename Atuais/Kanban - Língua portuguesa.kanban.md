@@ -13,13 +13,9 @@
   - [ ] Revisão
   - [ ] Simulado
   
-- 05. Derivação e composição ~3d #Linguagens #Portugues #Morfologia  
+- 05. Derivação e composição ~1d #Linguagens #Portugues #Morfologia  
   ### Situação
-  - [ ] Leitura
-  - [ ] Cartões antigos
-  - [ ] .Anki
   - [ ] Revisão
-  - [ ] Escrita
   - [ ] Simulado
 - 06. Frase, oração e período ~6d #Linguagens #Portugues #Sintaxe  
   ### Situação
