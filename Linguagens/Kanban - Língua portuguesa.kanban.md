@@ -122,7 +122,7 @@
   - [ ] Revisão
   - [ ] Escrita
   - [ ] Simulado
-- 19. Figuras de sintaxe ~3d #Linguagens #Portugues #Sintaxe 2024-11-24  
+- 19. Figuras de sintaxe ~3d #Linguagens #Portugues #Sintaxe  
   ### Situação
   - [ ] Leitura
   - [ ] Cartões antigos
