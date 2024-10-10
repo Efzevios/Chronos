@@ -91,14 +91,9 @@
   ### Situação
   - [ ] Revisão
   - [ ] Simulado
-- 16. Interjeição ~1d #Linguagens #Portugues #Morfologia  
+- 16. Interjeição ~1h #Linguagens #Portugues #Morfologia  
   ### Situação
-  - [ ] Leitura
-  - [ ] Cartões antigos
-  - [ ] .Anki
   - [ ] Revisão
-  - [ ] Escrita
-  - [ ] Simulado
 - 17. O período e sua construção ~5d #Linguagens #Portugues #Sintaxe  
   ### Situação
   - [ ] Leitura
