@@ -122,7 +122,7 @@
   - [ ] Revisão
   - [ ] Escrita
   - [ ] Simulado
-- 18. O período e sua construção ~5d #Linguagens #Portugues #Sintaxe  
+- 17. O período e sua construção ~5d #Linguagens #Portugues #Sintaxe  
   ### Situação
   - [ ] Leitura
   - [ ] .Anki
