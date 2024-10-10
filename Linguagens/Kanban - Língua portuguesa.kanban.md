@@ -106,7 +106,7 @@
   - [ ] Revisão
   - [ ] Escrita
   - [ ] Simulado
-- 16. Conjunção ~2d #Linguagens #Portugues #Morfologia  
+- 15. Conjunção ~2d #Linguagens #Portugues #Morfologia  
   ### Situação
   - [ ] Leitura
   - [ ] Cartões antigos
