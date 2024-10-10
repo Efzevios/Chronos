@@ -42,7 +42,7 @@
   - [ ] Escrita
   - [ ] Simulado
   
-- 08. Substantivo ~3d #Linguagens #Portugues #Morfologia  
+- 07. Substantivo ~3d #Linguagens #Portugues #Morfologia  
   ### Situação
   - [ ] Leitura
   - [ ] Cartões antigos
