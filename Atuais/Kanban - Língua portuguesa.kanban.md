@@ -10,11 +10,7 @@
   
 - 04. Classe, estrutura e formação de palavras ~1d #Linguagens #Portugues #Morfologia  
   ### Situação
-  - [ ] Leitura
-  - [ ] Cartões antigos
-  - [ ] .Anki
   - [ ] Revisão
-  - [ ] Escrita
   - [ ] Simulado
   
 - 05. Derivação e composição ~3d #Linguagens #Portugues #Morfologia  
