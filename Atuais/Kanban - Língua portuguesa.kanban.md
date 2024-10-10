@@ -17,7 +17,7 @@
   ### Situação
   - [ ] Revisão
   - [ ] Simulado
-- 06. Frase, oração e período ~4d #Linguagens #Portugues #Sintaxe  
+- 06. Frase, oração e período ~5d #Linguagens #Portugues #Sintaxe  
   ### Situação
   - [ ] Leitura
   - [ ] Cartões antigos
