@@ -153,7 +153,7 @@
   - [ ] Revisão
   - [ ] Escrita
   - [ ] Simulado
-- 22. Crase ~3d  
+- 21. Crase ~3d  
   ### Situação
   - [ ] Leitura
   - [ ] Cartões antigos
