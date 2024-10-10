@@ -51,7 +51,7 @@
   - [ ] Revisão
   - [ ] Escrita
   - [ ] Simulado
-- 10. Pronomes ~9d #Linguagens #Portugues #Morfologia  
+- 10. Pronomes ~7d #Linguagens #Portugues #Morfologia  
   ### Situação
   - [ ] Leitura
   - [ ] Cartões antigos
