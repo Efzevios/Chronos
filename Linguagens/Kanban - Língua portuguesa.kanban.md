@@ -99,7 +99,7 @@
   - [ ] Revisão
   - [ ] Escrita
   - [ ] Simulado
-- 16. Conjunção ~2d #Linguagens #Portugues #Morfologia 2024-11-16  
+- 16. Conjunção ~2d #Linguagens #Portugues #Morfologia  
   ### Situação
   - [ ] Leitura
   - [ ] Cartões antigos
