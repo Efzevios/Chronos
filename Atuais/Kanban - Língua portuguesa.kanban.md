@@ -8,7 +8,7 @@
   - [ ] Revisão
   - [ ] Simulado
   
-- 04. Classe, estrutura e formação de palavras ~1d #Linguagens #Portugues #Morfologia  
+- 04. Classe, estrutura e formação de palavras ~1h #Linguagens #Portugues #Morfologia  
   ### Situação
   - [ ] Revisão
   - [ ] Simulado
