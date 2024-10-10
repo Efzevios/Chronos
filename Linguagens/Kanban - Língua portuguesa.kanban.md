@@ -83,7 +83,7 @@
   - [ ] Revisão
   - [ ] Escrita
   - [ ] Simulado
-- 14. Advérbio ~3d #Portugues #Linguagens #Morfologia 2024-11-10  
+- 14. Advérbio ~3d #Portugues #Linguagens #Morfologia  
   ### Situação
   - [ ] Leitura
   - [ ] Cartões antigos
