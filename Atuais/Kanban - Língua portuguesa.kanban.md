@@ -129,7 +129,18 @@
   - [ ] Revisão
   - [ ] Escrita
   - [ ] Simulado
-- 22. Interpretação de texto  
+- 22. Interpretação de texto ~4d #Portugues  
+  ### Situação
+  - [ ] 1. Noções Gerais de Compreensão e Interpretação de Texto
+  - [ ] 2. Tipologia Textual
+  - [ ] 3. Gêneros Textuais
+  - [ ] 4. Denotação e Conotação
+  - [ ] 5. Funções da Linguagem - emotiva, apelativa, referencial, metalinguística, fática e poética
+  - [ ] 6. Intertextualidade
+  - [ ] 7. Vícios da linguagem
+  - [ ] 8. Coesão e coerência
+  - [ ] 9. Paralelismo sintático e semântico
+  - [ ] 10. Redação - Reescritura de texto
 
 ## Fazendo
 
