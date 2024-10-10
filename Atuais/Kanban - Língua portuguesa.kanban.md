@@ -1,5 +1,5 @@
 ## A Fazer
-- 01. Conceitos gerais  
+- 01. Conceitos gerais ~1h #Portugues #Linguagens  
 - 02. Fonética e fonologia ~1d #Linguagens #Portugues #Ortografia  
   ### Afazeres
    - [ ] Revisão
