@@ -13,7 +13,7 @@
   - [ ] Revisão
   - [ ] Simulado
   
-- 05. Derivação e composição ~1d #Linguagens #Portugues #Morfologia  
+- 05. Derivação e composição ~1h #Linguagens #Portugues #Morfologia  
   ### Situação
   - [ ] Revisão
   - [ ] Simulado
