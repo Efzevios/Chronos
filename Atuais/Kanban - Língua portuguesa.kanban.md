@@ -43,7 +43,7 @@
   - [ ] Revisão
   - [ ] Escrita
   - [ ] Simulado
-- 09. Adjetivo ~4d #Linguagens #Portugues #Morfologia  
+- 09. Adjetivo ~2d #Linguagens #Portugues #Morfologia  
   ### Situação
   - [ ] Leitura
   - [ ] Cartões antigos
