@@ -129,7 +129,7 @@
   - [ ] Revisão
   - [ ] Escrita
   - [ ] Simulado
-- 19. Figuras de sintaxe ~3d #Linguagens #Portugues #Sintaxe  
+- 18. Figuras de sintaxe ~3d #Linguagens #Portugues #Sintaxe  
   ### Situação
   - [ ] Leitura
   - [ ] Cartões antigos
