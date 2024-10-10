@@ -25,7 +25,7 @@
   - [ ] Revisão
   - [ ] Escrita
   - [ ] Simulado
-- 07. Frase, oração e período ~6d #Linguagens #Portugues #Sintaxe 2024-10-11  
+- 07. Frase, oração e período ~6d #Linguagens #Portugues #Sintaxe  
   ### Situação
   - [ ] Leitura
   - [ ] Cartões antigos
