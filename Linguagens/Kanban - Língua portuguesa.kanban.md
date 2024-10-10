@@ -145,7 +145,7 @@
   - [ ] Revisão
   - [ ] Escrita
   - [ ] Simulado
-- 21. Pontuação ~3d #Linguagens #Portugues #Ortografia  
+- 20. Pontuação ~3d #Linguagens #Portugues #Ortografia  
   ### Situação
   - [ ] Leitura
   - [ ] Cartões antigos
