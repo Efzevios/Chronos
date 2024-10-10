@@ -167,5 +167,4 @@
 ## Revisando
 
 ## Feito
-- 01. Do latim ao português atual #Linguagens #Portugues  
 - 02. Domínio atual da língua portuguesa ~2h #Portugues #Linguagens  
