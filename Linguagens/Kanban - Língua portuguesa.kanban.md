@@ -35,7 +35,7 @@
   - [ ] Escrita
   - [ ] Simulado
   
-- 08. Substantivo ~3d #Linguagens #Portugues #Morfologia 2024-10-14  
+- 08. Substantivo ~3d #Linguagens #Portugues #Morfologia  
   ### Situação
   - [ ] Leitura
   - [ ] Cartões antigos
