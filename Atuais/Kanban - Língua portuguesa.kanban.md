@@ -141,6 +141,7 @@
   - [ ] 8. Coesão e coerência
   - [ ] 9. Paralelismo sintático e semântico
   - [ ] 10. Redação - Reescritura de texto
+- 01. Conceitos gerais  
 
 ## Fazendo
 
