@@ -35,7 +35,7 @@
   - [ ] Revisão
   - [ ] Escrita
   - [ ] Simulado
-- 08. Artigo ~4d #Linguagens #Portugues #Morfologia 2024-10-18  
+- 08. Artigo ~3d #Linguagens #Portugues #Morfologia 2024-10-18  
   ### Situação
   - [ ] Leitura
   - [ ] Cartões antigos
