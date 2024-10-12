@@ -1,12 +1,33 @@
 > [!cite] Metas
 >  # Anuais
 >  > [!cite] Leitura
->  >  <center> Ler vinte e quatro livros.</center>
+>  >  <center>Ler vinte e quatro livros.</center>
 >  >
 >  >  > [!checklist]  Lista
-> > > Título | Data final | Feito
-> > >-|-|-
-> > > | | 
+> > > Enumeração |Título | Data final | Feito
+> > >-|-|-|-
+> > > | | |
+> > > | | |
+> > > | | |
+> > > | | |
+> > > | | |
+> > > | | |
+> > > | | |
+> > > | | |
+> > > | | |
+> > > | | |
+> > > | | |
+> > > | | |
+> > > | | |
+> > > | | |
+> > > | | |
+> > > | | |
+> > > | | |
+> > > | | |
+> > > | | |
+> > > | | |
+> > > | | |
+> > > | | |
 >  
 >  > [!cite] Meta n.2
 >
