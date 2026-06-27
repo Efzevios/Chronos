@@ -1,0 +1,15 @@
+[General]
+ColorScheme=BreezeDark
+Name=Breeze Dark
+
+[Colors:Window]
+BackgroundNormal=20,20,20
+ForegroundNormal=238,238,238
+
+[Colors:View]
+BackgroundNormal=24,24,24
+ForegroundNormal=238,238,238
+
+[Colors:Button]
+BackgroundNormal=90,90,90
+ForegroundNormal=238,238,238

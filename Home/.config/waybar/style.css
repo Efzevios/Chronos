@@ -1,0 +1,137 @@
+* {
+    font-family: monospace;
+    font-size: 13px;
+    font-weight: 400;
+    border: none;
+    border-radius: 0;
+    box-shadow: none;
+    text-shadow: none;
+    min-height: 0;
+}
+
+window#waybar {
+    background-color: transparent;
+}
+
+window#waybar > box {
+    background-color: #131313;
+    border-radius: 21px;
+}
+
+.modules-left {
+    padding-left: 2px;
+}
+
+.modules-right {
+    background-color: rgba(31, 31, 31, 1.0);
+    border-radius: 20px;
+    padding: 0 5px;
+    margin: 4px 6px 4px 3px;
+}
+
+/* Floating modules / Pills format */
+#custom-clock, #window {
+    background-color: rgba(31, 31, 31, 1.0); /* #1f1f1f */
+    color: rgba(226, 226, 226, 1.0); /* Branco original */
+    border-radius: 20px;
+    padding: 0 10px;
+    margin: 4px 3px;
+}
+
+#battery, #pulseaudio, #network, #custom-swaync, #custom-clipboard, #custom-controlcenter {
+    color: rgba(226, 226, 226, 1.0); /* Branco original */
+    padding: 0 6px;
+    margin: 0;
+    font-size: 16px;
+}
+
+/* Sway Workspaces Styling */
+#workspaces {
+    background-color: rgba(31, 31, 31, 1.0); /* Pílula de realce (container) */
+    border-radius: 20px;
+    padding: 0 4px;
+    margin: 4px 3px;
+}
+
+#workspaces button {
+    font-size: 10px; /* Fonte reduzida para caber no círculo menor */
+    color: rgba(226, 226, 226, 1.0); /* Branco original */
+    background-color: #5A5A5A; /* Pílulas normais (sem foco) */
+    border-radius: 100%; /* 100% circular */
+    padding: 0;
+    margin: 4px 3px;
+    min-width: 22px;
+    min-height: 22px;
+    transition: all 0.3s cubic-bezier(.55,-0.68,.48,1.68); /* Animação elástica suave */
+}
+
+#workspaces button:hover {
+    background-color: rgba(226, 226, 226, 0.5);
+}
+
+#workspaces button.focused, #workspaces button.active {
+    color: rgba(27, 27, 27, 1.0);
+    background-color: rgba(255, 255, 255, 1.0); /* Cor de destaque para o focado */
+    border-radius: 12px; /* Mais arredondado (formato cápsula) */
+    min-width: 20px; /* Tamanho reduzido pela metade */
+    min-height: 22px;
+    padding: 0 4px; /* Preenchimento reduzido */
+    margin: 4px 3px;
+}
+
+#workspaces button.urgent {
+    background-color: rgba(255, 180, 171, 1.0);
+    color: rgba(105, 0, 5, 1.0);
+    border-radius: 12px;
+}
+
+/* Battery Alerts */
+#battery.warning {
+    color: rgba(255, 180, 171, 1.0);
+}
+
+#battery.critical {
+    color: rgba(255, 180, 171, 1.0);
+    animation-name: blink;
+    animation-duration: 0.5s;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+}
+
+/* System Tray */
+#tray {
+    color: rgba(226, 226, 226, 1.0);
+    padding: 0 6px;
+    margin: 0;
+}
+
+#tray > .passive {
+    -gtk-icon-effect: dim;
+}
+
+#tray > .needs-attention {
+    -gtk-icon-effect: highlight;
+}
+
+/* Esconde a cápsula e padding se o módulo estiver vazio (ex: KDE Connect inativo) */
+#tray.empty, .empty {
+    background-color: transparent;
+    padding: 0;
+    margin: 0;
+}
+
+#custom-swaync.notification {
+    color: rgba(255, 180, 171, 1.0); /* Vermelho para indicar que há mensagens (apenas fora do Não Perturbe) */
+}
+
+/* Modifica a cor do nome do app se ele estiver em outro workspace (output não focado) */
+window#waybar.empty #window {
+    /* cor removida */
+}
+
+@keyframes blink {
+    to {
+        color: rgba(226, 226, 226, 1.0);
+    }
+}

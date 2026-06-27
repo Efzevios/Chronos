@@ -1,0 +1,95 @@
+* {
+    bg-window: #181818;
+    bg-element: #232323;
+    bg-selected: #3A3A3A;
+    text-normal: #E2E2E2;
+    text-muted: #A0A0A0;
+    
+    background-color: transparent;
+    text-color: @text-normal;
+    font: "monospace 11";
+}
+
+window {
+    location: center;
+    width: 650px;
+    background-color: @bg-window;
+    border-radius: 20px;
+    padding: 20px;
+    border: 2px;
+    border-color: #999999;
+}
+
+mainbox {
+    spacing: 16px;
+    children: [ message, inputbar, listview ];
+}
+
+message {
+    padding: 0px 8px;
+    background-color: transparent;
+    border: none;
+}
+
+textbox {
+    text-color: @text-normal;
+    font: "monospace 12";
+    background-color: transparent;
+}
+
+inputbar {
+    background-color: @bg-element;
+    border-radius: 999px; /* Pill shape */
+    padding: 14px 20px;
+    spacing: 12px;
+    children: [ prompt, entry ];
+}
+
+prompt {
+    text-color: @text-muted;
+    background-color: transparent;
+}
+
+entry {
+    placeholder: "Pesquisar...";
+    placeholder-color: @text-muted;
+    background-color: transparent;
+    text-color: @text-normal;
+}
+
+listview {
+    columns: 1;
+    lines: 5;
+    spacing: 14px; /* Margem entre os cards */
+    scrollbar: false;
+    fixed-height: false;
+    dynamic: true;
+}
+
+element {
+    background-color: @bg-element;
+    border-radius: 16px;
+    padding: 16px 20px;
+}
+
+/* O texto formatado com Pango (2 linhas) */
+element-text {
+    background-color: transparent;
+    text-color: inherit;
+    vertical-align: 0.5;
+    markup: true;
+}
+
+element normal.normal, element alternate.normal {
+    background-color: @bg-element;
+    text-color: @text-normal;
+}
+
+/* Semelhante à imagem, um leve destaque no selecionado, não tão forte quanto a topbar */
+element selected.normal {
+    background-color: @bg-selected;
+}
+
+element-text selected.normal {
+    text-color: #FFFFFF;
+}

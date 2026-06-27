@@ -1,0 +1,59 @@
+configuration {
+    modi: "drun,run";
+    show-icons: true;
+    font: "Inter 12";
+    icon-theme: "Tela-circle-dark";
+    display-drun: "";
+    drun-display-format: "{name}";
+}
+
+window {
+    width: 600px;
+    padding: 20px;
+    border-radius: 20px;
+    background-color: rgba(30, 30, 46, 0.95);
+    border: 2px;
+    border-color: rgba(255, 255, 255, 0.05);
+}
+
+mainbox {
+    spacing: 15px;
+}
+
+inputbar {
+    background-color: rgba(255, 255, 255, 0.05);
+    border-radius: 15px;
+    padding: 15px;
+    text-color: #cdd6f4;
+    children: [ prompt, entry ];
+}
+
+prompt {
+    text-color: #89b4fa;
+    margin: 0 10px 0 0;
+}
+
+entry {
+    placeholder: "Pesquisar aplicativos...";
+    text-color: #cdd6f4;
+    placeholder-color: #6c7086;
+}
+
+listview {
+    columns: 2;
+    lines: 6;
+    spacing: 10px;
+    background-color: transparent;
+}
+
+element {
+    padding: 10px;
+    border-radius: 12px;
+    background-color: transparent;
+    text-color: #cdd6f4;
+}
+
+element selected {
+    background-color: #89b4fa;
+    text-color: #11111b;
+}

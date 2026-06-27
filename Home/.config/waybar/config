@@ -1,0 +1,30 @@
+[
+    {
+        "output": "DP-1",
+        "include": ["~/.config/waybar/config.modules"],
+        "sway/window": {
+            "max-length": 50,
+            "format": "{app_id} • {title}",
+            "all-outputs": true,
+            "rewrite": {
+                "^ • $": "———",
+                "^ • (.+)": "$1",
+                "(.+) • $": "$1"
+            }
+        }
+    },
+    {
+        "output": "!DP-1",
+        "include": ["~/.config/waybar/config.modules"],
+        "sway/window": {
+            "max-length": 50,
+            "format": "{app_id} • {title}",
+            "all-outputs": true,
+            "rewrite": {
+                "^ • $": "———",
+                "^ • (.+)": "$1",
+                "(.+) • $": "$1"
+            }
+        }
+    }
+]

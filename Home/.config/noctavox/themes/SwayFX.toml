@@ -1,0 +1,31 @@
+[colors]
+surface_global      = ""
+surface_active      = "#1f1f1f"
+surface_inactive    = "#131313"
+surface_error       = "#ffb4ab"
+
+text_primary        = "#eeeeee"
+text_secondary      = "#e2e2e2"
+text_secondary_in   = "#a1a1aa"
+text_selection      = "#ffffff"
+text_muted          = "#a1a1aa"
+
+border_active       = "#999999"
+border_inactive     = "#141414"
+
+accent              = "#999999"
+accent_inactive     = "#353535"
+
+[progress]
+color               = [ "#eeeeee", 
+                        "#999999",
+                        "#2a2a2a" ]
+unplayed            = "dimmed"
+speed               = 2
+
+[borders]
+display             = true
+style               = "rounded"
+
+[extras]
+decorator           = "󰕘"

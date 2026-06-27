@@ -1,0 +1,40 @@
+# --- Ativação (Tecla 1 do Numpad) ---
+# KP_End = Tecla 1 (com NumLock OFF)
+activation_key: KP_End
+
+# --- Tecla de Saída (Enter do Numpad) ---
+# KP_Enter = Tecla Enter do teclado numérico
+# Serve para cancelar/sair do warpd se voce desistir de clicar
+exit: KP_Enter
+
+# --- Atalho Rápido para Grade ---
+# Espaço ativa direto o modo de letras (Hint)
+hint_activation_key: space
+
+# --- Movimento (8, 2, 4, 6) ---
+up: KP_Up
+down: KP_Down
+left: KP_Left
+right: KP_Right
+
+# --- Funções Especiais do Numpad ---
+# 5: Ativa o modo Grade (Hint) enquanto navega
+hint: KP_Begin
+
+# 0: Troca de Monitor
+screen: KP_Insert
+
+# --- Botões de Clique (7, ponto, 9) ---
+# Esquerdo (7) = KP_Home
+# Meio (.)     = KP_Delete
+# Direito (9)  = KP_Page_Up
+buttons: KP_Home KP_Page_Up
+
+# --- Comportamento ---
+# Sai automaticamente após um clique
+oneshot: 1
+
+# --- Ajustes ---
+cursor_size: 10
+speed: 200
+acceleration: 100

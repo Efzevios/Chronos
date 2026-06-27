@@ -1,0 +1,82 @@
+{
+    "layer": "top",
+    "position": "top",
+    "margin-top": 4,
+    "height": 31,
+    "margin-bottom": 0,
+    "margin-left": 5,
+    "margin-right": 5,
+    "spacing": 0,
+    "modules-left": ["sway/workspaces", "custom/clock"],
+    "modules-center": ["sway/window"],
+    "modules-right": ["tray", "battery", "custom/swaync"],
+
+    "sway/workspaces": {
+        "disable-scroll": true,
+        "all-outputs": false,
+        "format": "{name}"
+    },
+    "custom/clock": {
+        "exec": "env LC_ALL=pt_BR.utf8 date +'%H:%M • %a. %-d'",
+        "interval": 5,
+        "tooltip": false
+    },
+    "network": {
+        "format-wifi": "󰤨",
+        "format-ethernet": "󰈀",
+        "format-disconnected": "󰤭",
+        "tooltip-format": "{essid}",
+        "on-click": "alacritty -e nmtui"
+    },
+    "pulseaudio": {
+        "format": "{icon}",
+        "format-muted": "󰖁",
+        "format-icons": {
+            "default": ["󰕿", "󰖀", "󰕾"]
+        },
+        "on-click": "alacritty -e pulsemixer"
+    },
+    "battery": {
+        "states": {
+            "warning": 30,
+            "critical": 15
+        },
+        "format": "{icon}",
+        "format-charging": "󰂄",
+        "format-plugged": "󰂄",
+        "format-icons": ["󰁺", "󰁻", "󰁼", "󰁽", "󰁾", "󰁿", "󰂀", "󰂁", "󰂂", "󰁹"]
+    },
+    "tray": {
+        "icon-size": 18,
+        "spacing": 8
+    },
+    "custom/clipboard": {
+        "format": "󰅌",
+        "on-click": "cliphist list | wofi -d | cliphist decode | wl-copy",
+        "tooltip": false
+    },
+    "custom/swaync": {
+        "tooltip": false,
+        "format": "{icon}",
+        "format-icons": {
+            "notification": "󰂚",
+            "none": "󰂚",
+            "dnd-notification": "󰂛",
+            "dnd-none": "󰂛",
+            "inhibited-notification": "󰂚",
+            "inhibited-none": "󰂚",
+            "dnd-inhibited-notification": "󰂛",
+            "dnd-inhibited-none": "󰂛"
+        },
+        "return-type": "json",
+        "exec": "swaync-client -swb",
+        "on-click": "swaync-client -t -sw",
+        "on-click-right": "swaync-client -d -sw",
+        "escape": true
+    },
+    "custom/controlcenter": {
+        "format": "󰒓",
+        "on-click": "alacritty",
+        "tooltip": false
+    }
+}

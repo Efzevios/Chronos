@@ -1,0 +1,89 @@
+/* Definições globais de tipografia e cor do texto */
+* {
+    font-family: monospace;
+    font-size: 14px;
+    color: #eee;
+}
+
+/* Janela base do Wofi. 
+   IMPORTANTE: Fundo transparente para corrigir o artefato preto nos cantos arredondados.
+*/
+#window {
+    background-color: transparent;
+}
+
+/* Container visual principal. 
+   Aqui aplicamos a cor base, a borda e o arredondamento da Waybar.
+*/
+#outer-box {
+    background-color: rgba(24, 24, 24, 0.98);
+    border-radius: 20px;
+    border: none;
+    padding: 16px;
+}
+
+/* Barra de pesquisa (Input) */
+#input {
+    all: unset;
+    /* Remove os estilos nativos do GTK que injetam bordas e fundos azuis */
+    background-color: rgba(255, 255, 255, 0.05);
+    border-radius: 12px;
+    border: 1px solid #333333;
+    padding: 8px 10px;
+    margin-bottom: 8px;
+    color: #eee;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+#input:focus {
+    border: 1px solid #666666;
+    /* Borda cinza em foco */
+    outline: none;
+    box-shadow: none;
+    /* Remove a sombra/brilho azul do GTK */
+}
+
+/* Área de rolagem dos resultados */
+#scroll {
+    margin-top: 4px;
+}
+
+/* Container interno dos resultados */
+#inner-box {
+    background-color: transparent;
+}
+
+/* Itens individuais da lista (Apps/Resultados) */
+#entry {
+    padding: 6px 8px;
+    border-radius: 12px;
+    background-color: transparent;
+    margin-bottom: 2px;
+    transition: all 0.2s ease-in-out;
+    border: none;
+    outline: none;
+}
+
+/* Estado selecionado/hover do item (baseado no módulo de janela e workspace da Waybar) */
+#entry:selected {
+    background-color: #2a2a2a;
+    font-weight: normal;
+    /* Removido o negrito */
+    border: 1px solid #666666;
+    /* Borda cinza pro destaque */
+    background-image: none;
+    /* Previne barras de gradiente azuis do GTK */
+    outline: none;
+}
+
+/* Efeito de hover (baseado no hover da Waybar) */
+#entry:hover {
+    background-color: rgba(255, 255, 255, 0.05);
+    color: #aaa;
+}
+
+/* Espaçamento do texto em relação ao ícone */
+#text {
+    margin-left: 12px;
+}

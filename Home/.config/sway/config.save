@@ -1,0 +1,389 @@
+# Importa variáveis de ambiente essenciais para o systemd, garantindo que serviços do usuário funcionem com o Wayland/Sway.
+exec systemctl --user import-environment DISPLAY WAYLAND_DISPLAY XDG_CURRENT_DESKTOP
+
+# ==========================================
+# 1. VARIÁVEIS DO SISTEMA
+# ==========================================
+
+# Define a tecla modificadora principal (Mod4 = tecla Windows ou Super)
+set $mod Mod4
+# Define a tecla para mover o foco para a esquerda (padrão do Vim)
+set $left h
+# Define a tecla para mover o foco para baixo
+set $down j
+# Define a tecla para mover o foco para cima
+set $up k
+# Define a tecla para mover o foco para a direita
+set $right l
+# Define o emulador de terminal padrão como 'foot'
+set $term foot
+# Define o comando para abrir o menu de aplicativos (rofi-launcher)
+set $menu ~/.local/bin/rofi-launcher
+# Define o esquema do GNOME para facilitar a configuração de temas (GTK)
+set $gnome-schema org.gnome.desktop.interface
+
+# Inclui configurações adicionais de variáveis localizadas neste diretório.
+include /etc/sway/config-vars.d/*
+
+# ==========================================
+# 2. VÍDEO (OUTPUT) E ENTRADA (INPUT)
+# ==========================================
+
+# Configura o monitor principal (DP-1) com resolução Full HD (1080p)
+output DP-1 resolution 1920x1080 position 0,0
+# Configura um monitor secundário (HDMI-A-1) com resolução 1366x768 posicionado fisicamente acima do principal
+output HDMI-A-1 resolution 1366x768 position 0,-2000
+# Define o papel de parede para todos os monitores, preenchendo a tela
+output * bg ~/.config/ascii.png fill
+
+# Bloco de configuração de dispositivos de entrada (teclado, mouse, etc.) para todos os dispositivos
+input * {
+    # Usamos um arquivo de configuração de teclado customizado gerado a partir do 
+    # layout 'br' com variante 'abnt2' e com 'compose:ralt', modificado para
+    # mapear a tecla de divisão do teclado numérico como barra '|' (grep)
+    xkb_file /home/efzevios/.config/sway/custom_xkb.xkb
+}
+
+# Mapeia a mesa digitalizadora (OpenTabletDriver) para o monitor principal (DP-1)
+input type:tablet_tool map_to_output DP-1
+input "0:0:OpenTabletDriver_Virtual_Artist_Tablet" map_to_output DP-1
+
+# ==========================================
+# 3. APARÊNCIA E REGRAS DE JANELAS
+# ==========================================
+
+# Define o espaçamento (gap) interno entre as janelas como 2 pixels
+gaps inner 2
+# Define o espaçamento (gap) externo entre as janelas e as bordas da tela como 3 pixels
+gaps outer 3
+# Define um espaçamento extra de 2 pixels na parte superior da tela
+gaps top 2
+# Ativa bordas inteligentes, ocultando as bordas caso haja apenas uma janela na tela
+smart_borders on
+# Define janelas padrão (tiling) com borda simples de 2 pixels de espessura (sem barra de título)
+default_border pixel 2
+# Define que janelas flutuantes também terão bordas com 2 pixels de espessura
+default_floating_border pixel 2
+# Permite arrastar e mover janelas flutuantes segurando a tecla Mod e clicando com o mouse
+floating_modifier $mod normal
+# Arredonda os cantos das janelas com um raio de 7 pixels (requer SwayFX)
+corner_radius 7
+
+# Cores para a janela atualmente com foco (borda, fundo, texto, indicador de split, borda dos filhos)
+client.focused          #999999 #141414 #eeeeee #999999   #999999
+# Cores para a janela que estava em foco e ficou inativa, mas no mesmo workspace
+client.focused_inactive #141414 #141414 #888888 #141414   #141414
+# Cores para janelas em segundo plano (sem foco algum)
+client.unfocused        #141414 #141414 #888888 #141414   #141414
+
+# Regra: A janela de dicas de atalho será aberta como flutuante, no tamanho 800x650 e centralizada
+for_window [app_id="keybinds_hint"] floating enable, resize set 800 650, move position center
+# Regra: Janelas com a classe 'cubesuite' (ignorando maiúsculas) abrirão em modo flutuante
+for_window [class="(?i)cubesuite.*"] floating enable
+# Regra: Janelas com o título 'cubesuite' abrirão em modo flutuante
+for_window [title="(?i)cubesuite.*"] floating enable
+# Regra: Toda janela que entrar em modo flutuante terá o tamanho fixado em 800x600 e será centralizada
+for_window [floating] resize set 800 600, move position center
+# Regra: A janela do monitor 'btop' será flutuante, tamanho 1000x700, e centralizada
+for_window [app_id="btop_monitor"] floating enable, resize set 1000 700, move position center
+
+# ==========================================
+# 4. ÁREAS DE TRABALHO
+# ==========================================
+
+# Atribui de forma fixa a área de trabalho 1 ao monitor principal DP-1
+workspace 1 output DP-1
+# Atribui a área de trabalho 2 ao monitor principal DP-1
+workspace 2 output DP-1
+# Atribui a área de trabalho 3 ao monitor principal DP-1
+workspace 3 output DP-1
+# Atribui a área de trabalho 4 ao monitor principal DP-1
+workspace 4 output DP-1
+# Atribui a área de trabalho 5 ao monitor principal DP-1
+workspace 5 output DP-1
+# Atribui a área de trabalho 6 ao monitor principal DP-1
+workspace 6 output DP-1
+# Atribui a área de trabalho 7 ao monitor principal DP-1
+workspace 7 output DP-1
+# Atribui a área de trabalho 8 ao monitor principal DP-1
+workspace 8 output DP-1
+# Atribui a área de trabalho 9 ao monitor principal DP-1
+workspace 9 output DP-1
+# Atribui de forma fixa a área de trabalho 10 ao monitor secundário HDMI-A-1
+workspace 10 output HDMI-A-1
+
+# ==========================================
+# 5. INICIALIZAÇÃO (AUTOSTART)
+# ==========================================
+
+# Bloco executado sempre que o Sway iniciar ou for recarregado
+exec_always {
+    # Define o tema visual do GTK como 'Orchis-Dark'
+    gsettings set $gnome-schema gtk-theme 'Orchis-Dark'
+    # Força a preferência do sistema por temas no modo escuro
+    gsettings set $gnome-schema color-scheme 'prefer-dark'
+}
+
+# Executa e mantém ativo o armazenamento de histórico de transferência para textos copiados
+exec wl-paste --type text --watch cliphist store
+# Executa e mantém ativo o armazenamento de histórico de transferência para imagens copiadas
+exec wl-paste --type image --watch cliphist store
+# Inicia o serviço do OpenTabletDriver (suporte para mesa digitalizadora) em nível de usuário via systemctl
+exec systemctl --user start opentabletdriver.service
+# Aguarda 2 segundos na inicialização e então abre a interface gráfica do OTD já minimizada
+exec sleep 2 && otd-gui --minimized
+# Inicia o Syncthing em segundo plano para sincronização de arquivos sem abrir o navegador
+exec syncthing --no-browser
+
+# Reinicia a central de notificações (SwayNC) toda vez que o Sway for recarregado
+exec_always pkill swaync; swaync
+
+# Ativa a funcionalidade de desfoque (blur) do SwayFX para elementos na tela
+blur on
+
+# Habilita desfoque (blur) especificamente para a camada do wofi (menu/launcher)
+layer_effects "wofi" blur enable
+
+# ==========================================
+# 6. ATALHOS DE TECLADO
+# ==========================================
+
+# Básicos e Aplicativos
+
+# Mod + t: Abre o emulador de terminal
+bindsym $mod+t exec $term
+# Mod + d: Abre o lançador de aplicativos (menu rofi)
+bindsym $mod+d exec $menu
+# Mod + Shift + q: Fecha a janela em foco atual
+bindsym $mod+Shift+q kill
+# Mod + Shift + c: Recarrega as configurações do Sway
+bindsym $mod+Shift+c reload
+
+# Utilitários (Cliphist, Cores, Print)
+
+# Mod + n: Alterna o painel de notificações/controle do SwayNC
+bindsym $mod+n exec swaync-client -t -sw
+# Mod + Shift + n: Ativa/Desativa o modo Não Perturbe do SwayNC
+bindsym $mod+Shift+n exec swaync-client -d -sw
+# Mod + Esc: Fecha todas as notificações na tela
+bindsym $mod+Escape exec swaync-client -C
+# Mod + Shift + Esc: Fecha apenas a notificação mais recente
+bindsym $mod+Shift+Escape exec swaync-client --close-latest
+# Mod + m: Abre um terminal especificamente para exibir o Btop (monitor do sistema)
+bindsym $mod+m exec $term -a btop_monitor btop
+# Mod + Shift + d: Abre o menu do histórico da área de transferência (Rofi + Cliphist)
+bindsym $mod+Shift+d exec /home/efzevios/.config/rofi/clipboard.sh
+# Mod + Shift + p: Seleciona uma área e copia a cor (HEX) do pixel clicado para a área de transferência
+bindsym $mod+Shift+p exec grim -g "$(slurp -p)" -t ppm - | convert - - format '%[pixel:p{0,0}]' txt:- | tail -n 1 | cut -d ' ' -f 4 | wl-copy
+# Mod + Ctrl + Shift + p: Seleciona e tira um print, salvando em "Imagens" e copiando para a área de transferência
+bindsym $mod+Ctrl+Shift+p exec grim -g "$(slurp)" - | tee ~/Imagens/print_$(date +'%Y-%m-%d_%H-%M-%S').png | wl-copy
+
+# Ajuda de Atalhos
+
+# Ctrl + Mod + h: Abre um terminal mostrando os atalhos de forma fácil com paginação
+bindsym Control+$mod+h exec $term -a keybinds_hint -T "Atalhos do Sway" less ~/.config/sway/keybinds.txt
+
+# Foco de Janelas
+
+# Foca na janela localizada à esquerda
+bindsym $mod+$left focus left
+# Foca na janela localizada abaixo
+bindsym $mod+$down focus down
+# Foca na janela localizada acima
+bindsym $mod+$up focus up
+# Foca na janela localizada à direita
+bindsym $mod+$right focus right
+# Foca na janela à esquerda usando a seta do teclado
+bindsym $mod+Left focus left
+# Foca na janela abaixo usando a seta
+bindsym $mod+Down focus down
+# Foca na janela acima usando a seta
+bindsym $mod+Up focus up
+# Foca na janela à direita usando a seta
+bindsym $mod+Right focus right
+# Foca no contêiner pai das janelas atuais (útil para blocos inteiros)
+bindsym $mod+a focus parent
+
+# Movimentação de Janelas
+
+# Move a janela selecionada para a esquerda
+bindsym $mod+Shift+$left move left
+# Move a janela selecionada para baixo
+bindsym $mod+Shift+$down move down
+# Move a janela selecionada para cima
+bindsym $mod+Shift+$up move up
+# Move a janela selecionada para a direita
+bindsym $mod+Shift+$right move right
+# Move a janela para a esquerda usando a seta
+bindsym $mod+Shift+Left move left
+# Move a janela para baixo usando a seta
+bindsym $mod+Shift+Down move down
+# Move a janela para cima usando a seta
+bindsym $mod+Shift+Up move up
+# Move a janela para a direita usando a seta
+bindsym $mod+Shift+Right move right
+
+# Áreas de Trabalho
+
+# Muda para a área de trabalho 1
+bindsym $mod+1 workspace number 1
+# Muda para a área de trabalho 2
+bindsym $mod+2 workspace number 2
+# Muda para a área de trabalho 3
+bindsym $mod+3 workspace number 3
+# Muda para a área de trabalho 4
+bindsym $mod+4 workspace number 4
+# Muda para a área de trabalho 5
+bindsym $mod+5 workspace number 5
+# Muda para a área de trabalho 6
+bindsym $mod+6 workspace number 6
+# Muda para a área de trabalho 7
+bindsym $mod+7 workspace number 7
+# Muda para a área de trabalho 8
+bindsym $mod+8 workspace number 8
+# Muda para a área de trabalho 9
+bindsym $mod+9 workspace number 9
+# Muda para a área de trabalho 10
+bindsym $mod+0 workspace number 10
+
+# Move a janela atual para a área de trabalho 1
+bindsym $mod+Shift+1 move container to workspace number 1
+# Move a janela atual para a área de trabalho 2
+bindsym $mod+Shift+2 move container to workspace number 2
+# Move a janela atual para a área de trabalho 3
+bindsym $mod+Shift+3 move container to workspace number 3
+# Move a janela atual para a área de trabalho 4
+bindsym $mod+Shift+4 move container to workspace number 4
+# Move a janela atual para a área de trabalho 5
+bindsym $mod+Shift+5 move container to workspace number 5
+# Move a janela atual para a área de trabalho 6
+bindsym $mod+Shift+6 move container to workspace number 6
+# Move a janela atual para a área de trabalho 7
+bindsym $mod+Shift+7 move container to workspace number 7
+# Move a janela atual para a área de trabalho 8
+bindsym $mod+Shift+8 move container to workspace number 8
+# Move a janela atual para a área de trabalho 9
+bindsym $mod+Shift+9 move container to workspace number 9
+# Move a janela atual para a área de trabalho 10
+bindsym $mod+Shift+0 move container to workspace number 10
+
+# Layouts e Modos de Visualização
+
+# Prepara o layout para que a próxima janela divida a tela horizontalmente
+bindsym $mod+b splith
+# Prepara o layout para que a próxima janela divida a tela verticalmente
+bindsym $mod+v splitv
+# Muda o layout para empilhado (stacking) - exibe os títulos das janelas verticalmente
+bindsym $mod+s layout stacking
+# Muda o layout para abas (tabbed) - exibe janelas em guias
+bindsym $mod+w layout tabbed
+# Alterna entre layouts divididos (split)
+bindsym $mod+e layout toggle split
+# Coloca ou remove a janela atual em tela cheia (fullscreen)
+bindsym $mod+f fullscreen
+# Alterna a janela atual entre o modo fixo na grade e modo flutuante
+bindsym $mod+Shift+space floating toggle
+# Alterna o foco entre as janelas fixas e as janelas flutuantes
+bindsym $mod+space focus mode_toggle
+
+# Scratchpad (Janelas escondidas de fácil acesso)
+
+# Move a janela atual para o Scratchpad, escondendo-a
+bindsym $mod+Shift+minus move scratchpad
+# Mostra as janelas escondidas no Scratchpad, ciclando entre elas
+bindsym $mod+minus scratchpad show
+
+# Redimensionamento
+
+# Entra no sub-modo especial de redimensionamento
+bindsym $mod+r mode "resize"
+# Bloco do modo de redimensionamento
+mode "resize" {
+    # Encolhe a largura da janela em 10px
+    bindsym $left resize shrink width 10px
+    # Aumenta a altura da janela em 10px
+    bindsym $down resize grow height 10px
+    # Encolhe a altura da janela em 10px
+    bindsym $up resize shrink height 10px
+    # Aumenta a largura da janela em 10px
+    bindsym $right resize grow width 10px
+    # Encolhe a largura usando a seta do teclado
+    bindsym Left resize shrink width 10px
+    # Aumenta a altura usando a seta do teclado
+    bindsym Down resize grow height 10px
+    # Encolhe a altura usando a seta do teclado
+    bindsym Up resize shrink height 10px
+    # Aumenta a largura usando a seta do teclado
+    bindsym Right resize grow width 10px
+    # Sai do modo de redimensionamento usando Enter
+    bindsym Return mode "default"
+    # Sai do modo de redimensionamento usando a tecla Esc
+    bindsym Escape mode "default"
+}
+
+# Áudio e Brilho (Usando teclas multimídia nativas)
+
+# Aumenta o volume do dispositivo padrão em 5% com limite em 150%
+bindsym XF86AudioRaiseVolume exec wpctl set-volume -l 1.5 @DEFAULT_AUDIO_SINK@ 5%+
+# Diminui o volume do dispositivo padrão em 5%
+bindsym XF86AudioLowerVolume exec wpctl set-volume @DEFAULT_AUDIO_SINK@ 5%-
+# Alterna o mute (mudo) no dispositivo de áudio (saída)
+bindsym XF86AudioMute exec wpctl set-mute @DEFAULT_AUDIO_SINK@ toggle
+# Alterna o mute do microfone
+bindsym XF86AudioMicMute exec wpctl set-mute @DEFAULT_AUDIO_SOURCE@ toggle
+
+# Comandos de áudio equivalentes usando pactl bloqueados (--locked)
+# Muta áudio mesmo com a tela bloqueada
+bindsym --locked XF86AudioMute exec pactl set-sink-mute \@DEFAULT_SINK@ toggle
+# Diminui áudio mesmo com a tela bloqueada
+bindsym --locked XF86AudioLowerVolume exec pactl set-sink-volume \@DEFAULT_SINK@ -5%
+# Aumenta áudio mesmo com a tela bloqueada
+bindsym --locked XF86AudioRaiseVolume exec pactl set-sink-volume \@DEFAULT_SINK@ +5%
+# Muta microfone mesmo com a tela bloqueada
+bindsym --locked XF86AudioMicMute exec pactl set-source-mute \@DEFAULT_SOURCE@ toggle
+
+# Volume do aplicativo em foco
+# Aumenta o volume do app em foco em 5%
+bindsym Control+Mod1+plus exec ~/.config/sway/volume_active.sh 5%+
+bindsym Control+Mod1+equal exec ~/.config/sway/volume_active.sh 5%+
+bindsym Control+Mod1+KP_Add exec ~/.config/sway/volume_active.sh 5%+
+# Diminui o volume do app em foco em 5%
+bindsym Control+Mod1+minus exec ~/.config/sway/volume_active.sh 5%-
+bindsym Control+Mod1+KP_Subtract exec ~/.config/sway/volume_active.sh 5%-
+
+# Controles de Brilho da Tela bloqueados (--locked)
+# Diminui o brilho da tela em 5% mesmo com a tela bloqueada
+bindsym --locked XF86MonBrightnessDown exec brightnessctl set 5%-
+# Aumenta o brilho da tela em 5% mesmo com a tela bloqueada
+bindsym --locked XF86MonBrightnessUp exec brightnessctl set 5%+
+
+# Mouse acionado pelo teclado (Warpd)
+
+# Inicia o Warpd no modo 'hint' mostrando letras na tela
+bindsym Mod4+Shift+w exec warpd --hint
+# Inicia o Warpd em modo normal
+bindsym Mod4+Mod1+c exec warpd --normal
+# Inicia o Warpd no modo 'grid' (grade)
+bindsym Mod4+Mod1+g exec warpd --grid
+
+# Inclui scripts ou regras extras localizados no diretório /etc/sway/config.d/
+include /etc/sway/config.d/*
+
+# Autostart do KDE Connect (Indicador na System Tray)
+# Inicia o indicador de bandeja do KDE Connect no login
+exec --no-startup-id /usr/bin/kdeconnect-indicator
+
+# ==========================================
+# 7. BARRA DE STATUS (WAYBAR)
+# ==========================================
+
+# Usar exec_always é a forma mais recomendada para iniciar o Waybar no Sway,
+# pois garante que ele rode como um cliente Wayland independente e 
+# reinicie corretamente quando o Sway for recarregado.
+exec_always sh -c 'pkill waybar; sleep 1; env LC_ALL="pt_BR.utf8" waybar'
+
+# ==========================================
+# Busca Rápida com Rofi e Elinks
+# ==========================================
+for_window [app_id="flutuante-elinks"] floating enable, resize set 800 600, move position center
+bindsym Mod4+Mod1+p exec /home/efzevios/.local/bin/rofi-elinks.sh

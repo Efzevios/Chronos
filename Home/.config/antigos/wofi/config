@@ -1,0 +1,22 @@
+# Configurações de Janela e Layout
+width=650
+# Altura reduzida para criar o aspecto semirretangular (Krunner style)
+height=220
+location=center
+orientation=vertical
+halign=fill
+
+# Funcionalidade e Modos
+show=drun,run
+prompt=Pesquisa Geral | Apps
+insensitive=true
+
+# Configurações Visuais e de Ícones
+allow_images=true
+image_size=20
+# Reduzindo ligeiramente o tamanho do ícone para acompanhar a altura menor
+allow_markup=true
+hide_scroll=true
+no_actions=true
+# Garante que o Wofi tente usar transparência real
+layer=overlay

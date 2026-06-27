@@ -1,0 +1,148 @@
+/**
+ * Rofi Wayland Theme
+ * Clean Layout
+ */
+
+configuration {
+    modi: "drun,run,filebrowser";
+    show-icons: true;
+    display-drun: "󰕘 Todos";
+    display-run: " Comandos";
+    display-filebrowser: " Arquivos";
+    drun-display-format: "{name}\n<span weight='light' size='small' color='#a1a1aa'>{comment}</span>";
+    kb-mode-next: "Shift+Right,Control+Tab";
+    kb-mode-previous: "Shift+Left,Control+Shift+Tab";
+}
+
+* {
+    font: "Inter 10";
+    bg-col: #131313;
+    bg-col-light: #2a2a2a;
+    border-col: #999999;
+    selected-col: #353535;
+    fg-col: #eeeeee;
+    grey: #a1a1aa;
+    
+    background-color: transparent;
+    text-color: @fg-col;
+    margin: 0;
+    padding: 0;
+    spacing: 0;
+}
+
+window {
+    background-color: @bg-col;
+    border: 2px solid;
+    border-color: @border-col;
+    border-radius: 12px;
+    width: 650px;
+    height: 500px; /* Fixed height solves the 3-item shrink bug */
+    padding: 15px;
+}
+
+mainbox {
+    spacing: 15px;
+    children: [ "inputbar", "textbox-header", "listview", "bottom-row" ];
+}
+
+/* SEARCH BAR */
+inputbar {
+    spacing: 10px;
+    padding: 12px 15px;
+    background-color: @bg-col-light;
+    border-radius: 8px;
+    children: [ "textbox-search", "entry" ];
+    expand: false;
+}
+
+textbox-search {
+    content: " ";
+    text-color: @grey;
+    vertical-align: 0.5;
+    expand: false;
+}
+
+entry {
+    placeholder: "Pesquisar...";
+    placeholder-color: @grey;
+    text-color: @fg-col;
+    vertical-align: 0.5;
+    expand: true;
+}
+
+/* HEADER */
+textbox-header {
+    content: "󰀻 Aplicativos";
+    text-color: @grey;
+    font: "Inter 9";
+    expand: false;
+    vertical-align: 0.5;
+    margin: 5px 0px 0px 5px;
+}
+
+/* APPLICATION LIST */
+listview {
+    columns: 1;
+    spacing: 2px;
+    expand: true; /* Takes all remaining vertical space */
+    scrollbar: false;
+}
+
+element {
+    padding: 8px 12px;
+    border-radius: 8px;
+    spacing: 15px;
+    background-color: transparent;
+}
+
+element normal.normal { background-color: transparent; }
+element alternate.normal { background-color: transparent; }
+element selected.normal { background-color: @selected-col; }
+
+element-icon {
+    size: 36px;
+    vertical-align: 0.5;
+}
+
+element-text {
+    vertical-align: 0.5;
+    text-color: @fg-col;
+    markup: true;
+}
+
+/* BOTTOM NAVIGATION AND HINTS */
+bottom-row {
+    orientation: horizontal;
+    children: [ "mode-switcher", "textbox-hints" ];
+    margin: 5px 0px 0px 0px;
+    expand: false;
+}
+
+mode-switcher {
+    spacing: 10px;
+    expand: false; /* Keep it from stretching across the screen */
+}
+
+button {
+    padding: 6px 12px;
+    border-radius: 15px;
+    background-color: transparent;
+    text-color: @grey;
+    vertical-align: 0.5;
+    horizontal-align: 0.5;
+    cursor: pointer;
+}
+
+button selected {
+    background-color: @fg-col;
+    text-color: @bg-col;
+}
+
+textbox-hints {
+    expand: true;
+    content: "↑↓ nav  Shift+←→ abas  ↵ abrir";
+    text-color: @grey;
+    vertical-align: 0.5;
+    horizontal-align: 1.0; /* Right align the text */
+    font: "Inter 9";
+}

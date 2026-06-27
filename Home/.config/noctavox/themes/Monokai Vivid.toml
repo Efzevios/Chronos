@@ -1,0 +1,32 @@
+[colors]
+surface_global      = "#1e1e1e"
+surface_active      = "#2e2e2e"
+surface_inactive    = "#1e1e1e"
+surface_error       = "#ff0055"
+
+text_primary        = "#ffffff"
+text_secondary      = "#ffeb3b"
+text_secondary_in   = "#b8a82b"
+text_selection      = "#1e1e1e"
+text_muted          = "#888888"
+
+border_active       = "#00ff41"
+border_inactive     = "#6e8e5c"
+
+accent              = "#00ff41"
+accent_inactive     = "#00a329"
+
+[progress]
+color               =  ["#ffffff", "#00ff41"]
+
+[progress.waveform]
+color_unplayed      = "still"
+
+[progress.bar]
+color               = "#00ff41"
+symbol_played       = "▰"
+symbol_unplayed     = "▱"
+
+[extras]
+decorator           = ""
+

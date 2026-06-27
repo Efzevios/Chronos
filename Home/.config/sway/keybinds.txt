@@ -1,0 +1,62 @@
+ATALHOS DO SWAY
+==================================
+
+ÁUDIO DO APP EM FOCO
+Ctrl + Alt + Plus (+): Aumenta o volume do aplicativo em foco
+Ctrl + Alt + Menos (-): Diminui o volume do aplicativo em foco
+
+BÁSICOS E APLICATIVOS
+Super + T: Inicia o terminal padrão (foot)
+Super + D: Inicia o lançador de aplicativos (Rofi)
+Super + M: Abre o monitor de processos (Btop)
+Super + N: Abre as notificações
+ Super + Esc: Remover notificação na tela
+ Super + Shift + Esc: remover todas as notificações
+Super + Shift + N: Alterna o modo Não Perturbe
+Super + Shift + D: Abre o histórico da área de transferência
+Super + Shift + Q: Fecha a janela em foco
+Super + Shift + C: Recarrega a configuração do Sway
+Super + Alt + P: Abre atalho para pesquisa no Elinks
+
+UTILITÁRIOS
+Ctrl + Super + H: Mostra esta lista de atalhos
+Super + Shift + P: Seletor de cores
+Super + Ctrl + Shift + P: Tira print da tela e copia
+
+FOCO E MOVIMENTAÇÃO DE JANELAS
+Super + Setas (ou H, J, K, L): Move o foco entre as janelas
+Super + A: Move o foco para o contêiner pai
+Super + Shift + Setas (ou H, J, K, L): Move a janela na direção correspondente
+
+ÁREAS DE TRABALHO
+Super + [1-0]: Muda para a área de trabalho específica
+Super + Shift + [1-0]: Move a janela atual para a área de trabalho específica
+
+LAYOUTS E VISUALIZAÇÃO
+Super + B: Divide a janela atual horizontalmente
+Super + V: Divide a janela atual verticalmente
+Super + S: Altera o layout para empilhado
+Super + W: Altera o layout para abas
+Super + E: Alterna a divisão do layout
+Super + F: Alterna tela cheia (Fullscreen)
+Super + Shift + Espaço: Alterna a janela entre lado-a-lado e flutuante
+Super + Espaço: Alterna o foco entre janelas lado-a-lado e flutuantes
+
+SCRATCHPAD (ÁREA OCULTA)
+Super + Shift + Menos (-): Envia a janela em foco para o scratchpad
+Super + Menos (-): Alterna entre as janelas ocultas no scratchpad
+
+REDIMENSIONAMENTO
+Super + R: Entra no modo de redimensionamento
+Setas (ou H, J, K, L): Encolhe ou aumenta a janela (no modo resize)
+Enter ou Esc: Sai do modo de redimensionamento
+
+CONTROLE DO MOUSE (WARPD)
+Super + Shift + W: Modo Hint (teclado para clicar)
+Super + Alt + C: Modo Normal (teclado para mover)
+Super + Alt + G: Modo Grid (teclado para navegar em grade)
+
+AÇÕES DO MOUSE
+Super + Botão Esquerdo: Arrastar janelas flutuantes
+Super + Botão Direito: Redimensionar janelas flutuantes
+

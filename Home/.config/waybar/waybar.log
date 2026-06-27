@@ -1,0 +1,13 @@
+[2026-06-03 10:37:23.481] [info] Using configuration file /home/efzevios/.config/waybar/config
+[2026-06-03 10:37:23.484] [info] Discovered appearance 'dark'
+[2026-06-03 10:37:23.484] [info] Using CSS file /home/efzevios/.config/waybar/style.css
+[2026-06-03 10:37:23.499] [warning] No batteries.
+[2026-06-03 10:37:23.516] [warning] No batteries.
+[2026-06-03 10:37:23.527] [info] Bar configured (width: 1920, height: 21) for output: DP-1
+[2026-06-03 10:37:23.528] [info] Bar configured (width: 1920, height: 21) for output: HDMI-A-1
+[2026-06-03 10:37:23.546] [warning] Requested height: 21 is less than the minimum height: 22 required by the modules
+[2026-06-03 10:37:23.546] [info] Bar configured (width: 1920, height: 22) for output: HDMI-A-1
+[2026-06-03 10:37:23.547] [error] Item '': No icon name or pixmap given.
+[2026-06-03 10:37:23.549] [warning] Requested height: 21 is less than the minimum height: 22 required by the modules
+[2026-06-03 10:37:23.549] [info] Bar configured (width: 1920, height: 22) for output: DP-1
+[2026-06-03 10:37:23.549] [error] Item '': No icon name or pixmap given.

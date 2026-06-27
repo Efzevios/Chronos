@@ -1,0 +1,64 @@
+#!/bin/bash
+FILE="$1"
+if [ -z "$FILE" ]; then
+    exit 1
+fi
+
+# Get list of .desktop files and their names
+DESKTOP_FILES=(/usr/share/applications/*.desktop ~/.local/share/applications/*.desktop /var/lib/flatpak/exports/share/applications/*.desktop ~/.local/share/flatpak/exports/share/applications/*.desktop)
+APPS=""
+for f in "${DESKTOP_FILES[@]}"; do
+    if [ -f "$f" ]; then
+        if grep -q "^NoDisplay=true" "$f"; then
+            continue
+        fi
+        name=$(awk -F'=' '/^Name=/{print $2; exit}' "$f")
+        exec_cmd=$(awk -F'=' '/^Exec=/{print $2; exit}' "$f")
+        icon=$(awk -F'=' '/^Icon=/{print $2; exit}' "$f")
+        if [ -n "$name" ] && [ -n "$exec_cmd" ]; then
+            APPS+="${name}|${icon}|${f}\n"
+        fi
+    fi
+done
+
+# Deduplicate and sort
+APPS=$(echo -e "$APPS" | sort -u -t'|' -k1,1 | grep -v "^|")
+
+ROFI_INPUT=""
+while IFS='|' read -r name icon f; do
+    if [ -z "$name" ]; then continue; fi
+    if [ -n "$icon" ]; then
+        ROFI_INPUT+="${name}\0icon\x1f${icon}\n"
+    else
+        ROFI_INPUT+="${name}\n"
+    fi
+done <<< "$APPS"
+
+FILENAME=$(basename "$FILE")
+
+CHOSEN_NAME=$(echo -e "$ROFI_INPUT" | rofi -dmenu -i \
+    -theme ~/.config/rofi/theme.rasi \
+    -theme-str "textbox-header { content: \"󰀻 Abrir: $FILENAME\"; }" \
+    -theme-str "textbox-search { content: \" \"; }" \
+    -theme-str "entry { placeholder: \"Selecione o aplicativo...\"; }" \
+    -theme-str "textbox-hints { content: \"↑↓ nav  ↵ confirmar  Esc cancelar\"; }" \
+    -theme-str "mode-switcher { enabled: false; }" \
+    -theme-str "window { height: 500px; }")
+
+if [ -z "$CHOSEN_NAME" ]; then
+    exit 1
+fi
+
+CHOSEN_FILE=$(echo "$APPS" | grep -F "$CHOSEN_NAME|" | head -n 1 | awk -F'|' '{print $3}')
+
+if [ -n "$CHOSEN_FILE" ]; then
+    app_id=$(basename "$CHOSEN_FILE" .desktop)
+    if ! gtk-launch "$app_id" "$FILE" 2>/dev/null; then
+        if grep -q "flatpak run" "$CHOSEN_FILE"; then
+            flatpak run "$app_id" "$FILE" &
+        else
+            cmd=$(awk -F'=' '/^Exec=/{print $2; exit}' "$CHOSEN_FILE" | sed -E 's/%[uUfF]//g')
+            eval "$cmd \"$FILE\"" &
+        fi
+    fi
+fi

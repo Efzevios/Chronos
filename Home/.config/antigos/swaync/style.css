@@ -1,0 +1,166 @@
+* {
+    font-family: monospace;
+    font-size: 11px;
+}
+
+.control-center .notification-row:focus,
+.control-center .notification-row:hover {
+    opacity: 1;
+    background: #282828;
+}
+
+.notification-row {
+    outline: none;
+    margin: 0px;
+    padding: 0px;
+}
+
+.notification {
+    background: #181818;
+    color: #eeeeee;
+    padding: 10px;
+    margin: 10px 15px 0 15px;
+    border: 2px solid #282828;
+    border-radius: 6px;
+}
+
+.notification.critical {
+    border-color: #dd5555;
+}
+
+.notification-content {
+    background: transparent;
+    padding: 0;
+    border-radius: 0;
+}
+
+.close-button {
+    background: #282828;
+    color: #eeeeee;
+    text-shadow: none;
+    padding: 0;
+    border-radius: 6px;
+    margin-top: 5px;
+    margin-right: 5px;
+}
+
+.close-button:hover {
+    box-shadow: none;
+    background: #dd5555;
+    transition: all .15s ease-in-out;
+    border: none;
+}
+
+.notification-action {
+    border: 2px solid #282828;
+    border-top: none;
+    border-radius: 6px;
+}
+
+.notification-default-action {
+    margin: 0;
+    padding: 0;
+    border-radius: 6px;
+}
+
+.inline-reply {
+    margin-top: 8px;
+}
+
+.inline-reply-entry {
+    background: #282828;
+    color: #eeeeee;
+    caret-color: #eeeeee;
+    border: 2px solid #282828;
+    border-radius: 6px;
+}
+
+.inline-reply-button {
+    margin-left: 4px;
+    background: #282828;
+    border: 2px solid #282828;
+    border-radius: 6px;
+    color: #eeeeee;
+}
+
+.inline-reply-button:hover {
+    background: #181818;
+}
+
+.summary {
+    font-weight: bold;
+    font-size: 12px;
+}
+
+.time {
+    font-size: 10px;
+    color: #aaaaaa;
+}
+
+.body {
+    font-size: 11px;
+    color: #eeeeee;
+    font-weight: normal;
+}
+
+/* Control Center */
+.control-center {
+    background: #181818;
+    border: 2px solid #282828;
+    border-radius: 6px;
+    color: #eeeeee;
+}
+
+.control-center-list {
+    background: transparent;
+}
+
+.control-center-list-placeholder {
+    opacity: 0.5;
+}
+
+.control-center-list-empty {
+    opacity: 0.5;
+}
+
+.widget-title {
+    color: #eeeeee;
+    background: transparent;
+    padding: 10px 15px;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.widget-title > button {
+    font-size: 12px;
+    color: #eeeeee;
+    text-shadow: none;
+    background: #282828;
+    border: 2px solid #282828;
+    border-radius: 6px;
+}
+
+.widget-title > button:hover {
+    background: #dd5555;
+    border-color: #dd5555;
+}
+
+.widget-dnd {
+    color: #eeeeee;
+    background: transparent;
+    padding: 10px 15px;
+}
+
+.widget-dnd > switch {
+    border-radius: 6px;
+    background: #282828;
+}
+
+.widget-dnd > switch:checked {
+    background: #eeeeee;
+}
+
+.widget-dnd > switch slider {
+    background: #181818;
+    border-radius: 6px;
+}

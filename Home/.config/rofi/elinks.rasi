@@ -1,0 +1,21 @@
+@import "~/.config/rofi/theme.rasi"
+
+window {
+    height: 250px;
+}
+
+mainbox {
+    children: [ "inputbar", "listview" ];
+}
+
+element-text {
+    horizontal-align: 0.5;
+}
+
+configuration {
+    show-icons: false;
+}
+
+element {
+    children: [ "dummy", "element-text", "dummy" ];
+}
