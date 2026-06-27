@@ -5,8 +5,8 @@ Configurações e scripts pessoais do Sway (dotfiles).
 ## 📸 Capturas de Tela
 
 <div align="center">
-  <img src="/home/efzevios/Imagens/área-de-trabalho.png" width="45%" alt="Área de trabalho" />
-  <img src="/home/efzevios/Imagens/área-de-trabalho-composição.png" width="45%" alt="Área de trabalho - Composição" />
+  <img src="/Imagens/área-de-trabalho.png" width="45%" alt="Área de trabalho" />
+  <img src="/Imagens/área-de-trabalho-composição.png" width="45%" alt="Área de trabalho - Composição" />
 </div>
 
 ## 📦 Softwares Principais
