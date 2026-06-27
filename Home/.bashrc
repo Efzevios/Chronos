@@ -117,17 +117,20 @@ fi
 # =================
 # Pessoal
 # =================
-# 1.
+
+## Fastfetch
 fastfetch -c ~/.config/Fastfetch/config.jsonc
-# 2.
+
+## Oh-my-posh
 eval "$(~/.local/bin/oh-my-posh init bash --config ~/.config/oh-my-posh/swayfx/swayfx.json)"
 
+## Spicetify
 export PATH=$PATH:$HOME/.spicetify
 
-# Created by `pipx` on 2026-04-26 19:26:52
+## Pipx
 export PATH="$PATH:$HOME/.local/bin"
 . "$HOME/.cargo/env"
 
-
-# Added by Antigravity CLI installer
-export PATH="$HOME/.local/bin:$PATH"
+## Tema QT
+export QT_QPA_PLATFORMTHEME=qt5ct
+export QT_AUTO_SCREEN_SCALE_FACTOR=1
