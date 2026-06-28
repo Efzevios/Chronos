@@ -48,5 +48,3 @@ export QT_QPA_PLATFORMTHEME="qt5ct"
 export QT_QUICK_CONTROLS_STYLE="org.kde.desktop"
 export GTK_THEME="Graphite-Dark"
 
-# Gtt
-export PATH=$PATH:$HOME/go/bin

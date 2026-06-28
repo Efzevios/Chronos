@@ -1,0 +1,27 @@
+destination:
+    border_color: gray
+    language:
+        apertium: English
+        bing: English
+        chatgpt: English
+        deepl: English
+        deeplx: English
+        google: English
+        libre: English
+        reverso: English
+hide_below: false
+osc52: false
+source:
+    border_color: gray
+    language:
+        apertium: English
+        bing: English
+        chatgpt: English
+        deepl: English
+        deeplx: English
+        google: English
+        libre: English
+        reverso: English
+theme: foot_cinza
+translator: Google
+transparent: true
