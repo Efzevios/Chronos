@@ -38,9 +38,15 @@ if [ "$(tty)" = "/dev/tty1" ]; then
     fi
 fi
 
-# Created by `pipx` on 2026-04-26 19:26:52
+# Pipx
 export PATH="$PATH:$HOME/.local/bin"
 
 
-# Added by Antigravity CLI installer
+# QT
 export PATH="$HOME/.local/bin:$PATH"
+export QT_QPA_PLATFORMTHEME="qt5ct"
+export QT_QUICK_CONTROLS_STYLE="org.kde.desktop"
+export GTK_THEME="Graphite-Dark"
+
+# Gtt
+export PATH=$PATH:$HOME/go/bin
