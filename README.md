@@ -35,6 +35,7 @@ Abaixo estão alguns projetos incríveis que recomendo e que complementam perfei
 * **[Orchis theme](https://github.com/vinceliuice/Orchis-theme)**
 
 ### TUI
+* **[Calcure](https://github.com/anufrievroman/calcure)**: calendário TUI. Caso queira sincronizá-lo com Google Calendário, usar o script em '~/Scripts/atuais/gcalendar/setup_calcure_sync.sh'.
 * **[Goanime](https://github.com/alvarorichard/GoAnime)**: buscador de animes.
 * **[Tldr](https://tldr.sh/)**: cola de comandos, "cheatsheets", colaborativo.
 * **[Noctavox](https://github.com/Jaxx497/NoctaVox)**: reprodutor local de músicas. Recomenda-se utilizar o tema swayfx.
