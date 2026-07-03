@@ -45,6 +45,7 @@ Abaixo estão alguns projetos incríveis que recomendo e que complementam perfei
 * **[Hygg](https://github.com/kruseio/hygg)**: leitor de documentos em interface TUI.
 * **[Helm](https://github.com/0xjuanma/helm)**: relógio pomodoro simples.
 * **[Awesome TUIs](https://github.com/rothgar/awesome-tuis/)**: paraíso dos projetos TUI.
+* **[Spotify-player](https://github.com/aome510/spotify-player)**: reprodutor de músicas do Spotify via terminal.
 
 ### Diversos
 * **[Spicetify](https://spicetify.app/)**: personalização do Spotify.
