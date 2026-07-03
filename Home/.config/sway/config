@@ -32,7 +32,7 @@ include /etc/sway/config-vars.d/*
 # Configura o monitor principal (DP-1) com resolução Full HD (1080p)
 output DP-1 resolution 1920x1080 position 0,0
 # Configura um monitor secundário (HDMI-A-1) com resolução 1366x768 posicionado fisicamente acima do principal
-output HDMI-A-1 resolution 1366x768 position 0,-2000
+output HDMI-A-1 resolution 1366x768 position 1920,0
 # Define o papel de parede para todos os monitores, preenchendo a tela
 output * bg ~/.config/ascii.png fill
 

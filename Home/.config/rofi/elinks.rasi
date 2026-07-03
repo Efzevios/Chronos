@@ -1,7 +1,11 @@
 @import "~/.config/rofi/theme.rasi"
 
 window {
-    height: 250px;
+    height: 130px;
+}
+
+listview {
+    lines: 1;
 }
 
 mainbox {
