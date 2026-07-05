@@ -9,7 +9,7 @@ sudo apt-get install -y curl wget git meson ninja-build cmake pkg-config build-e
     wayland-protocols libwayland-dev libstartup-notification0-dev libxcb-randr0-dev \
     libxcb-xinerama0-dev libxcb-cursor-dev libxcb-ewmh-dev libxcb-icccm4-dev libxcb-xrm-dev \
     libx11-xcb-dev libmpdclient-dev libjpeg-dev check libxcb-xkb-dev libxkbcommon-x11-dev \
-    libxcb-keysyms1-dev libasound2-dev flex bison libpango1.0-dev libglib2.0-dev libgdk-pixbuf2.0-dev unzip fontconfig
+    libxcb-keysyms1-dev w3m w3m-el w3m-img elinks libasound2-dev flex bison libpango1.0-dev libglib2.0-dev libgdk-pixbuf2.0-dev unzip fontconfig
 
 echo "[*] Baixando Fontes (Inter e Nerd Fonts)..."
 mkdir -p ~/.local/share/fonts

@@ -379,7 +379,7 @@ exec_always sh -c 'pkill waybar; sleep 1; env LC_ALL="pt_BR.utf8" waybar'
 # ==========================================
 # Busca Rápida com Rofi e Elinks
 # ==========================================
-for_window [app_id="flutuante-elinks"] floating enable, resize set 800 600, move position center
+for_window [app_id="flutuante-elinks"] floating enable, resize set 1200 800, move position center
 bindsym Mod4+Mod1+p exec /home/efzevios/.local/bin/rofi-elinks.sh
 
 
