@@ -1,0 +1,23 @@
+[general]
+cancellation_status_code=0
+
+[mode_tile]
+label_color=#e2e2e2ff
+label_select_color=#ffb4abff
+unselectable_bg_color=#00000000
+selectable_bg_color=#1f1f1fcc
+selectable_border_color=#e2e2e2ff
+label_font_family=DejaVu Sans Mono
+label_font_size=13 50% 50%
+label_symbols=abcdefghijklmnopqrstuvwxyz
+
+[mode_floating]
+source=detect
+label_color=#e2e2e2ff
+label_select_color=#ffb4abff
+unselectable_bg_color=#00000000
+selectable_bg_color=#1f1f1fcc
+selectable_border_color=#e2e2e2ff
+label_font_family=DejaVu Sans Mono
+label_font_size=13 50% 50%
+label_symbols=abcdefghijklmnopqrstuvwxyz
