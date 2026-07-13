@@ -351,14 +351,49 @@ bindsym --locked XF86MonBrightnessDown exec brightnessctl set 5%-
 # Aumenta o brilho da tela em 5% mesmo com a tela bloqueada
 bindsym --locked XF86MonBrightnessUp exec brightnessctl set 5%+
 
-# Mouse acionado pelo teclado (Warpd)
+# Mouse acionado pelo teclado (wl-kbptr - Substituição do Warpd)
 
-# Inicia o Warpd no modo 'hint' mostrando letras na tela
-bindsym Mod4+Shift+w exec warpd --hint
-# Inicia o Warpd em modo normal
-bindsym Mod4+Mod1+c exec warpd --normal
-# Inicia o Warpd no modo 'grid' (grade)
-bindsym Mod4+Mod1+g exec warpd --grid
+# Inicia o wl-kbptr no modo 'hint' (flutuante)
+bindsym Mod4+Shift+w exec wl-kbptr -o modes=floating','click -o mode_floating.source=detect
+# Inicia o wl-kbptr no modo 'grid' (grade)
+bindsym Mod4+Mod1+g exec wl-kbptr -o modes=tile','click
+
+# Inicia o wl-kbptr em modo normal de movimentação contínua
+bindsym Mod4+Mod1+c mode "Mouse"
+
+# Modo "Mouse" que replica o comportamento interno do Warpd
+mode "Mouse" {
+    # --- Saída (Enter do Numpad ou Esc) ---
+    bindsym KP_Enter mode default
+    bindsym Escape mode default
+
+    # --- Movimento Contínuo (Numpad 8, 2, 4, 6) ---
+    # Ajuste o valor '20' se quiser que o mouse ande mais rápido ou devagar.
+    bindsym KP_Up seat seat0 cursor move 0 -20
+    bindsym KP_Down seat seat0 cursor move 0 20
+    bindsym KP_Left seat seat0 cursor move -20 0
+    bindsym KP_Right seat seat0 cursor move 20 0
+
+    # --- Cliques (Numpad 7, Delete, 9) ---
+    # Esquerdo (7) = KP_Home
+    bindsym KP_Home seat seat0 cursor press button1
+    bindsym --release KP_Home seat seat0 cursor release button1
+
+    # Meio (.) = KP_Delete
+    bindsym KP_Delete seat seat0 cursor press button2
+    bindsym --release KP_Delete seat seat0 cursor release button2
+
+    # Direito (9) = KP_Page_Up
+    bindsym KP_Page_Up seat seat0 cursor press button3
+    bindsym --release KP_Page_Up seat seat0 cursor release button3
+
+    # --- Atalhos Rápidos para Hint/Grid de dentro do Modo ---
+    # 5 do Numpad (KP_Begin) ativa a Grade (Grid)
+    bindsym KP_Begin mode default, exec wl-kbptr -o modes=tile','click
+    
+    # Espaço ativa a Hint (Floating)
+    bindsym space mode default, exec wl-kbptr -o modes=floating','click -o mode_floating.source=detect
+}
 
 # Inclui scripts ou regras extras localizados no diretório /etc/sway/config.d/
 include /etc/sway/config.d/*

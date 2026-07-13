@@ -51,12 +51,9 @@ Super + R: Entra no modo de redimensionamento
 Setas (ou H, J, K, L): Encolhe ou aumenta a janela (no modo resize)
 Enter ou Esc: Sai do modo de redimensionamento
 
-CONTROLE DO MOUSE (WARPD)
+CONTROLE DO MOUSE (WL-KBPTR)
 Super + Shift + W: Modo Hint (teclado para clicar)
 Super + Alt + C: Modo Normal (teclado para mover)
 Super + Alt + G: Modo Grid (teclado para navegar em grade)
-
-AÇÕES DO MOUSE
-Super + Botão Esquerdo: Arrastar janelas flutuantes
-Super + Botão Direito: Redimensionar janelas flutuantes
+ - Ao ativar o controle de mouse via teclado, o teclado numérico poderá controlar o mouse
 
