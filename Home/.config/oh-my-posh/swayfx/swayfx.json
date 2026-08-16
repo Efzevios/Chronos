@@ -57,7 +57,7 @@
       "newline": true,
       "segments": [
         {
-          "foreground": "#B3B3B3",
+          "foreground": "#777777",
           "options": {
             "folder_icon": "",
             "home_icon": "home",
@@ -68,7 +68,7 @@
           "type": "path"
         },
         {
-          "foreground": "#808080",
+          "foreground": "#777777",
           "foreground_templates": [
             "{{ if gt .Code 0 }}#D32F2F{{ end }}"
           ],
