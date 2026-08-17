@@ -19,8 +19,11 @@ set $right l
 set $term foot
 # Define o comando para abrir o menu de aplicativos (rofi-launcher)
 set $menu ~/.local/bin/rofi-launcher
-# Define o esquema do GNOME para facilitar a configuração de temas (GTK)
+# Define o esquema do GNOME para facilitar a configuração de temas (GTK) e usa tema Graphite como padrão
 set $gnome-schema org.gnome.desktop.interface
+exec_always {
+    gsettings set org.gnome.desktop.interface gtk-theme 'Graphite'
+}
 
 # Inclui configurações adicionais de variáveis localizadas neste diretório.
 include /etc/sway/config-vars.d/*
