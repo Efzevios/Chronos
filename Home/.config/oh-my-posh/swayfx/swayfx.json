@@ -60,7 +60,7 @@
           "foreground": "#777777",
           "options": {
             "folder_icon": "",
-            "home_icon": "home",
+            "home_icon": "~/",
             "style": "agnoster_full"
           },
           "style": "diamond",
